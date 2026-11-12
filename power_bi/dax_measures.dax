@@ -1,0 +1,92 @@
+// =====================================================================
+// DAX MEASURES  -  RFM Customer Segmentation Dashboard
+// Tables:  clean_transactions (fact)   rfm_customers (customer dimension)   DateTable
+// Create each measure: Home > New measure, paste, press Enter.
+// =====================================================================
+
+// ---------- KPIs ----------
+Total Revenue = SUM ( clean_transactions[TotalSales] )
+
+Total Customers = DISTINCTCOUNT ( clean_transactions[CustomerID] )
+
+Total Orders = DISTINCTCOUNT ( clean_transactions[InvoiceNo] )
+
+Average Order Value = DIVIDE ( [Total Revenue], [Total Orders], 0 )
+
+Avg Orders per Customer = DIVIDE ( [Total Orders], [Total Customers], 0 )
+
+Revenue per Customer = DIVIDE ( [Total Revenue], [Total Customers], 0 )
+
+// ---------- Segment measures (use rfm_customers) ----------
+Segment Customers = COUNTROWS ( rfm_customers )
+
+Segment Revenue = SUM ( rfm_customers[Monetary] )
+
+Customer % of Total =
+DIVIDE (
+    [Segment Customers],
+    CALCULATE ( [Segment Customers], ALL ( rfm_customers[Segment] ) )
+)
+
+Revenue % of Total =
+DIVIDE (
+    [Segment Revenue],
+    CALCULATE ( [Segment Revenue], ALL ( rfm_customers[Segment] ) )
+)
+
+Avg Recency (Days) = AVERAGE ( rfm_customers[Recency] )
+Avg Frequency      = AVERAGE ( rfm_customers[Frequency] )
+Avg Monetary       = AVERAGE ( rfm_customers[Monetary] )
+
+At Risk Customers =
+CALCULATE (
+    COUNTROWS ( rfm_customers ),
+    rfm_customers[Segment] IN { "At Risk", "Cannot Lose Them" }
+)
+
+At Risk Revenue =
+CALCULATE (
+    SUM ( rfm_customers[Monetary] ),
+    rfm_customers[Segment] IN { "At Risk", "Cannot Lose Them" }
+)
+
+// ---------- Time intelligence (needs DateTable marked as date table) ----------
+Revenue Last Month =
+CALCULATE ( [Total Revenue], DATEADD ( DateTable[Date], -1, MONTH ) )
+
+Revenue MoM % =
+DIVIDE ( [Total Revenue] - [Revenue Last Month], [Revenue Last Month] )
+
+Revenue YTD = TOTALYTD ( [Total Revenue], DateTable[Date] )
+
+// ---------- Helper: sort order for segments (create as CALCULATED COLUMN in rfm_customers) ----------
+Segment Sort =
+SWITCH (
+    rfm_customers[Segment],
+    "Champions", 1,
+    "Loyal Customers", 2,
+    "Potential Loyalists", 3,
+    "New Customers", 4,
+    "Need Attention", 5,
+    "At Risk", 6,
+    "Cannot Lose Them", 7,
+    "Hibernating", 8
+)
+
+// ---------- Calculated TABLE: Date table (Modeling > New table) ----------
+DateTable =
+ADDCOLUMNS (
+    CALENDAR ( DATE ( 2010, 12, 1 ), DATE ( 2011, 12, 31 ) ),
+    "Year", YEAR ( [Date] ),
+    "Month Number", MONTH ( [Date] ),
+    "Month", FORMAT ( [Date], "MMM yyyy" ),
+    "Month Sort", YEAR ( [Date] ) * 100 + MONTH ( [Date] )
+)
+
+// ---------- Dynamic card title (optional, nice touch) ----------
+Selected Segment Title =
+IF (
+    ISFILTERED ( rfm_customers[Segment] ),
+    "Segment: " & CONCATENATEX ( VALUES ( rfm_customers[Segment] ), rfm_customers[Segment], ", " ),
+    "All Segments"
+)

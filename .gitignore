@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+# Real UCI file is ~23 MB: download it yourself instead of committing it
+data/Online Retail.xlsx
+*.pbix.bak

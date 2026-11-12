@@ -1,0 +1,2997 @@
+CustomerID,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,RFM_Total,Segment,Country
+12347,289,1,381.6,1,1,3,113,5,Hibernating,United Kingdom
+12348,273,1,33.48,1,1,1,111,3,Hibernating,Spain
+12349,216,6,431.8,2,4,3,243,9,At Risk,United Kingdom
+12350,248,3,810.32,1,3,4,134,8,At Risk,United Kingdom
+12351,43,2,483.7,4,2,3,423,9,Potential Loyalists,United Kingdom
+12352,8,26,3871.48,5,5,5,555,15,Champions,United Kingdom
+12353,184,7,1431.97,2,4,5,245,11,At Risk,United Kingdom
+12354,308,1,125.25,1,1,2,112,4,Hibernating,United Kingdom
+12355,229,2,91.97,1,2,1,121,4,Hibernating,United Kingdom
+12356,131,1,226.57,3,1,2,312,6,Need Attention,United Kingdom
+12357,185,5,473.55,2,3,3,233,8,At Risk,United Kingdom
+12358,196,8,1175.71,2,4,4,244,10,At Risk,EIRE
+12359,223,3,519.98,2,3,3,233,8,At Risk,Spain
+12360,210,6,494.68,2,4,3,243,9,At Risk,United Kingdom
+12361,119,3,401.3,3,3,3,333,9,Need Attention,United Kingdom
+12362,239,3,158.54,1,3,2,132,6,At Risk,United Kingdom
+12363,53,2,132.44,4,2,2,422,8,Potential Loyalists,United Kingdom
+12364,56,9,1385.64,4,4,5,445,13,Champions,United Kingdom
+12365,47,2,835.99,4,2,4,424,10,Potential Loyalists,United Kingdom
+12366,274,1,19.87,1,1,1,111,3,Hibernating,United Kingdom
+12367,37,9,1002.37,4,4,4,444,12,Champions,United Kingdom
+12368,9,2,114.58,5,2,2,522,9,Potential Loyalists,United Kingdom
+12369,24,29,3835.57,5,5,5,555,15,Champions,United Kingdom
+12370,143,11,867.84,3,4,4,344,11,Loyal Customers,United Kingdom
+12371,44,8,437.95,4,4,3,443,11,Champions,Portugal
+12372,250,5,173.84,1,3,2,132,6,At Risk,United Kingdom
+12373,162,14,2138.67,2,5,5,255,12,Cannot Lose Them,United Kingdom
+12374,277,3,307.66,1,3,3,133,7,At Risk,Spain
+12375,333,2,107.05,1,2,2,122,5,Hibernating,Germany
+12376,38,1,43.04,4,1,1,411,6,New Customers,United Kingdom
+12377,76,6,525.27,3,4,3,343,10,Loyal Customers,United Kingdom
+12378,67,2,88.31,3,2,1,321,6,Need Attention,United Kingdom
+12379,94,3,442.15,3,3,3,333,9,Need Attention,United Kingdom
+12380,160,7,1855.67,2,4,5,245,11,At Risk,United Kingdom
+12381,36,1,119.87,4,1,2,412,7,New Customers,United Kingdom
+12382,42,8,1434.46,4,4,5,445,13,Champions,United Kingdom
+12383,79,6,1383.85,3,4,5,345,12,Loyal Customers,United Kingdom
+12384,87,2,805.77,3,2,4,324,9,Need Attention,United Kingdom
+12385,52,14,1905.59,4,5,5,455,14,Champions,United Kingdom
+12386,103,2,69.75,3,2,1,321,6,Need Attention,United Kingdom
+12387,103,1,190.51,3,1,2,312,6,Need Attention,United Kingdom
+12388,278,1,132.87,1,1,2,112,4,Hibernating,United Kingdom
+12389,25,15,2232.09,5,5,5,555,15,Champions,United Kingdom
+12390,56,10,1667.16,4,4,5,445,13,Champions,United Kingdom
+12391,67,4,433.19,3,3,3,333,9,Need Attention,United Kingdom
+12392,11,1,348.37,5,1,3,513,9,New Customers,United Kingdom
+12393,72,9,534.29,3,4,3,343,10,Loyal Customers,United Kingdom
+12394,291,2,244.23,1,2,2,122,5,Hibernating,United Kingdom
+12395,309,1,26.0,1,1,1,111,3,Hibernating,United Kingdom
+12396,225,5,293.3,2,3,3,233,8,At Risk,United Kingdom
+12397,50,12,879.16,4,4,4,444,12,Champions,United Kingdom
+12398,320,3,401.33,1,3,3,133,7,At Risk,United Kingdom
+12399,76,2,92.2,3,2,1,321,6,Need Attention,United Kingdom
+12400,4,2,157.45,5,2,2,522,9,Potential Loyalists,United Kingdom
+12401,184,9,1173.47,2,4,4,244,10,At Risk,United Kingdom
+12402,267,3,260.15,1,3,3,133,7,At Risk,United Kingdom
+12403,39,14,1351.04,4,5,5,455,14,Champions,United Kingdom
+12404,14,12,3414.28,5,4,5,545,14,Champions,United Kingdom
+12405,209,10,529.76,2,4,3,243,9,At Risk,United Kingdom
+12406,186,6,922.88,2,4,4,244,10,At Risk,United Kingdom
+12407,205,19,2064.66,2,5,5,255,12,Cannot Lose Them,United Kingdom
+12408,24,12,2444.94,5,4,5,545,14,Champions,United Kingdom
+12409,36,14,1207.48,4,5,4,454,13,Champions,United Kingdom
+12410,143,3,433.21,3,3,3,333,9,Need Attention,United Kingdom
+12411,16,1,53.37,5,1,1,511,7,New Customers,United Kingdom
+12412,12,2,275.68,5,2,3,523,10,Potential Loyalists,United Kingdom
+12413,29,1,68.7,4,1,1,411,6,New Customers,United Kingdom
+12414,200,5,395.32,2,3,3,233,8,At Risk,United Kingdom
+12415,28,16,1406.65,4,5,5,455,14,Champions,France
+12416,98,3,137.45,3,3,2,332,8,Need Attention,United Kingdom
+12417,218,7,820.22,2,4,4,244,10,At Risk,United Kingdom
+12418,368,1,67.68,1,1,1,111,3,Hibernating,United Kingdom
+12419,18,1,102.94,5,1,2,512,8,New Customers,France
+12420,183,8,536.53,2,4,3,243,9,At Risk,United Kingdom
+12421,79,3,220.25,3,3,2,332,8,Need Attention,United Kingdom
+12422,98,3,1021.29,3,3,4,334,10,Need Attention,United Kingdom
+12423,27,1,64.2,5,1,1,511,7,New Customers,United Kingdom
+12424,24,2,128.05,5,2,2,522,9,Potential Loyalists,United Kingdom
+12425,32,1,137.95,4,1,2,412,7,New Customers,United Kingdom
+12426,74,8,979.09,3,4,4,344,11,Loyal Customers,United Kingdom
+12427,225,3,58.58,2,3,1,231,6,At Risk,United Kingdom
+12428,87,4,1066.43,3,3,4,334,10,Need Attention,United Kingdom
+12429,259,1,105.71,1,1,2,112,4,Hibernating,United Kingdom
+12431,254,1,153.0,1,1,2,112,4,Hibernating,United Kingdom
+12432,252,1,31.1,1,1,1,111,3,Hibernating,United Kingdom
+12433,29,2,201.55,4,2,2,422,8,Potential Loyalists,United Kingdom
+12434,12,2,60.35,5,2,1,521,8,Potential Loyalists,EIRE
+12435,14,2,86.99,5,2,1,521,8,Potential Loyalists,United Kingdom
+12436,193,6,432.2,2,4,3,243,9,At Risk,United Kingdom
+12437,22,25,4210.98,5,5,5,555,15,Champions,United Kingdom
+12438,26,30,1673.63,5,5,5,555,15,Champions,Netherlands
+12439,31,1,11.83,4,1,1,411,6,New Customers,United Kingdom
+12440,230,7,1224.46,1,4,4,144,9,At Risk,United Kingdom
+12441,54,1,59.74,4,1,1,411,6,New Customers,United Kingdom
+12442,16,2,511.8,5,2,3,523,10,Potential Loyalists,United Kingdom
+12443,20,12,692.95,5,4,4,544,13,Champions,United Kingdom
+12444,241,2,54.14,1,2,1,121,4,Hibernating,Belgium
+12445,306,2,868.71,1,2,4,124,7,Hibernating,United Kingdom
+12446,202,10,1108.72,2,4,4,244,10,At Risk,United Kingdom
+12447,194,12,1610.26,2,4,5,245,11,At Risk,United Kingdom
+12448,41,21,1840.77,4,5,5,455,14,Champions,United Kingdom
+12449,268,1,234.25,1,1,2,112,4,Hibernating,United Kingdom
+12450,181,10,571.68,2,4,4,244,10,At Risk,United Kingdom
+12451,205,30,3710.33,2,5,5,255,12,Cannot Lose Them,United Kingdom
+12452,43,2,378.8,4,2,3,423,9,Potential Loyalists,United Kingdom
+12453,20,1,51.15,5,1,1,511,7,New Customers,United Kingdom
+12454,14,21,1876.81,5,5,5,555,15,Champions,United Kingdom
+12455,250,1,136.76,1,1,2,112,4,Hibernating,United Kingdom
+12456,43,9,1249.28,4,4,4,444,12,Champions,France
+12457,64,14,722.95,3,5,4,354,12,Loyal Customers,United Kingdom
+12458,161,5,820.47,2,3,4,234,9,At Risk,United Kingdom
+12459,16,1,178.64,5,1,2,512,8,New Customers,EIRE
+12460,219,1,11.2,2,1,1,211,4,Hibernating,United Kingdom
+12461,90,11,532.77,3,4,3,343,10,Loyal Customers,United Kingdom
+12462,27,2,465.01,5,2,3,523,10,Potential Loyalists,United Kingdom
+12463,25,16,1111.37,5,5,4,554,14,Champions,United Kingdom
+12464,186,28,3389.44,2,5,5,255,12,Cannot Lose Them,United Kingdom
+12465,246,2,581.61,1,2,4,124,7,Hibernating,United Kingdom
+12466,53,1,182.26,4,1,2,412,7,New Customers,United Kingdom
+12467,344,1,134.55,1,1,2,112,4,Hibernating,United Kingdom
+12468,330,2,149.95,1,2,2,122,5,Hibernating,United Kingdom
+12469,77,2,118.05,3,2,2,322,7,Need Attention,United Kingdom
+12470,230,1,30.65,1,1,1,111,3,Hibernating,United Kingdom
+12471,135,6,2213.71,3,4,5,345,12,Loyal Customers,United Kingdom
+12472,108,12,853.48,3,4,4,344,11,Loyal Customers,United Kingdom
+12473,198,5,815.74,2,3,4,234,9,At Risk,United Kingdom
+12474,111,6,462.39,3,4,3,343,10,Loyal Customers,United Kingdom
+12475,257,2,476.1,1,2,3,123,6,Hibernating,United Kingdom
+12476,48,1,46.45,4,1,1,411,6,New Customers,United Kingdom
+12477,53,9,647.04,4,4,4,444,12,Champions,United Kingdom
+12478,36,1,78.65,4,1,1,411,6,New Customers,United Kingdom
+12479,19,28,2670.92,5,5,5,555,15,Champions,United Kingdom
+12480,301,1,168.7,1,1,2,112,4,Hibernating,United Kingdom
+12481,45,2,201.15,4,2,2,422,8,Potential Loyalists,United Kingdom
+12482,114,2,520.45,3,2,3,323,8,Need Attention,United Kingdom
+12483,14,14,1674.61,5,5,5,555,15,Champions,United Kingdom
+12484,7,23,2733.86,5,5,5,555,15,Champions,United Kingdom
+12485,56,1,5.9,4,1,1,411,6,New Customers,United Kingdom
+12486,22,29,2412.81,5,5,5,555,15,Champions,United Kingdom
+12487,54,7,406.12,4,4,3,443,11,Champions,United Kingdom
+12488,14,2,138.65,5,2,2,522,9,Potential Loyalists,Spain
+12489,102,1,64.0,3,1,1,311,5,Need Attention,United Kingdom
+12490,296,1,312.1,1,1,3,113,5,Hibernating,United Kingdom
+12491,180,26,2196.1,2,5,5,255,12,Cannot Lose Them,United Kingdom
+12492,58,6,634.5,3,4,4,344,11,Loyal Customers,France
+12493,272,1,481.97,1,1,3,113,5,Hibernating,United Kingdom
+12494,214,7,1100.5,2,4,4,244,10,At Risk,United Kingdom
+12495,18,1,104.55,5,1,2,512,8,New Customers,United Kingdom
+12496,142,1,127.05,3,1,2,312,6,Need Attention,United Kingdom
+12497,22,11,624.08,5,4,4,544,13,Champions,United Kingdom
+12498,275,1,28.55,1,1,1,111,3,Hibernating,United Kingdom
+12499,207,5,225.18,2,3,2,232,7,At Risk,Germany
+12500,155,21,3810.14,2,5,5,255,12,Cannot Lose Them,United Kingdom
+12501,230,1,67.8,1,1,1,111,3,Hibernating,Germany
+12502,62,2,32.8,3,2,1,321,6,Need Attention,Switzerland
+12503,219,1,401.23,2,1,3,213,6,Hibernating,United Kingdom
+12504,1,2,235.65,5,2,2,522,9,Potential Loyalists,United Kingdom
+12505,23,19,4013.52,5,5,5,555,15,Champions,United Kingdom
+12506,222,3,644.78,2,3,4,234,9,At Risk,United Kingdom
+12507,206,9,2514.91,2,4,5,245,11,At Risk,United Kingdom
+12508,42,2,163.25,4,2,2,422,8,Potential Loyalists,United Kingdom
+12509,90,6,665.9,3,4,4,344,11,Loyal Customers,United Kingdom
+12510,23,1,45.8,5,1,1,511,7,New Customers,United Kingdom
+12511,55,8,1112.75,4,4,4,444,12,Champions,United Kingdom
+12512,350,1,3.75,1,1,1,111,3,Hibernating,United Kingdom
+12513,32,3,339.55,4,3,3,433,10,Loyal Customers,United Kingdom
+12514,163,1,169.91,2,1,2,212,5,Hibernating,United Kingdom
+12515,94,3,215.87,3,3,2,332,8,Need Attention,United Kingdom
+12516,39,14,1349.61,4,5,4,454,13,Champions,United Kingdom
+12517,40,10,1014.32,4,4,4,444,12,Champions,United Kingdom
+12518,257,3,187.86,1,3,2,132,6,At Risk,United Kingdom
+12519,20,2,135.7,5,2,2,522,9,Potential Loyalists,United Kingdom
+12520,27,1,32.73,5,1,1,511,7,New Customers,United Kingdom
+12521,37,1,182.5,4,1,2,412,7,New Customers,United Kingdom
+12522,194,27,1280.9,2,5,4,254,11,Cannot Lose Them,United Kingdom
+12523,50,2,61.77,4,2,1,421,7,Potential Loyalists,United Kingdom
+12524,18,26,4479.86,5,5,5,555,15,Champions,Germany
+12525,248,1,101.15,1,1,1,111,3,Hibernating,United Kingdom
+12526,185,2,275.65,2,2,3,223,7,Hibernating,United Kingdom
+12527,16,1,333.45,5,1,3,513,9,New Customers,United Kingdom
+12528,253,1,55.6,1,1,1,111,3,Hibernating,United Kingdom
+12529,48,3,304.3,4,3,3,433,10,Loyal Customers,United Kingdom
+12530,34,2,105.45,4,2,2,422,8,Potential Loyalists,United Kingdom
+12531,212,8,546.82,2,4,3,243,9,At Risk,EIRE
+12532,104,2,309.27,3,2,3,323,8,Need Attention,United Kingdom
+12533,32,1,9.9,4,1,1,411,6,New Customers,United Kingdom
+12534,49,2,66.86,4,2,1,421,7,Potential Loyalists,France
+12535,73,7,570.62,3,4,4,344,11,Loyal Customers,United Kingdom
+12536,343,1,43.77,1,1,1,111,3,Hibernating,France
+12537,319,3,407.95,1,3,3,133,7,At Risk,United Kingdom
+12538,36,1,171.85,4,1,2,412,7,New Customers,United Kingdom
+12539,46,2,74.5,4,2,1,421,7,Potential Loyalists,United Kingdom
+12540,17,2,206.99,5,2,2,522,9,Potential Loyalists,United Kingdom
+12541,210,3,185.21,2,3,2,232,7,At Risk,United Kingdom
+12542,36,10,833.34,4,4,4,444,12,Champions,United Kingdom
+12543,174,12,1160.18,2,4,4,244,10,At Risk,United Kingdom
+12544,166,1,5.42,2,1,1,211,4,Hibernating,United Kingdom
+12545,200,8,1446.52,2,4,5,245,11,At Risk,United Kingdom
+12546,7,29,6856.72,5,5,5,555,15,Champions,United Kingdom
+12547,270,1,19.0,1,1,1,111,3,Hibernating,United Kingdom
+12548,177,2,302.68,2,2,3,223,7,Hibernating,United Kingdom
+12549,2,2,105.85,5,2,2,522,9,Potential Loyalists,United Kingdom
+12550,30,12,1473.66,4,4,5,445,13,Champions,United Kingdom
+12551,197,5,200.75,2,3,2,232,7,At Risk,Germany
+12552,198,7,469.52,2,4,3,243,9,At Risk,United Kingdom
+12553,216,3,258.2,2,3,3,233,8,At Risk,Spain
+12554,177,11,1042.9,2,4,4,244,10,At Risk,United Kingdom
+12555,185,25,3980.72,2,5,5,255,12,Cannot Lose Them,United Kingdom
+12556,41,1,152.57,4,1,2,412,7,New Customers,France
+12557,249,2,191.15,1,2,2,122,5,Hibernating,United Kingdom
+12558,22,18,1199.09,5,5,4,554,14,Champions,Australia
+12559,18,1,135.6,5,1,2,512,8,New Customers,France
+12560,269,2,261.26,1,2,3,123,6,Hibernating,United Kingdom
+12561,176,2,171.55,2,2,2,222,6,Hibernating,United Kingdom
+12562,57,13,1548.93,3,5,5,355,13,Loyal Customers,United Kingdom
+12563,51,10,1176.59,4,4,4,444,12,Champions,United Kingdom
+12564,6,3,100.15,5,3,1,531,9,Loyal Customers,Switzerland
+12565,198,1,158.19,2,1,2,212,5,Hibernating,United Kingdom
+12566,222,5,550.84,2,3,3,233,8,At Risk,United Kingdom
+12567,143,5,777.96,3,3,4,334,10,Need Attention,France
+12568,166,9,356.89,2,4,3,243,9,At Risk,United Kingdom
+12569,21,20,1242.89,5,5,4,554,14,Champions,United Kingdom
+12570,202,2,199.81,2,2,2,222,6,Hibernating,United Kingdom
+12571,211,16,2109.98,2,5,5,255,12,Cannot Lose Them,United Kingdom
+12572,201,9,1721.93,2,4,5,245,11,At Risk,United Kingdom
+12573,134,11,1544.32,3,4,5,345,12,Loyal Customers,United Kingdom
+12574,69,1,207.7,3,1,2,312,6,Need Attention,United Kingdom
+12575,233,17,2006.77,1,5,5,155,11,Cannot Lose Them,United Kingdom
+12576,83,1,53.0,3,1,1,311,5,Need Attention,United Kingdom
+12577,25,2,115.45,5,2,2,522,9,Potential Loyalists,United Kingdom
+12578,223,29,3375.22,2,5,5,255,12,Cannot Lose Them,United Kingdom
+12579,200,1,77.7,2,1,1,211,4,Hibernating,United Kingdom
+12580,238,2,157.12,1,2,2,122,5,Hibernating,United Kingdom
+12581,14,2,106.16,5,2,2,522,9,Potential Loyalists,United Kingdom
+12582,130,5,417.93,3,3,3,333,9,Need Attention,United Kingdom
+12583,20,2,202.51,5,2,2,522,9,Potential Loyalists,United Kingdom
+12584,31,4,277.27,4,3,3,433,10,Loyal Customers,United Kingdom
+12585,16,10,665.2,5,4,4,544,13,Champions,United Kingdom
+12586,10,2,368.27,5,2,3,523,10,Potential Loyalists,United Kingdom
+12587,19,2,665.7,5,2,4,524,11,Potential Loyalists,Belgium
+12588,242,3,323.48,1,3,3,133,7,At Risk,United Kingdom
+12589,33,2,715.05,4,2,4,424,10,Potential Loyalists,United Kingdom
+12590,22,2,345.0,5,2,3,523,10,Potential Loyalists,United Kingdom
+12591,161,7,499.81,2,4,3,243,9,At Risk,United Kingdom
+12592,13,18,1355.13,5,5,5,555,15,Champions,United Kingdom
+12593,130,3,776.03,3,3,4,334,10,Need Attention,United Kingdom
+12594,57,13,1545.8,3,5,5,355,13,Loyal Customers,United Kingdom
+12595,42,4,305.18,4,3,3,433,10,Loyal Customers,United Kingdom
+12596,6,1,485.28,5,1,3,513,9,New Customers,United Kingdom
+12597,42,14,1906.29,4,5,5,455,14,Champions,Spain
+12598,224,1,62.7,2,1,1,211,4,Hibernating,United Kingdom
+12599,42,26,5047.21,4,5,5,455,14,Champions,United Kingdom
+12600,181,1,122.45,2,1,2,212,5,Hibernating,Spain
+12601,234,27,4689.69,1,5,5,155,11,Cannot Lose Them,United Kingdom
+12602,40,10,958.38,4,4,4,444,12,Champions,United Kingdom
+12603,152,11,1165.93,3,4,4,344,11,Loyal Customers,United Kingdom
+12604,183,12,3576.33,2,4,5,245,11,At Risk,United Kingdom
+12605,26,1,108.25,5,1,2,512,8,New Customers,United Kingdom
+12606,170,20,2232.8,2,5,5,255,12,Cannot Lose Them,Belgium
+12607,317,1,319.25,1,1,3,113,5,Hibernating,United Kingdom
+12608,169,12,1983.4,2,4,5,245,11,At Risk,United Kingdom
+12609,20,2,106.3,5,2,2,522,9,Potential Loyalists,United Kingdom
+12610,246,1,107.15,1,1,2,112,4,Hibernating,United Kingdom
+12611,288,2,103.25,1,2,2,122,5,Hibernating,United Kingdom
+12612,42,7,492.2,4,4,3,443,11,Champions,United Kingdom
+12613,173,1,56.01,2,1,1,211,4,Hibernating,United Kingdom
+12614,220,3,1056.72,2,3,4,234,9,At Risk,United Kingdom
+12615,254,1,67.64,1,1,1,111,3,Hibernating,Germany
+12616,52,3,189.99,4,3,2,432,9,Loyal Customers,United Kingdom
+12617,205,7,764.75,2,4,4,244,10,At Risk,United Kingdom
+12618,136,7,1602.0,3,4,5,345,12,Loyal Customers,United Kingdom
+12619,224,5,984.65,2,3,4,234,9,At Risk,United Kingdom
+12620,232,1,403.55,1,1,3,113,5,Hibernating,United Kingdom
+12621,19,2,133.75,5,2,2,522,9,Potential Loyalists,United Kingdom
+12622,198,22,1548.72,2,5,5,255,12,Cannot Lose Them,United Kingdom
+12623,213,3,908.45,2,3,4,234,9,At Risk,United Kingdom
+12624,176,3,316.82,2,3,3,233,8,At Risk,Spain
+12625,230,4,94.29,1,3,1,131,5,At Risk,United Kingdom
+12626,24,22,2563.71,5,5,5,555,15,Champions,United Kingdom
+12627,56,2,336.9,4,2,3,423,9,Potential Loyalists,United Kingdom
+12628,292,1,104.65,1,1,2,112,4,Hibernating,United Kingdom
+12629,219,5,321.13,2,3,3,233,8,At Risk,United Kingdom
+12630,25,1,76.25,5,1,1,511,7,New Customers,United Kingdom
+12631,62,1,49.85,3,1,1,311,5,Need Attention,United Kingdom
+12632,19,23,6287.03,5,5,5,555,15,Champions,United Kingdom
+12633,234,15,5836.93,1,5,5,155,11,Cannot Lose Them,United Kingdom
+12634,90,10,1446.01,3,4,5,345,12,Loyal Customers,Germany
+12635,12,1,143.3,5,1,2,512,8,New Customers,United Kingdom
+12636,321,1,215.47,1,1,2,112,4,Hibernating,United Kingdom
+12637,245,1,23.69,1,1,1,111,3,Hibernating,United Kingdom
+12638,105,8,373.15,3,4,3,343,10,Loyal Customers,United Kingdom
+12639,19,1,95.55,5,1,1,511,7,New Customers,United Kingdom
+12640,56,6,554.72,4,4,3,443,11,Champions,United Kingdom
+12641,64,6,696.62,3,4,4,344,11,Loyal Customers,Australia
+12642,92,6,378.59,3,4,3,343,10,Loyal Customers,United Kingdom
+12643,262,8,1479.46,1,4,5,145,10,At Risk,United Kingdom
+12644,224,17,3082.59,2,5,5,255,12,Cannot Lose Them,United Kingdom
+12645,232,1,92.9,1,1,1,111,3,Hibernating,United Kingdom
+12646,36,14,1535.14,4,5,5,455,14,Champions,United Kingdom
+12647,201,6,1133.54,2,4,4,244,10,At Risk,United Kingdom
+12648,14,16,3607.15,5,5,5,555,15,Champions,United Kingdom
+12649,70,4,474.12,3,3,3,333,9,Need Attention,United Kingdom
+12650,23,21,1992.88,5,5,5,555,15,Champions,United Kingdom
+12651,33,3,68.18,4,3,1,431,8,Loyal Customers,United Kingdom
+12652,312,2,316.47,1,2,3,123,6,Hibernating,United Kingdom
+12653,5,16,1112.79,5,5,4,554,14,Champions,United Kingdom
+12654,342,3,109.4,1,3,2,132,6,At Risk,Switzerland
+12655,50,8,466.0,4,4,3,443,11,Champions,United Kingdom
+12656,59,11,670.54,3,4,4,344,11,Loyal Customers,United Kingdom
+12657,100,2,557.55,3,2,3,323,8,Need Attention,United Kingdom
+12658,318,1,115.48,1,1,2,112,4,Hibernating,United Kingdom
+12659,63,3,315.27,3,3,3,333,9,Need Attention,United Kingdom
+12660,204,1,156.65,2,1,2,212,5,Hibernating,United Kingdom
+12661,14,27,1846.48,5,5,5,555,15,Champions,France
+12662,311,2,163.6,1,2,2,122,5,Hibernating,United Kingdom
+12663,23,2,164.24,5,2,2,522,9,Potential Loyalists,United Kingdom
+12664,77,14,4914.51,3,5,5,355,13,Loyal Customers,United Kingdom
+12665,18,7,893.46,5,4,4,544,13,Champions,United Kingdom
+12666,46,1,426.85,4,1,3,413,8,New Customers,France
+12667,29,3,726.59,4,3,4,434,11,Loyal Customers,United Kingdom
+12668,170,24,3060.41,2,5,5,255,12,Cannot Lose Them,United Kingdom
+12669,16,7,954.95,5,4,4,544,13,Champions,United Kingdom
+12670,155,9,775.62,2,4,4,244,10,At Risk,United Kingdom
+12671,253,26,1862.38,1,5,5,155,11,Cannot Lose Them,United Kingdom
+12672,188,16,2962.25,2,5,5,255,12,Cannot Lose Them,United Kingdom
+12673,162,7,1361.94,2,4,5,245,11,At Risk,United Kingdom
+12674,237,1,110.05,1,1,2,112,4,Hibernating,United Kingdom
+12675,223,2,150.55,2,2,2,222,6,Hibernating,United Kingdom
+12676,21,19,3647.75,5,5,5,555,15,Champions,Germany
+12677,173,5,864.96,2,3,4,234,9,At Risk,Portugal
+12678,15,10,502.08,5,4,3,543,12,Champions,United Kingdom
+12679,106,1,11.38,3,1,1,311,5,Need Attention,United Kingdom
+12680,31,24,2705.39,4,5,5,455,14,Champions,United Kingdom
+12681,148,11,1201.26,3,4,4,344,11,Loyal Customers,United Kingdom
+12682,20,11,1080.51,5,4,4,544,13,Champions,United Kingdom
+12683,320,3,346.48,1,3,3,133,7,At Risk,Germany
+12684,74,2,414.42,3,2,3,323,8,Need Attention,United Kingdom
+12685,60,4,470.93,3,3,3,333,9,Need Attention,United Kingdom
+12686,51,11,1025.34,4,4,4,444,12,Champions,Germany
+12687,267,1,64.85,1,1,1,111,3,Hibernating,United Kingdom
+12688,255,1,82.44,1,1,1,111,3,Hibernating,United Kingdom
+12689,48,3,385.65,4,3,3,433,10,Loyal Customers,United Kingdom
+12690,156,10,526.17,2,4,3,243,9,At Risk,United Kingdom
+12691,131,1,9.95,3,1,1,311,5,Need Attention,Switzerland
+12692,183,12,1739.33,2,4,5,245,11,At Risk,Spain
+12693,197,12,1126.15,2,4,4,244,10,At Risk,United Kingdom
+12694,24,29,3089.72,5,5,5,555,15,Champions,United Kingdom
+12695,192,16,1320.15,2,5,4,254,11,Cannot Lose Them,United Kingdom
+12696,223,1,13.9,2,1,1,211,4,Hibernating,Portugal
+12697,2,25,3096.94,5,5,5,555,15,Champions,United Kingdom
+12698,33,18,2020.8,4,5,5,455,14,Champions,Germany
+12699,177,10,629.65,2,4,4,244,10,At Risk,United Kingdom
+12700,230,1,35.3,1,1,1,111,3,Hibernating,United Kingdom
+12701,85,2,44.65,3,2,1,321,6,Need Attention,United Kingdom
+12702,236,5,1058.46,1,3,4,134,8,At Risk,United Kingdom
+12703,53,9,1461.43,4,4,5,445,13,Champions,United Kingdom
+12704,65,12,1289.69,3,4,4,344,11,Loyal Customers,United Kingdom
+12705,7,11,734.49,5,4,4,544,13,Champions,United Kingdom
+12706,19,2,104.1,5,2,2,522,9,Potential Loyalists,United Kingdom
+12707,76,10,541.82,3,4,3,343,10,Loyal Customers,EIRE
+12708,215,11,1455.77,2,4,5,245,11,At Risk,United Kingdom
+12709,180,8,1474.55,2,4,5,245,11,At Risk,Switzerland
+12710,174,20,1641.88,2,5,5,255,12,Cannot Lose Them,France
+12711,237,1,145.55,1,1,2,112,4,Hibernating,United Kingdom
+12712,17,2,441.09,5,2,3,523,10,Potential Loyalists,United Kingdom
+12713,170,11,2479.02,2,4,5,245,11,At Risk,Germany
+12714,319,2,83.2,1,2,1,121,4,Hibernating,United Kingdom
+12715,95,7,1118.48,3,4,4,344,11,Loyal Customers,United Kingdom
+12716,218,1,52.01,2,1,1,211,4,Hibernating,United Kingdom
+12717,225,24,1744.25,2,5,5,255,12,Cannot Lose Them,United Kingdom
+12718,149,2,83.11,3,2,1,321,6,Need Attention,United Kingdom
+12719,45,13,1619.93,4,5,5,455,14,Champions,United Kingdom
+12720,196,26,1868.54,2,5,5,255,12,Cannot Lose Them,United Kingdom
+12721,166,25,1581.57,2,5,5,255,12,Cannot Lose Them,United Kingdom
+12722,154,11,1330.54,3,4,4,344,11,Loyal Customers,United Kingdom
+12723,341,3,627.6,1,3,4,134,8,At Risk,United Kingdom
+12724,30,7,976.56,4,4,4,444,12,Champions,United Kingdom
+12725,48,1,159.9,4,1,2,412,7,New Customers,United Kingdom
+12726,49,3,167.42,4,3,2,432,9,Loyal Customers,United Kingdom
+12727,91,1,36.45,3,1,1,311,5,Need Attention,United Kingdom
+12728,368,1,150.44,1,1,2,112,4,Hibernating,France
+12729,249,3,453.32,1,3,3,133,7,At Risk,United Kingdom
+12730,228,1,33.7,1,1,1,111,3,Hibernating,United Kingdom
+12731,11,28,2805.91,5,5,5,555,15,Champions,United Kingdom
+12732,316,3,217.07,1,3,2,132,6,At Risk,United Kingdom
+12733,8,14,2185.94,5,5,5,555,15,Champions,United Kingdom
+12734,305,3,84.5,1,3,1,131,5,At Risk,United Kingdom
+12735,22,2,26.76,5,2,1,521,8,Potential Loyalists,United Kingdom
+12736,219,1,135.8,2,1,2,212,5,Hibernating,United Kingdom
+12737,269,1,113.7,1,1,2,112,4,Hibernating,France
+12738,343,1,74.85,1,1,1,111,3,Hibernating,United Kingdom
+12739,196,3,231.25,2,3,2,232,7,At Risk,United Kingdom
+12740,80,3,220.06,3,3,2,332,8,Need Attention,United Kingdom
+12741,142,2,281.7,3,2,3,323,8,Need Attention,United Kingdom
+12742,52,4,962.33,4,3,4,434,11,Loyal Customers,United Kingdom
+12743,224,1,15.0,2,1,1,211,4,Hibernating,United Kingdom
+12744,48,2,142.4,4,2,2,422,8,Potential Loyalists,United Kingdom
+12745,24,2,196.85,5,2,2,522,9,Potential Loyalists,United Kingdom
+12746,301,2,314.45,1,2,3,123,6,Hibernating,United Kingdom
+12747,213,2,20.45,2,2,1,221,5,Hibernating,United Kingdom
+12748,58,2,632.52,3,2,4,324,9,Need Attention,United Kingdom
+12749,215,2,223.55,2,2,2,222,6,Hibernating,United Kingdom
+12750,271,3,25.35,1,3,1,131,5,At Risk,Australia
+12751,102,2,61.75,3,2,1,321,6,Need Attention,United Kingdom
+12752,26,4,430.97,5,3,3,533,11,Loyal Customers,United Kingdom
+12753,12,28,6792.3,5,5,5,555,15,Champions,Switzerland
+12754,110,1,96.0,3,1,1,311,5,Need Attention,United Kingdom
+12755,46,3,165.25,4,3,2,432,9,Loyal Customers,United Kingdom
+12756,246,3,325.33,1,3,3,133,7,At Risk,United Kingdom
+12757,269,1,465.0,1,1,3,113,5,Hibernating,United Kingdom
+12758,186,10,531.28,2,4,3,243,9,At Risk,EIRE
+12759,25,6,409.09,5,4,3,543,12,Champions,United Kingdom
+12760,10,17,2860.12,5,5,5,555,15,Champions,United Kingdom
+12761,12,1,19.02,5,1,1,511,7,New Customers,United Kingdom
+12762,272,1,2.91,1,1,1,111,3,Hibernating,United Kingdom
+12763,205,5,1017.89,2,3,4,234,9,At Risk,United Kingdom
+12764,39,22,2118.36,4,5,5,455,14,Champions,United Kingdom
+12765,20,16,558.65,5,5,3,553,13,Champions,United Kingdom
+12766,126,6,641.02,3,4,4,344,11,Loyal Customers,United Kingdom
+12767,103,1,152.5,3,1,2,312,6,Need Attention,France
+12768,24,1,184.5,5,1,2,512,8,New Customers,Portugal
+12769,325,1,17.45,1,1,1,111,3,Hibernating,United Kingdom
+12770,66,4,859.74,3,3,4,334,10,Need Attention,United Kingdom
+12771,44,1,224.9,4,1,2,412,7,New Customers,United Kingdom
+12772,319,3,483.7,1,3,3,133,7,At Risk,United Kingdom
+12773,71,1,113.7,3,1,2,312,6,Need Attention,United Kingdom
+12774,57,11,1259.16,3,4,4,344,11,Loyal Customers,United Kingdom
+12775,338,3,338.29,1,3,3,133,7,At Risk,United Kingdom
+12776,52,2,97.15,4,2,1,421,7,Potential Loyalists,Germany
+12777,217,6,226.38,2,4,2,242,8,At Risk,United Kingdom
+12778,24,10,902.45,5,4,4,544,13,Champions,United Kingdom
+12779,94,3,367.9,3,3,3,333,9,Need Attention,United Kingdom
+12780,7,2,278.57,5,2,3,523,10,Potential Loyalists,United Kingdom
+12781,154,12,2638.92,3,4,5,345,12,Loyal Customers,United Kingdom
+12782,146,10,1270.14,3,4,4,344,11,Loyal Customers,United Kingdom
+12783,20,3,72.36,5,3,1,531,9,Loyal Customers,United Kingdom
+12784,29,2,186.01,4,2,2,422,8,Potential Loyalists,Belgium
+12785,41,2,184.7,4,2,2,422,8,Potential Loyalists,Switzerland
+12786,207,6,569.22,2,4,4,244,10,At Risk,United Kingdom
+12787,65,13,2604.98,3,5,5,355,13,Loyal Customers,United Kingdom
+12788,51,29,2354.31,4,5,5,455,14,Champions,United Kingdom
+12789,253,1,223.2,1,1,2,112,4,Hibernating,United Kingdom
+12790,5,30,3090.37,5,5,5,555,15,Champions,United Kingdom
+12791,204,3,167.52,2,3,2,232,7,At Risk,United Kingdom
+12792,218,3,221.67,2,3,2,232,7,At Risk,United Kingdom
+12793,296,1,359.33,1,1,3,113,5,Hibernating,United Kingdom
+12794,214,9,2133.58,2,4,5,245,11,At Risk,United Kingdom
+12795,35,1,92.91,4,1,1,411,6,New Customers,United Kingdom
+12796,25,29,9763.14,5,5,5,555,15,Champions,United Kingdom
+12797,20,2,75.3,5,2,1,521,8,Potential Loyalists,United Kingdom
+12798,285,2,538.2,1,2,3,123,6,Hibernating,United Kingdom
+12799,155,7,328.15,2,4,3,243,9,At Risk,United Kingdom
+12800,78,8,2094.92,3,4,5,345,12,Loyal Customers,France
+12801,274,1,149.05,1,1,2,112,4,Hibernating,United Kingdom
+12802,63,1,50.4,3,1,1,311,5,Need Attention,United Kingdom
+12803,187,5,706.38,2,3,4,234,9,At Risk,Netherlands
+12804,225,3,540.0,2,3,3,233,8,At Risk,United Kingdom
+12805,145,1,92.55,3,1,1,311,5,Need Attention,United Kingdom
+12806,218,27,2213.78,2,5,5,255,12,Cannot Lose Them,United Kingdom
+12807,46,2,109.15,4,2,2,422,8,Potential Loyalists,United Kingdom
+12808,81,3,414.21,3,3,3,333,9,Need Attention,France
+12809,20,7,413.59,5,4,3,543,12,Champions,United Kingdom
+12810,38,1,155.4,4,1,2,412,7,New Customers,United Kingdom
+12811,242,22,3062.0,1,5,5,155,11,Cannot Lose Them,United Kingdom
+12812,153,9,1929.79,3,4,5,345,12,Loyal Customers,United Kingdom
+12813,351,1,9.9,1,1,1,111,3,Hibernating,United Kingdom
+12814,29,21,1177.25,4,5,4,454,13,Champions,United Kingdom
+12815,280,1,200.12,1,1,2,112,4,Hibernating,United Kingdom
+12816,17,2,184.68,5,2,2,522,9,Potential Loyalists,United Kingdom
+12817,36,6,383.0,4,4,3,443,11,Champions,United Kingdom
+12818,211,28,1568.09,2,5,5,255,12,Cannot Lose Them,Netherlands
+12819,224,13,698.25,2,5,4,254,11,Cannot Lose Them,United Kingdom
+12820,33,2,66.8,4,2,1,421,7,Potential Loyalists,United Kingdom
+12821,67,4,623.95,3,3,4,334,10,Need Attention,United Kingdom
+12822,214,3,883.3,2,3,4,234,9,At Risk,United Kingdom
+12823,256,2,48.75,1,2,1,121,4,Hibernating,United Kingdom
+12824,220,9,530.43,2,4,3,243,9,At Risk,United Kingdom
+12825,79,2,32.85,3,2,1,321,6,Need Attention,EIRE
+12826,32,2,277.65,4,2,3,423,9,Potential Loyalists,France
+12827,49,4,548.91,4,3,3,433,10,Loyal Customers,United Kingdom
+12828,22,2,70.41,5,2,1,521,8,Potential Loyalists,United Kingdom
+12829,16,9,916.32,5,4,4,544,13,Champions,United Kingdom
+12830,175,3,377.42,2,3,3,233,8,At Risk,United Kingdom
+12831,234,2,138.4,1,2,2,122,5,Hibernating,United Kingdom
+12832,36,10,1074.88,4,4,4,444,12,Champions,United Kingdom
+12833,177,3,86.51,2,3,1,231,6,At Risk,United Kingdom
+12834,219,9,1771.45,2,4,5,245,11,At Risk,United Kingdom
+12835,266,1,12.75,1,1,1,111,3,Hibernating,United Kingdom
+12836,271,1,241.3,1,1,2,112,4,Hibernating,United Kingdom
+12837,17,1,229.7,5,1,2,512,8,New Customers,United Kingdom
+12838,234,20,1419.75,1,5,5,155,11,Cannot Lose Them,France
+12839,35,1,12.7,4,1,1,411,6,New Customers,United Kingdom
+12840,17,1,175.75,5,1,2,512,8,New Customers,United Kingdom
+12841,49,2,269.37,4,2,3,423,9,Potential Loyalists,United Kingdom
+12842,63,1,118.3,3,1,2,312,6,Need Attention,United Kingdom
+12843,201,2,244.4,2,2,2,222,6,Hibernating,United Kingdom
+12844,28,1,103.07,4,1,2,412,7,New Customers,United Kingdom
+12845,18,21,1604.72,5,5,5,555,15,Champions,United Kingdom
+12846,183,2,297.91,2,2,3,223,7,Hibernating,United Kingdom
+12847,45,20,1240.46,4,5,4,454,13,Champions,United Kingdom
+12848,278,1,165.4,1,1,2,112,4,Hibernating,EIRE
+12849,270,1,82.75,1,1,1,111,3,Hibernating,United Kingdom
+12850,295,2,338.19,1,2,3,123,6,Hibernating,United Kingdom
+12851,331,3,111.1,1,3,2,132,6,At Risk,United Kingdom
+12852,99,1,126.6,3,1,2,312,6,Need Attention,United Kingdom
+12853,17,1,59.92,5,1,1,511,7,New Customers,United Kingdom
+12854,28,15,2236.49,4,5,5,455,14,Champions,United Kingdom
+12855,28,1,176.77,4,1,2,412,7,New Customers,United Kingdom
+12856,353,1,450.25,1,1,3,113,5,Hibernating,France
+12857,51,12,595.65,4,4,4,444,12,Champions,United Kingdom
+12858,211,12,1273.12,2,4,4,244,10,At Risk,United Kingdom
+12859,215,1,24.25,2,1,1,211,4,Hibernating,United Kingdom
+12860,54,7,395.13,4,4,3,443,11,Champions,United Kingdom
+12861,37,24,2143.35,4,5,5,455,14,Champions,United Kingdom
+12862,187,6,507.79,2,4,3,243,9,At Risk,United Kingdom
+12863,52,9,1084.46,4,4,4,444,12,Champions,United Kingdom
+12864,180,18,1584.86,2,5,5,255,12,Cannot Lose Them,France
+12865,222,11,599.49,2,4,4,244,10,At Risk,United Kingdom
+12866,6,12,834.31,5,4,4,544,13,Champions,United Kingdom
+12867,14,1,40.86,5,1,1,511,7,New Customers,Germany
+12868,290,2,172.07,1,2,2,122,5,Hibernating,United Kingdom
+12869,323,1,48.35,1,1,1,111,3,Hibernating,United Kingdom
+12870,20,2,417.67,5,2,3,523,10,Potential Loyalists,United Kingdom
+12871,306,1,180.75,1,1,2,112,4,Hibernating,United Kingdom
+12872,149,10,677.48,3,4,4,344,11,Loyal Customers,United Kingdom
+12873,124,1,267.46,3,1,3,313,7,Need Attention,United Kingdom
+12874,70,3,283.1,3,3,3,333,9,Need Attention,United Kingdom
+12875,143,6,951.39,3,4,4,344,11,Loyal Customers,United Kingdom
+12876,59,11,522.95,3,4,3,343,10,Loyal Customers,United Kingdom
+12877,347,1,148.35,1,1,2,112,4,Hibernating,United Kingdom
+12878,114,4,267.7,3,3,3,333,9,Need Attention,United Kingdom
+12879,307,2,131.61,1,2,2,122,5,Hibernating,United Kingdom
+12880,247,3,204.48,1,3,2,132,6,At Risk,United Kingdom
+12881,80,12,1420.15,3,4,5,345,12,Loyal Customers,Netherlands
+12882,71,5,369.82,3,3,3,333,9,Need Attention,United Kingdom
+12883,19,2,74.04,5,2,1,521,8,Potential Loyalists,France
+12884,6,1,46.96,5,1,1,511,7,New Customers,United Kingdom
+12885,243,1,29.8,1,1,1,111,3,Hibernating,United Kingdom
+12886,253,1,103.6,1,1,2,112,4,Hibernating,Belgium
+12887,40,4,671.9,4,3,4,434,11,Loyal Customers,Australia
+12888,30,1,58.2,4,1,1,411,6,New Customers,United Kingdom
+12889,233,19,3278.24,1,5,5,155,11,Cannot Lose Them,United Kingdom
+12890,33,15,3400.75,4,5,5,455,14,Champions,United Kingdom
+12891,10,14,1277.64,5,5,4,554,14,Champions,United Kingdom
+12892,209,5,775.86,2,3,4,234,9,At Risk,France
+12893,32,1,31.03,4,1,1,411,6,New Customers,United Kingdom
+12894,76,1,5.58,3,1,1,311,5,Need Attention,United Kingdom
+12895,92,2,77.79,3,2,1,321,6,Need Attention,Belgium
+12896,19,25,5335.77,5,5,5,555,15,Champions,United Kingdom
+12897,354,1,53.87,1,1,1,111,3,Hibernating,United Kingdom
+12898,326,1,145.67,1,1,2,112,4,Hibernating,United Kingdom
+12899,26,2,228.14,5,2,2,522,9,Potential Loyalists,United Kingdom
+12900,164,1,4.2,2,1,1,211,4,Hibernating,United Kingdom
+12901,18,2,96.87,5,2,1,521,8,Potential Loyalists,United Kingdom
+12903,300,1,185.92,1,1,2,112,4,Hibernating,United Kingdom
+12904,143,1,254.9,3,1,3,313,7,Need Attention,United Kingdom
+12905,246,2,130.9,1,2,2,122,5,Hibernating,Netherlands
+12906,134,8,862.39,3,4,4,344,11,Loyal Customers,Australia
+12907,32,2,600.28,4,2,4,424,10,Potential Loyalists,United Kingdom
+12908,186,2,207.65,2,2,2,222,6,Hibernating,United Kingdom
+12909,41,1,47.2,4,1,1,411,6,New Customers,EIRE
+12910,52,4,649.31,4,3,4,434,11,Loyal Customers,United Kingdom
+12911,60,7,1143.05,3,4,4,344,11,Loyal Customers,United Kingdom
+12912,68,12,1865.03,3,4,5,345,12,Loyal Customers,Germany
+12913,17,2,417.75,5,2,3,523,10,Potential Loyalists,United Kingdom
+12914,28,24,2425.44,4,5,5,455,14,Champions,United Kingdom
+12915,259,2,94.27,1,2,1,121,4,Hibernating,United Kingdom
+12916,240,2,907.32,1,2,4,124,7,Hibernating,United Kingdom
+12917,130,3,53.62,3,3,1,331,7,Need Attention,United Kingdom
+12918,306,2,478.59,1,2,3,123,6,Hibernating,United Kingdom
+12920,188,30,5507.01,2,5,5,255,12,Cannot Lose Them,United Kingdom
+12921,10,1,43.45,5,1,1,511,7,New Customers,United Kingdom
+12922,46,2,437.25,4,2,3,423,9,Potential Loyalists,United Kingdom
+12923,246,7,891.35,1,4,4,144,9,At Risk,United Kingdom
+12924,215,2,45.75,2,2,1,221,5,Hibernating,France
+12925,44,9,602.47,4,4,4,444,12,Champions,United Kingdom
+12926,188,5,294.55,2,3,3,233,8,At Risk,United Kingdom
+12927,242,17,1516.07,1,5,5,155,11,Cannot Lose Them,United Kingdom
+12928,22,1,229.95,5,1,2,512,8,New Customers,EIRE
+12929,323,1,339.95,1,1,3,113,5,Hibernating,United Kingdom
+12930,33,2,515.77,4,2,3,423,9,Potential Loyalists,United Kingdom
+12931,36,1,109.55,4,1,2,412,7,New Customers,United Kingdom
+12932,32,4,607.88,4,3,4,434,11,Loyal Customers,Spain
+12933,228,1,222.15,1,1,2,112,4,Hibernating,United Kingdom
+12934,209,15,1135.63,2,5,4,254,11,Cannot Lose Them,United Kingdom
+12935,21,10,1438.44,5,4,5,545,14,Champions,Portugal
+12936,75,1,286.3,3,1,3,313,7,Need Attention,United Kingdom
+12937,37,1,142.6,4,1,2,412,7,New Customers,United Kingdom
+12938,114,2,546.8,3,2,3,323,8,Need Attention,United Kingdom
+12939,251,1,52.35,1,1,1,111,3,Hibernating,EIRE
+12940,285,2,281.62,1,2,3,123,6,Hibernating,United Kingdom
+12941,14,23,1579.06,5,5,5,555,15,Champions,France
+12942,46,11,315.14,4,4,3,443,11,Champions,United Kingdom
+12943,134,6,718.87,3,4,4,344,11,Loyal Customers,United Kingdom
+12944,202,1,61.7,2,1,1,211,4,Hibernating,Germany
+12945,51,20,2288.35,4,5,5,455,14,Champions,United Kingdom
+12946,264,2,758.23,1,2,4,124,7,Hibernating,United Kingdom
+12947,218,3,708.32,2,3,4,234,9,At Risk,United Kingdom
+12948,110,8,711.82,3,4,4,344,11,Loyal Customers,United Kingdom
+12949,40,2,806.13,4,2,4,424,10,Potential Loyalists,United Kingdom
+12950,25,4,274.03,5,3,3,533,11,Loyal Customers,United Kingdom
+12951,13,11,736.05,5,4,4,544,13,Champions,United Kingdom
+12952,58,11,185.93,3,4,2,342,9,Loyal Customers,United Kingdom
+12953,41,9,503.99,4,4,3,443,11,Champions,United Kingdom
+12954,49,14,1946.78,4,5,5,455,14,Champions,EIRE
+12955,79,3,75.6,3,3,1,331,7,Need Attention,United Kingdom
+12956,25,12,1555.43,5,4,5,545,14,Champions,United Kingdom
+12957,246,1,83.65,1,1,1,111,3,Hibernating,United Kingdom
+12958,263,1,14.64,1,1,1,111,3,Hibernating,United Kingdom
+12959,222,27,2362.74,2,5,5,255,12,Cannot Lose Them,United Kingdom
+12960,317,1,64.65,1,1,1,111,3,Hibernating,United Kingdom
+12961,72,3,556.14,3,3,3,333,9,Need Attention,France
+12962,188,1,143.4,2,1,2,212,5,Hibernating,United Kingdom
+12963,15,1,172.4,5,1,2,512,8,New Customers,United Kingdom
+12964,154,6,433.3,3,4,3,343,10,Loyal Customers,United Kingdom
+12965,268,1,205.06,1,1,2,112,4,Hibernating,United Kingdom
+12966,54,3,717.83,4,3,4,434,11,Loyal Customers,United Kingdom
+12967,5,30,5340.57,5,5,5,555,15,Champions,United Kingdom
+12968,354,1,2.52,1,1,1,111,3,Hibernating,United Kingdom
+12969,234,5,663.01,1,3,4,134,8,At Risk,EIRE
+12970,179,1,121.87,2,1,2,212,5,Hibernating,United Kingdom
+12971,216,3,445.25,2,3,3,233,8,At Risk,United Kingdom
+12972,17,4,718.48,5,3,4,534,12,Loyal Customers,United Kingdom
+12973,257,2,229.7,1,2,2,122,5,Hibernating,United Kingdom
+12974,138,3,75.82,3,3,1,331,7,Need Attention,United Kingdom
+12975,89,2,197.15,3,2,2,322,7,Need Attention,United Kingdom
+12976,298,2,41.45,1,2,1,121,4,Hibernating,United Kingdom
+12977,201,1,111.7,2,1,2,212,5,Hibernating,United Kingdom
+12978,156,8,545.73,2,4,3,243,9,At Risk,United Kingdom
+12979,73,1,155.16,3,1,2,312,6,Need Attention,United Kingdom
+12980,285,2,61.94,1,2,1,121,4,Hibernating,United Kingdom
+12981,27,24,2295.68,5,5,5,555,15,Champions,Germany
+12982,7,22,926.88,5,5,4,554,14,Champions,United Kingdom
+12983,149,10,994.68,3,4,4,344,11,Loyal Customers,United Kingdom
+12984,13,1,92.95,5,1,1,511,7,New Customers,Belgium
+12985,239,3,655.89,1,3,4,134,8,At Risk,United Kingdom
+12986,249,2,291.49,1,2,3,123,6,Hibernating,United Kingdom
+12987,306,1,441.72,1,1,3,113,5,Hibernating,United Kingdom
+12988,18,2,128.95,5,2,2,522,9,Potential Loyalists,United Kingdom
+12989,46,1,143.55,4,1,2,412,7,New Customers,United Kingdom
+12990,10,2,278.65,5,2,3,523,10,Potential Loyalists,United Kingdom
+12991,277,1,14.3,1,1,1,111,3,Hibernating,Germany
+12992,167,11,1829.25,2,4,5,245,11,At Risk,United Kingdom
+12993,290,1,258.25,1,1,3,113,5,Hibernating,United Kingdom
+12994,67,16,5361.97,3,5,5,355,13,Loyal Customers,United Kingdom
+12995,295,1,46.75,1,1,1,111,3,Hibernating,United Kingdom
+12996,16,14,1738.19,5,5,5,555,15,Champions,United Kingdom
+12997,79,4,950.61,3,3,4,334,10,Need Attention,United Kingdom
+12998,42,8,631.0,4,4,4,444,12,Champions,France
+12999,63,13,2986.12,3,5,5,355,13,Loyal Customers,United Kingdom
+13000,18,26,6622.37,5,5,5,555,15,Champions,United Kingdom
+13001,187,28,2810.27,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13002,242,15,1904.15,1,5,5,155,11,Cannot Lose Them,Germany
+13003,298,1,18.25,1,1,1,111,3,Hibernating,United Kingdom
+13004,28,14,1769.12,4,5,5,455,14,Champions,United Kingdom
+13005,15,1,227.64,5,1,2,512,8,New Customers,United Kingdom
+13006,57,10,753.73,3,4,4,344,11,Loyal Customers,Netherlands
+13007,15,2,261.65,5,2,3,523,10,Potential Loyalists,Switzerland
+13008,179,1,80.55,2,1,1,211,4,Hibernating,United Kingdom
+13009,140,11,1815.79,3,4,5,345,12,Loyal Customers,United Kingdom
+13010,93,7,258.91,3,4,3,343,10,Loyal Customers,United Kingdom
+13011,183,7,751.57,2,4,4,244,10,At Risk,United Kingdom
+13012,26,2,311.46,5,2,3,523,10,Potential Loyalists,United Kingdom
+13013,265,3,374.56,1,3,3,133,7,At Risk,United Kingdom
+13014,244,2,820.57,1,2,4,124,7,Hibernating,United Kingdom
+13015,94,7,465.73,3,4,3,343,10,Loyal Customers,United Kingdom
+13016,33,3,55.54,4,3,1,431,8,Loyal Customers,France
+13017,51,2,361.42,4,2,3,423,9,Potential Loyalists,United Kingdom
+13018,18,13,2357.41,5,5,5,555,15,Champions,United Kingdom
+13019,37,14,1419.85,4,5,5,455,14,Champions,United Kingdom
+13020,333,2,226.58,1,2,2,122,5,Hibernating,United Kingdom
+13021,60,1,102.0,3,1,1,311,5,Need Attention,United Kingdom
+13022,239,29,3098.6,1,5,5,155,11,Cannot Lose Them,Netherlands
+13023,19,29,999.66,5,5,4,554,14,Champions,United Kingdom
+13024,85,3,217.98,3,3,2,332,8,Need Attention,United Kingdom
+13025,212,2,155.25,2,2,2,222,6,Hibernating,United Kingdom
+13026,11,19,2030.53,5,5,5,555,15,Champions,United Kingdom
+13027,54,2,454.42,4,2,3,423,9,Potential Loyalists,United Kingdom
+13028,33,3,207.18,4,3,2,432,9,Loyal Customers,France
+13029,54,1,201.71,4,1,2,412,7,New Customers,Germany
+13030,92,3,351.14,3,3,3,333,9,Need Attention,United Kingdom
+13031,18,4,678.74,5,3,4,534,12,Loyal Customers,United Kingdom
+13032,166,23,3297.01,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13033,162,16,981.06,2,5,4,254,11,Cannot Lose Them,United Kingdom
+13034,220,1,26.05,2,1,1,211,4,Hibernating,United Kingdom
+13035,70,11,1674.86,3,4,5,345,12,Loyal Customers,United Kingdom
+13036,51,3,472.93,4,3,3,433,10,Loyal Customers,Germany
+13037,73,1,338.99,3,1,3,313,7,Need Attention,United Kingdom
+13038,163,11,897.49,2,4,4,244,10,At Risk,EIRE
+13039,28,1,174.45,4,1,2,412,7,New Customers,United Kingdom
+13040,250,1,84.9,1,1,1,111,3,Hibernating,EIRE
+13041,216,8,1302.69,2,4,4,244,10,At Risk,United Kingdom
+13042,62,6,660.79,3,4,4,344,11,Loyal Customers,United Kingdom
+13043,55,1,65.45,4,1,1,411,6,New Customers,France
+13044,168,6,569.0,2,4,4,244,10,At Risk,United Kingdom
+13045,272,2,665.22,1,2,4,124,7,Hibernating,United Kingdom
+13046,210,6,888.6,2,4,4,244,10,At Risk,Portugal
+13047,206,19,2922.5,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13048,91,9,1279.07,3,4,4,344,11,Loyal Customers,United Kingdom
+13049,192,6,97.81,2,4,1,241,7,At Risk,United Kingdom
+13050,327,1,297.64,1,1,3,113,5,Hibernating,United Kingdom
+13051,67,7,260.2,3,4,3,343,10,Loyal Customers,Belgium
+13052,257,25,1412.8,1,5,5,155,11,Cannot Lose Them,United Kingdom
+13053,48,7,486.68,4,4,3,443,11,Champions,United Kingdom
+13054,161,5,208.99,2,3,2,232,7,At Risk,United Kingdom
+13055,218,10,1465.35,2,4,5,245,11,At Risk,United Kingdom
+13056,34,1,179.75,4,1,2,412,7,New Customers,United Kingdom
+13057,315,2,275.83,1,2,3,123,6,Hibernating,United Kingdom
+13058,20,2,268.6,5,2,3,523,10,Potential Loyalists,United Kingdom
+13059,14,3,479.77,5,3,3,533,11,Loyal Customers,United Kingdom
+13060,39,1,135.85,4,1,2,412,7,New Customers,United Kingdom
+13061,10,1,7.45,5,1,1,511,7,New Customers,United Kingdom
+13062,12,4,718.38,5,3,4,534,12,Loyal Customers,Germany
+13063,186,15,2167.24,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13064,62,5,170.22,3,3,2,332,8,Need Attention,United Kingdom
+13065,251,17,1644.36,1,5,5,155,11,Cannot Lose Them,United Kingdom
+13066,184,7,1458.32,2,4,5,245,11,At Risk,United Kingdom
+13067,47,4,165.13,4,3,2,432,9,Loyal Customers,United Kingdom
+13068,266,1,111.67,1,1,2,112,4,Hibernating,United Kingdom
+13069,196,9,880.04,2,4,4,244,10,At Risk,Germany
+13070,274,1,171.44,1,1,2,112,4,Hibernating,United Kingdom
+13071,198,9,956.13,2,4,4,244,10,At Risk,United Kingdom
+13072,123,3,196.21,3,3,2,332,8,Need Attention,United Kingdom
+13073,28,1,84.8,4,1,1,411,6,New Customers,United Kingdom
+13074,67,1,161.3,3,1,2,312,6,Need Attention,United Kingdom
+13075,206,5,397.05,2,3,3,233,8,At Risk,United Kingdom
+13076,271,2,100.84,1,2,1,121,4,Hibernating,United Kingdom
+13077,186,3,397.3,2,3,3,233,8,At Risk,United Kingdom
+13078,245,1,436.5,1,1,3,113,5,Hibernating,United Kingdom
+13079,61,1,127.7,3,1,2,312,6,Need Attention,United Kingdom
+13080,190,9,493.85,2,4,3,243,9,At Risk,United Kingdom
+13081,59,3,496.36,3,3,3,333,9,Need Attention,United Kingdom
+13082,49,24,1833.04,4,5,5,455,14,Champions,United Kingdom
+13083,203,10,935.5,2,4,4,244,10,At Risk,United Kingdom
+13084,95,1,16.94,3,1,1,311,5,Need Attention,France
+13085,232,1,81.75,1,1,1,111,3,Hibernating,United Kingdom
+13086,40,3,210.38,4,3,2,432,9,Loyal Customers,United Kingdom
+13087,98,3,638.46,3,3,4,334,10,Need Attention,Spain
+13088,45,14,1001.36,4,5,4,454,13,Champions,EIRE
+13089,199,10,1454.26,2,4,5,245,11,At Risk,United Kingdom
+13090,292,1,0.42,1,1,1,111,3,Hibernating,United Kingdom
+13091,90,2,263.69,3,2,3,323,8,Need Attention,United Kingdom
+13092,14,2,261.91,5,2,3,523,10,Potential Loyalists,France
+13093,43,14,879.73,4,5,4,454,13,Champions,United Kingdom
+13094,190,20,2285.53,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13095,16,29,4185.72,5,5,5,555,15,Champions,United Kingdom
+13096,204,5,478.86,2,3,3,233,8,At Risk,EIRE
+13097,33,2,841.88,4,2,4,424,10,Potential Loyalists,United Kingdom
+13098,14,1,180.7,5,1,2,512,8,New Customers,Germany
+13099,30,23,1982.43,4,5,5,455,14,Champions,United Kingdom
+13100,20,2,62.63,5,2,1,521,8,Potential Loyalists,United Kingdom
+13101,236,5,109.86,1,3,2,132,6,At Risk,United Kingdom
+13102,73,3,450.95,3,3,3,333,9,Need Attention,Germany
+13103,266,1,62.65,1,1,1,111,3,Hibernating,United Kingdom
+13104,120,1,13.44,3,1,1,311,5,Need Attention,United Kingdom
+13105,24,24,2190.61,5,5,5,555,15,Champions,Netherlands
+13106,36,1,57.7,4,1,1,411,6,New Customers,United Kingdom
+13107,205,30,4091.55,2,5,5,255,12,Cannot Lose Them,Portugal
+13108,32,1,27.55,4,1,1,411,6,New Customers,United Kingdom
+13109,18,13,1442.98,5,5,5,555,15,Champions,United Kingdom
+13110,4,25,4743.72,5,5,5,555,15,Champions,Germany
+13111,224,17,3949.55,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13112,135,6,944.1,3,4,4,344,11,Loyal Customers,United Kingdom
+13113,1,7,2035.09,5,4,5,545,14,Champions,United Kingdom
+13114,268,2,208.2,1,2,2,122,5,Hibernating,Netherlands
+13115,12,1,547.5,5,1,3,513,9,New Customers,United Kingdom
+13116,128,12,2073.95,3,4,5,345,12,Loyal Customers,United Kingdom
+13117,192,1,119.4,2,1,2,212,5,Hibernating,United Kingdom
+13118,217,15,1348.31,2,5,4,254,11,Cannot Lose Them,United Kingdom
+13119,188,9,1232.53,2,4,4,244,10,At Risk,United Kingdom
+13120,76,2,122.5,3,2,2,322,7,Need Attention,United Kingdom
+13121,66,2,125.23,3,2,2,322,7,Need Attention,Germany
+13122,43,17,2740.56,4,5,5,455,14,Champions,United Kingdom
+13123,179,5,1233.45,2,3,4,234,9,At Risk,United Kingdom
+13124,184,1,47.0,2,1,1,211,4,Hibernating,United Kingdom
+13125,17,21,1346.24,5,5,4,554,14,Champions,United Kingdom
+13126,28,2,273.5,4,2,3,423,9,Potential Loyalists,United Kingdom
+13127,238,3,56.25,1,3,1,131,5,At Risk,United Kingdom
+13128,24,13,914.43,5,5,4,554,14,Champions,United Kingdom
+13129,240,1,37.8,1,1,1,111,3,Hibernating,United Kingdom
+13130,249,1,204.8,1,1,2,112,4,Hibernating,United Kingdom
+13131,13,2,593.91,5,2,4,524,11,Potential Loyalists,Germany
+13132,127,4,585.75,3,3,4,334,10,Need Attention,United Kingdom
+13133,87,1,31.05,3,1,1,311,5,Need Attention,United Kingdom
+13134,209,18,1546.63,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13135,54,11,1296.02,4,4,4,444,12,Champions,United Kingdom
+13136,43,10,579.09,4,4,4,444,12,Champions,United Kingdom
+13137,35,1,20.04,4,1,1,411,6,New Customers,United Kingdom
+13138,331,1,335.85,1,1,3,113,5,Hibernating,United Kingdom
+13139,180,1,77.8,2,1,1,211,4,Hibernating,United Kingdom
+13140,18,27,2300.35,5,5,5,555,15,Champions,United Kingdom
+13141,44,1,51.44,4,1,1,411,6,New Customers,United Kingdom
+13142,43,7,639.54,4,4,4,444,12,Champions,United Kingdom
+13143,18,2,455.66,5,2,3,523,10,Potential Loyalists,United Kingdom
+13144,341,1,312.35,1,1,3,113,5,Hibernating,United Kingdom
+13145,10,29,3546.73,5,5,5,555,15,Champions,United Kingdom
+13146,60,8,486.62,3,4,3,343,10,Loyal Customers,United Kingdom
+13147,256,1,275.77,1,1,3,113,5,Hibernating,United Kingdom
+13148,25,1,483.05,5,1,3,513,9,New Customers,United Kingdom
+13149,225,3,161.08,2,3,2,232,7,At Risk,United Kingdom
+13150,112,2,472.4,3,2,3,323,8,Need Attention,United Kingdom
+13151,24,14,1573.79,5,5,5,555,15,Champions,United Kingdom
+13152,334,1,159.72,1,1,2,112,4,Hibernating,Spain
+13153,87,4,526.5,3,3,3,333,9,Need Attention,United Kingdom
+13154,76,4,268.58,3,3,3,333,9,Need Attention,United Kingdom
+13155,93,2,380.29,3,2,3,323,8,Need Attention,United Kingdom
+13156,184,5,542.39,2,3,3,233,8,At Risk,United Kingdom
+13157,28,27,4796.38,4,5,5,455,14,Champions,United Kingdom
+13158,29,1,30.1,4,1,1,411,6,New Customers,United Kingdom
+13159,206,21,2290.91,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13160,31,4,540.59,4,3,3,433,10,Loyal Customers,Australia
+13161,84,4,368.55,3,3,3,333,9,Need Attention,United Kingdom
+13162,31,2,274.24,4,2,3,423,9,Potential Loyalists,United Kingdom
+13163,8,2,99.3,5,2,1,521,8,Potential Loyalists,United Kingdom
+13164,292,3,245.35,1,3,2,132,6,At Risk,United Kingdom
+13165,58,1,84.45,3,1,1,311,5,Need Attention,United Kingdom
+13166,43,10,642.72,4,4,4,444,12,Champions,United Kingdom
+13167,16,1,68.79,5,1,1,511,7,New Customers,United Kingdom
+13168,218,12,2961.26,2,4,5,245,11,At Risk,Spain
+13169,245,6,572.75,1,4,4,144,9,At Risk,United Kingdom
+13170,186,1,63.5,2,1,1,211,4,Hibernating,United Kingdom
+13171,119,1,70.94,3,1,1,311,5,Need Attention,United Kingdom
+13172,65,14,655.37,3,5,4,354,12,Loyal Customers,United Kingdom
+13173,216,8,1478.39,2,4,5,245,11,At Risk,United Kingdom
+13174,48,2,223.0,4,2,2,422,8,Potential Loyalists,United Kingdom
+13175,63,11,764.49,3,4,4,344,11,Loyal Customers,United Kingdom
+13176,35,1,10.05,4,1,1,411,6,New Customers,United Kingdom
+13177,275,1,0.65,1,1,1,111,3,Hibernating,United Kingdom
+13178,17,2,614.32,5,2,4,524,11,Potential Loyalists,United Kingdom
+13179,288,1,33.9,1,1,1,111,3,Hibernating,United Kingdom
+13180,289,1,76.65,1,1,1,111,3,Hibernating,United Kingdom
+13181,72,13,1070.52,3,5,4,354,12,Loyal Customers,United Kingdom
+13182,98,8,993.32,3,4,4,344,11,Loyal Customers,United Kingdom
+13183,18,23,1074.02,5,5,4,554,14,Champions,United Kingdom
+13184,231,10,814.3,1,4,4,144,9,At Risk,United Kingdom
+13185,145,1,359.17,3,1,3,313,7,Need Attention,United Kingdom
+13186,181,7,484.71,2,4,3,243,9,At Risk,Switzerland
+13187,44,21,1283.88,4,5,4,454,13,Champions,United Kingdom
+13188,45,3,531.57,4,3,3,433,10,Loyal Customers,United Kingdom
+13189,72,4,444.05,3,3,3,333,9,Need Attention,United Kingdom
+13190,30,7,926.35,4,4,4,444,12,Champions,United Kingdom
+13191,195,11,1757.92,2,4,5,245,11,At Risk,United Kingdom
+13192,23,2,487.98,5,2,3,523,10,Potential Loyalists,United Kingdom
+13193,26,8,1270.43,5,4,4,544,13,Champions,United Kingdom
+13194,190,1,101.55,2,1,1,211,4,Hibernating,United Kingdom
+13195,16,1,59.12,5,1,1,511,7,New Customers,United Kingdom
+13196,38,15,1526.15,4,5,5,455,14,Champions,United Kingdom
+13197,36,22,1745.58,4,5,5,455,14,Champions,France
+13198,75,3,427.59,3,3,3,333,9,Need Attention,Spain
+13199,44,1,276.07,4,1,3,413,8,New Customers,United Kingdom
+13200,204,12,1053.81,2,4,4,244,10,At Risk,United Kingdom
+13201,64,12,1212.44,3,4,4,344,11,Loyal Customers,United Kingdom
+13202,207,15,2323.34,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13203,152,1,19.9,3,1,1,311,5,Need Attention,United Kingdom
+13204,145,2,703.89,3,2,4,324,9,Need Attention,Switzerland
+13205,215,8,465.77,2,4,3,243,9,At Risk,EIRE
+13206,114,2,194.57,3,2,2,322,7,Need Attention,United Kingdom
+13207,223,5,753.82,2,3,4,234,9,At Risk,United Kingdom
+13208,7,23,1054.61,5,5,4,554,14,Champions,United Kingdom
+13209,32,1,84.55,4,1,1,411,6,New Customers,United Kingdom
+13210,264,1,14.45,1,1,1,111,3,Hibernating,United Kingdom
+13211,236,1,33.8,1,1,1,111,3,Hibernating,United Kingdom
+13212,237,2,33.35,1,2,1,121,4,Hibernating,United Kingdom
+13213,54,11,1035.93,4,4,4,444,12,Champions,Netherlands
+13214,121,2,150.62,3,2,2,322,7,Need Attention,United Kingdom
+13215,15,14,812.8,5,5,4,554,14,Champions,United Kingdom
+13216,23,7,589.8,5,4,4,544,13,Champions,United Kingdom
+13217,16,22,3999.68,5,5,5,555,15,Champions,Switzerland
+13218,236,10,511.21,1,4,3,143,8,At Risk,United Kingdom
+13219,126,8,974.82,3,4,4,344,11,Loyal Customers,United Kingdom
+13220,241,2,330.18,1,2,3,123,6,Hibernating,United Kingdom
+13221,189,2,285.12,2,2,3,223,7,Hibernating,United Kingdom
+13222,36,1,98.5,4,1,1,411,6,New Customers,United Kingdom
+13223,17,1,14.3,5,1,1,511,7,New Customers,United Kingdom
+13224,193,3,68.92,2,3,1,231,6,At Risk,United Kingdom
+13225,71,7,919.33,3,4,4,344,11,Loyal Customers,United Kingdom
+13226,45,1,25.3,4,1,1,411,6,New Customers,United Kingdom
+13227,222,9,913.08,2,4,4,244,10,At Risk,United Kingdom
+13228,16,14,3377.02,5,5,5,555,15,Champions,United Kingdom
+13229,264,1,15.52,1,1,1,111,3,Hibernating,United Kingdom
+13230,275,1,71.25,1,1,1,111,3,Hibernating,United Kingdom
+13231,27,1,32.45,5,1,1,511,7,New Customers,United Kingdom
+13232,219,12,1059.85,2,4,4,244,10,At Risk,United Kingdom
+13233,58,1,90.85,3,1,1,311,5,Need Attention,United Kingdom
+13234,352,1,7.5,1,1,1,111,3,Hibernating,United Kingdom
+13235,229,23,4224.87,1,5,5,155,11,Cannot Lose Them,United Kingdom
+13236,217,15,1422.98,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13237,248,19,2470.21,1,5,5,155,11,Cannot Lose Them,United Kingdom
+13238,26,1,90.02,5,1,1,511,7,New Customers,United Kingdom
+13239,337,3,65.25,1,3,1,131,5,At Risk,United Kingdom
+13240,276,2,219.37,1,2,2,122,5,Hibernating,United Kingdom
+13241,46,4,537.05,4,3,3,433,10,Loyal Customers,Switzerland
+13242,191,2,294.47,2,2,3,223,7,Hibernating,United Kingdom
+13243,238,1,182.77,1,1,2,112,4,Hibernating,United Kingdom
+13244,5,4,590.72,5,3,4,534,12,Loyal Customers,United Kingdom
+13245,107,6,701.28,3,4,4,344,11,Loyal Customers,United Kingdom
+13246,168,11,1284.46,2,4,4,244,10,At Risk,Germany
+13247,94,3,144.8,3,3,2,332,8,Need Attention,Portugal
+13248,212,5,447.04,2,3,3,233,8,At Risk,United Kingdom
+13249,217,3,315.56,2,3,3,233,8,At Risk,United Kingdom
+13250,75,13,1951.8,3,5,5,355,13,Loyal Customers,United Kingdom
+13251,7,17,1860.16,5,5,5,555,15,Champions,United Kingdom
+13252,336,1,39.82,1,1,1,111,3,Hibernating,United Kingdom
+13253,74,2,597.49,3,2,4,324,9,Need Attention,United Kingdom
+13254,42,2,546.85,4,2,3,423,9,Potential Loyalists,United Kingdom
+13255,39,1,57.95,4,1,1,411,6,New Customers,France
+13256,38,24,1987.46,4,5,5,455,14,Champions,United Kingdom
+13257,20,29,1558.49,5,5,5,555,15,Champions,United Kingdom
+13258,133,12,1645.2,3,4,5,345,12,Loyal Customers,United Kingdom
+13259,43,1,29.75,4,1,1,411,6,New Customers,United Kingdom
+13260,237,1,20.85,1,1,1,111,3,Hibernating,United Kingdom
+13261,19,1,160.8,5,1,2,512,8,New Customers,United Kingdom
+13262,250,17,2126.49,1,5,5,155,11,Cannot Lose Them,United Kingdom
+13263,8,1,114.3,5,1,2,512,8,New Customers,United Kingdom
+13264,120,2,251.34,3,2,2,322,7,Need Attention,United Kingdom
+13265,308,1,57.77,1,1,1,111,3,Hibernating,United Kingdom
+13266,37,15,1519.94,4,5,5,455,14,Champions,United Kingdom
+13267,295,1,141.28,1,1,2,112,4,Hibernating,United Kingdom
+13268,7,10,724.8,5,4,4,544,13,Champions,United Kingdom
+13269,47,4,510.67,4,3,3,433,10,Loyal Customers,United Kingdom
+13270,181,3,756.78,2,3,4,234,9,At Risk,United Kingdom
+13271,64,1,132.2,3,1,2,312,6,Need Attention,United Kingdom
+13272,159,29,2747.12,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13273,15,17,1728.31,5,5,5,555,15,Champions,United Kingdom
+13274,291,3,817.9,1,3,4,134,8,At Risk,United Kingdom
+13275,152,12,1342.51,3,4,4,344,11,Loyal Customers,France
+13276,36,22,1456.21,4,5,5,455,14,Champions,United Kingdom
+13277,34,2,159.1,4,2,2,422,8,Potential Loyalists,Spain
+13278,55,3,1098.08,4,3,4,434,11,Loyal Customers,Germany
+13279,32,3,1355.75,4,3,5,435,12,Loyal Customers,United Kingdom
+13280,15,2,175.15,5,2,2,522,9,Potential Loyalists,United Kingdom
+13281,173,11,911.79,2,4,4,244,10,At Risk,United Kingdom
+13282,52,13,885.47,4,5,4,454,13,Champions,United Kingdom
+13283,344,1,14.75,1,1,1,111,3,Hibernating,United Kingdom
+13284,73,13,2852.64,3,5,5,355,13,Loyal Customers,United Kingdom
+13285,280,1,100.65,1,1,1,111,3,Hibernating,United Kingdom
+13286,204,1,156.8,2,1,2,212,5,Hibernating,Switzerland
+13287,38,14,1737.23,4,5,5,455,14,Champions,United Kingdom
+13288,172,25,2123.51,2,5,5,255,12,Cannot Lose Them,EIRE
+13289,191,1,561.0,2,1,3,213,6,Hibernating,Germany
+13290,32,13,974.18,4,5,4,454,13,Champions,United Kingdom
+13291,293,1,227.39,1,1,2,112,4,Hibernating,United Kingdom
+13292,90,3,97.9,3,3,1,331,7,Need Attention,EIRE
+13293,113,2,124.85,3,2,2,322,7,Need Attention,United Kingdom
+13294,78,11,2203.44,3,4,5,345,12,Loyal Customers,Spain
+13295,302,2,525.19,1,2,3,123,6,Hibernating,Spain
+13296,308,1,32.39,1,1,1,111,3,Hibernating,United Kingdom
+13297,197,25,1036.22,2,5,4,254,11,Cannot Lose Them,United Kingdom
+13298,35,14,1986.37,4,5,5,455,14,Champions,United Kingdom
+13299,33,14,2330.55,4,5,5,455,14,Champions,United Kingdom
+13300,29,4,619.18,4,3,4,434,11,Loyal Customers,United Kingdom
+13301,366,1,128.61,1,1,2,112,4,Hibernating,United Kingdom
+13302,242,1,87.85,1,1,1,111,3,Hibernating,United Kingdom
+13303,18,28,5535.61,5,5,5,555,15,Champions,United Kingdom
+13304,334,1,74.5,1,1,1,111,3,Hibernating,United Kingdom
+13305,96,11,529.36,3,4,3,343,10,Loyal Customers,United Kingdom
+13306,218,22,1256.04,2,5,4,254,11,Cannot Lose Them,United Kingdom
+13307,66,1,150.07,3,1,2,312,6,Need Attention,Switzerland
+13308,17,14,1207.72,5,5,4,554,14,Champions,United Kingdom
+13309,15,19,1129.84,5,5,4,554,14,Champions,United Kingdom
+13310,10,2,301.72,5,2,3,523,10,Potential Loyalists,Germany
+13311,74,9,1160.35,3,4,4,344,11,Loyal Customers,United Kingdom
+13312,95,2,235.75,3,2,2,322,7,Need Attention,United Kingdom
+13313,20,1,71.8,5,1,1,511,7,New Customers,United Kingdom
+13314,227,25,4574.07,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13315,227,18,3758.32,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13316,12,18,4211.09,5,5,5,555,15,Champions,United Kingdom
+13317,271,1,21.76,1,1,1,111,3,Hibernating,Belgium
+13318,252,1,170.35,1,1,2,112,4,Hibernating,United Kingdom
+13319,202,12,1036.08,2,4,4,244,10,At Risk,United Kingdom
+13320,227,2,408.6,2,2,3,223,7,Hibernating,United Kingdom
+13321,371,1,161.7,1,1,2,112,4,Hibernating,United Kingdom
+13322,357,1,110.02,1,1,2,112,4,Hibernating,Belgium
+13323,286,1,217.98,1,1,2,112,4,Hibernating,United Kingdom
+13324,233,2,326.53,1,2,3,123,6,Hibernating,United Kingdom
+13325,16,13,456.9,5,5,3,553,13,Champions,EIRE
+13326,42,1,180.1,4,1,2,412,7,New Customers,United Kingdom
+13327,28,13,1190.17,4,5,4,454,13,Champions,United Kingdom
+13328,295,1,3.86,1,1,1,111,3,Hibernating,United Kingdom
+13329,32,3,400.33,4,3,3,433,10,Loyal Customers,United Kingdom
+13330,208,1,87.15,2,1,1,211,4,Hibernating,France
+13331,138,6,1331.37,3,4,4,344,11,Loyal Customers,United Kingdom
+13332,43,8,583.12,4,4,4,444,12,Champions,United Kingdom
+13333,43,3,414.86,4,3,3,433,10,Loyal Customers,United Kingdom
+13334,3,2,283.7,5,2,3,523,10,Potential Loyalists,United Kingdom
+13335,27,13,2061.08,5,5,5,555,15,Champions,United Kingdom
+13336,56,4,458.72,4,3,3,433,10,Loyal Customers,France
+13337,16,1,86.85,5,1,1,511,7,New Customers,United Kingdom
+13338,36,2,650.09,4,2,4,424,10,Potential Loyalists,Germany
+13339,15,2,382.81,5,2,3,523,10,Potential Loyalists,Switzerland
+13340,244,20,1082.89,1,5,4,154,10,Cannot Lose Them,United Kingdom
+13341,220,2,52.67,2,2,1,221,5,Hibernating,United Kingdom
+13342,232,2,59.8,1,2,1,121,4,Hibernating,France
+13343,69,9,1257.4,3,4,4,344,11,Loyal Customers,EIRE
+13344,146,2,295.43,3,2,3,323,8,Need Attention,United Kingdom
+13345,9,20,5348.38,5,5,5,555,15,Champions,United Kingdom
+13346,297,3,670.71,1,3,4,134,8,At Risk,United Kingdom
+13347,29,6,170.27,4,4,2,442,10,Champions,United Kingdom
+13348,263,3,398.23,1,3,3,133,7,At Risk,United Kingdom
+13349,55,3,421.98,4,3,3,433,10,Loyal Customers,Germany
+13350,54,9,635.96,4,4,4,444,12,Champions,United Kingdom
+13351,341,1,112.54,1,1,2,112,4,Hibernating,United Kingdom
+13352,336,2,152.7,1,2,2,122,5,Hibernating,United Kingdom
+13353,49,2,536.35,4,2,3,423,9,Potential Loyalists,United Kingdom
+13354,178,1,43.35,2,1,1,211,4,Hibernating,United Kingdom
+13355,14,1,95.15,5,1,1,511,7,New Customers,United Kingdom
+13356,52,13,2601.66,4,5,5,455,14,Champions,United Kingdom
+13357,231,3,267.8,1,3,3,133,7,At Risk,United Kingdom
+13358,239,1,37.8,1,1,1,111,3,Hibernating,United Kingdom
+13359,163,12,874.23,2,4,4,244,10,At Risk,United Kingdom
+13360,262,1,193.2,1,1,2,112,4,Hibernating,Australia
+13361,250,1,152.4,1,1,2,112,4,Hibernating,United Kingdom
+13362,206,5,896.79,2,3,4,234,9,At Risk,Germany
+13363,281,2,336.59,1,2,3,123,6,Hibernating,United Kingdom
+13364,327,2,133.35,1,2,2,122,5,Hibernating,United Kingdom
+13365,188,2,334.77,2,2,3,223,7,Hibernating,United Kingdom
+13366,14,11,1868.59,5,4,5,545,14,Champions,United Kingdom
+13367,177,1,13.9,2,1,1,211,4,Hibernating,United Kingdom
+13368,158,6,1085.76,2,4,4,244,10,At Risk,United Kingdom
+13369,211,1,129.78,2,1,2,212,5,Hibernating,United Kingdom
+13370,106,1,8.82,3,1,1,311,5,Need Attention,United Kingdom
+13371,308,1,61.4,1,1,1,111,3,Hibernating,United Kingdom
+13372,266,2,256.07,1,2,3,123,6,Hibernating,United Kingdom
+13373,71,1,4.15,3,1,1,311,5,Need Attention,United Kingdom
+13374,19,2,327.17,5,2,3,523,10,Potential Loyalists,United Kingdom
+13375,14,30,2924.04,5,5,5,555,15,Champions,United Kingdom
+13376,234,22,1398.62,1,5,5,155,11,Cannot Lose Them,United Kingdom
+13377,30,12,463.12,4,4,3,443,11,Champions,United Kingdom
+13378,90,3,294.68,3,3,3,333,9,Need Attention,United Kingdom
+13379,236,1,76.45,1,1,1,111,3,Hibernating,United Kingdom
+13380,260,1,101.87,1,1,1,111,3,Hibernating,United Kingdom
+13381,65,11,2908.29,3,4,5,345,12,Loyal Customers,Portugal
+13382,153,1,247.65,3,1,2,312,6,Need Attention,United Kingdom
+13383,21,28,4019.59,5,5,5,555,15,Champions,United Kingdom
+13384,17,2,233.85,5,2,2,522,9,Potential Loyalists,EIRE
+13385,29,1,32.45,4,1,1,411,6,New Customers,United Kingdom
+13386,16,23,857.1,5,5,4,554,14,Champions,United Kingdom
+13387,274,2,499.7,1,2,3,123,6,Hibernating,United Kingdom
+13388,14,28,2747.02,5,5,5,555,15,Champions,United Kingdom
+13389,84,2,122.45,3,2,2,322,7,Need Attention,United Kingdom
+13390,76,1,103.76,3,1,2,312,6,Need Attention,United Kingdom
+13391,49,4,119.07,4,3,2,432,9,Loyal Customers,United Kingdom
+13392,62,11,1455.2,3,4,5,345,12,Loyal Customers,United Kingdom
+13393,26,15,1389.32,5,5,5,555,15,Champions,United Kingdom
+13394,219,1,16.95,2,1,1,211,4,Hibernating,United Kingdom
+13395,196,7,1458.44,2,4,5,245,11,At Risk,United Kingdom
+13396,356,1,209.92,1,1,2,112,4,Hibernating,United Kingdom
+13397,241,2,140.85,1,2,2,122,5,Hibernating,United Kingdom
+13398,9,15,755.81,5,5,4,554,14,Champions,United Kingdom
+13399,167,6,924.24,2,4,4,244,10,At Risk,United Kingdom
+13400,134,1,36.3,3,1,1,311,5,Need Attention,United Kingdom
+13401,269,1,3.36,1,1,1,111,3,Hibernating,United Kingdom
+13402,22,2,242.31,5,2,2,522,9,Potential Loyalists,EIRE
+13403,18,8,1192.5,5,4,4,544,13,Champions,United Kingdom
+13404,61,1,222.95,3,1,2,312,6,Need Attention,Switzerland
+13405,317,1,43.8,1,1,1,111,3,Hibernating,United Kingdom
+13406,287,2,235.67,1,2,2,122,5,Hibernating,United Kingdom
+13407,23,1,192.18,5,1,2,512,8,New Customers,United Kingdom
+13408,8,1,57.4,5,1,1,511,7,New Customers,United Kingdom
+13409,72,2,61.8,3,2,1,321,6,Need Attention,United Kingdom
+13410,185,7,561.66,2,4,4,244,10,At Risk,United Kingdom
+13411,11,7,435.53,5,4,3,543,12,Champions,United Kingdom
+13412,41,10,424.7,4,4,3,443,11,Champions,United Kingdom
+13413,39,1,67.94,4,1,1,411,6,New Customers,United Kingdom
+13414,177,2,332.05,2,2,3,223,7,Hibernating,Switzerland
+13415,17,1,0.85,5,1,1,511,7,New Customers,United Kingdom
+13416,272,2,328.6,1,2,3,123,6,Hibernating,United Kingdom
+13417,195,18,1839.9,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13419,48,4,1693.07,4,3,5,435,12,Loyal Customers,Germany
+13420,285,1,561.2,1,1,3,113,5,Hibernating,United Kingdom
+13421,75,4,860.07,3,3,4,334,10,Need Attention,United Kingdom
+13422,246,1,25.8,1,1,1,111,3,Hibernating,United Kingdom
+13423,2,3,420.08,5,3,3,533,11,Loyal Customers,United Kingdom
+13424,63,3,410.59,3,3,3,333,9,Need Attention,United Kingdom
+13425,93,4,409.52,3,3,3,333,9,Need Attention,United Kingdom
+13426,210,8,318.62,2,4,3,243,9,At Risk,United Kingdom
+13427,213,3,726.84,2,3,4,234,9,At Risk,United Kingdom
+13428,10,1,132.6,5,1,2,512,8,New Customers,United Kingdom
+13429,15,19,3924.12,5,5,5,555,15,Champions,United Kingdom
+13430,245,1,41.7,1,1,1,111,3,Hibernating,EIRE
+13431,59,4,736.43,3,3,4,334,10,Need Attention,United Kingdom
+13432,83,2,77.44,3,2,1,321,6,Need Attention,United Kingdom
+13433,297,3,416.2,1,3,3,133,7,At Risk,United Kingdom
+13434,7,27,1099.11,5,5,4,554,14,Champions,United Kingdom
+13435,58,2,358.71,3,2,3,323,8,Need Attention,United Kingdom
+13436,25,1,74.08,5,1,1,511,7,New Customers,Spain
+13437,201,8,449.27,2,4,3,243,9,At Risk,United Kingdom
+13438,62,2,107.95,3,2,2,322,7,Need Attention,United Kingdom
+13439,35,2,62.9,4,2,1,421,7,Potential Loyalists,United Kingdom
+13440,334,3,461.64,1,3,3,133,7,At Risk,United Kingdom
+13441,33,1,111.45,4,1,2,412,7,New Customers,EIRE
+13442,180,1,47.6,2,1,1,211,4,Hibernating,Spain
+13443,48,1,81.05,4,1,1,411,6,New Customers,Netherlands
+13444,19,1,82.55,5,1,1,511,7,New Customers,United Kingdom
+13445,291,1,130.94,1,1,2,112,4,Hibernating,United Kingdom
+13446,186,1,135.51,2,1,2,212,5,Hibernating,United Kingdom
+13447,44,10,1446.76,4,4,5,445,13,Champions,United Kingdom
+13448,32,2,180.99,4,2,2,422,8,Potential Loyalists,United Kingdom
+13449,288,1,283.31,1,1,3,113,5,Hibernating,United Kingdom
+13450,58,1,3.75,3,1,1,311,5,Need Attention,United Kingdom
+13451,37,2,83.25,4,2,1,421,7,Potential Loyalists,United Kingdom
+13452,192,6,435.17,2,4,3,243,9,At Risk,United Kingdom
+13453,31,15,1893.63,4,5,5,455,14,Champions,United Kingdom
+13454,209,12,1353.66,2,4,5,245,11,At Risk,EIRE
+13455,214,29,3700.42,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13456,4,2,34.51,5,2,1,521,8,Potential Loyalists,Netherlands
+13457,278,1,99.85,1,1,1,111,3,Hibernating,United Kingdom
+13458,107,3,295.77,3,3,3,333,9,Need Attention,Germany
+13459,68,9,672.55,3,4,4,344,11,Loyal Customers,United Kingdom
+13460,8,18,1089.09,5,5,4,554,14,Champions,Belgium
+13461,38,4,522.44,4,3,3,433,10,Loyal Customers,United Kingdom
+13462,158,8,391.61,2,4,3,243,9,At Risk,United Kingdom
+13463,44,8,993.39,4,4,4,444,12,Champions,United Kingdom
+13464,263,1,4.95,1,1,1,111,3,Hibernating,United Kingdom
+13465,20,21,3020.13,5,5,5,555,15,Champions,United Kingdom
+13466,10,4,633.2,5,3,4,534,12,Loyal Customers,United Kingdom
+13467,98,2,18.21,3,2,1,321,6,Need Attention,United Kingdom
+13468,86,4,585.64,3,3,4,334,10,Need Attention,United Kingdom
+13469,39,13,1737.99,4,5,5,455,14,Champions,United Kingdom
+13470,81,3,187.82,3,3,2,332,8,Need Attention,United Kingdom
+13471,93,7,163.26,3,4,2,342,9,Loyal Customers,United Kingdom
+13472,259,1,84.25,1,1,1,111,3,Hibernating,United Kingdom
+13473,27,1,43.35,5,1,1,511,7,New Customers,United Kingdom
+13474,73,2,14.45,3,2,1,321,6,Need Attention,United Kingdom
+13475,84,12,940.23,3,4,4,344,11,Loyal Customers,United Kingdom
+13476,18,2,220.35,5,2,2,522,9,Potential Loyalists,France
+13477,37,9,2526.72,4,4,5,445,13,Champions,United Kingdom
+13478,98,9,852.31,3,4,4,344,11,Loyal Customers,United Kingdom
+13479,40,3,440.23,4,3,3,433,10,Loyal Customers,United Kingdom
+13480,311,1,175.05,1,1,2,112,4,Hibernating,United Kingdom
+13481,62,1,240.48,3,1,2,312,6,Need Attention,United Kingdom
+13482,21,23,3122.64,5,5,5,555,15,Champions,United Kingdom
+13483,210,1,14.85,2,1,1,211,4,Hibernating,United Kingdom
+13484,208,6,809.0,2,4,4,244,10,At Risk,United Kingdom
+13485,242,1,88.16,1,1,1,111,3,Hibernating,United Kingdom
+13486,43,12,315.37,4,4,3,443,11,Champions,Switzerland
+13487,24,1,209.6,5,1,2,512,8,New Customers,Germany
+13488,17,19,1595.26,5,5,5,555,15,Champions,United Kingdom
+13489,270,3,293.14,1,3,3,133,7,At Risk,United Kingdom
+13490,12,1,242.8,5,1,2,512,8,New Customers,United Kingdom
+13491,239,3,288.21,1,3,3,133,7,At Risk,United Kingdom
+13492,118,4,360.11,3,3,3,333,9,Need Attention,United Kingdom
+13493,206,1,56.75,2,1,1,211,4,Hibernating,United Kingdom
+13494,75,8,752.55,3,4,4,344,11,Loyal Customers,United Kingdom
+13495,23,2,277.0,5,2,3,523,10,Potential Loyalists,United Kingdom
+13496,313,3,224.88,1,3,2,132,6,At Risk,United Kingdom
+13497,299,1,105.95,1,1,2,112,4,Hibernating,United Kingdom
+13498,13,28,1857.82,5,5,5,555,15,Champions,United Kingdom
+13499,50,6,428.01,4,4,3,443,11,Champions,United Kingdom
+13500,231,3,707.86,1,3,4,134,8,At Risk,United Kingdom
+13501,105,4,480.23,3,3,3,333,9,Need Attention,United Kingdom
+13502,26,9,1287.56,5,4,4,544,13,Champions,United Kingdom
+13503,352,2,143.84,1,2,2,122,5,Hibernating,United Kingdom
+13504,135,1,74.65,3,1,1,311,5,Need Attention,United Kingdom
+13505,50,8,638.91,4,4,4,444,12,Champions,United Kingdom
+13506,253,5,327.25,1,3,3,133,7,At Risk,United Kingdom
+13507,231,9,574.53,1,4,4,144,9,At Risk,United Kingdom
+13508,60,1,22.8,3,1,1,311,5,Need Attention,United Kingdom
+13509,258,1,55.65,1,1,1,111,3,Hibernating,United Kingdom
+13510,234,1,25.8,1,1,1,111,3,Hibernating,France
+13511,138,7,976.6,3,4,4,344,11,Loyal Customers,United Kingdom
+13512,79,12,457.85,3,4,3,343,10,Loyal Customers,United Kingdom
+13513,24,13,1398.58,5,5,5,555,15,Champions,United Kingdom
+13514,5,1,429.05,5,1,3,513,9,New Customers,United Kingdom
+13515,189,21,1172.07,2,5,4,254,11,Cannot Lose Them,United Kingdom
+13516,166,11,543.14,2,4,3,243,9,At Risk,United Kingdom
+13517,167,8,1469.42,2,4,5,245,11,At Risk,United Kingdom
+13518,179,6,875.82,2,4,4,244,10,At Risk,United Kingdom
+13519,238,2,676.57,1,2,4,124,7,Hibernating,United Kingdom
+13520,20,8,877.53,5,4,4,544,13,Champions,United Kingdom
+13521,266,1,132.7,1,1,2,112,4,Hibernating,United Kingdom
+13522,206,16,2031.97,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13523,4,2,207.97,5,2,2,522,9,Potential Loyalists,United Kingdom
+13524,16,10,1086.31,5,4,4,544,13,Champions,United Kingdom
+13525,79,2,548.23,3,2,3,323,8,Need Attention,United Kingdom
+13526,163,6,699.33,2,4,4,244,10,At Risk,United Kingdom
+13527,32,2,139.5,4,2,2,422,8,Potential Loyalists,United Kingdom
+13528,22,16,2383.91,5,5,5,555,15,Champions,United Kingdom
+13529,170,12,2308.72,2,4,5,245,11,At Risk,United Kingdom
+13530,42,1,100.7,4,1,1,411,6,New Customers,United Kingdom
+13531,63,13,1667.3,3,5,5,355,13,Loyal Customers,United Kingdom
+13532,55,1,507.01,4,1,3,413,8,New Customers,United Kingdom
+13533,109,2,256.04,3,2,3,323,8,Need Attention,United Kingdom
+13534,34,2,105.69,4,2,2,422,8,Potential Loyalists,United Kingdom
+13535,332,1,25.4,1,1,1,111,3,Hibernating,United Kingdom
+13536,184,1,207.2,2,1,2,212,5,Hibernating,United Kingdom
+13537,7,24,5374.17,5,5,5,555,15,Champions,United Kingdom
+13538,162,6,985.62,2,4,4,244,10,At Risk,France
+13539,314,1,37.15,1,1,1,111,3,Hibernating,United Kingdom
+13540,60,7,485.69,3,4,3,343,10,Loyal Customers,United Kingdom
+13541,5,1,60.45,5,1,1,511,7,New Customers,United Kingdom
+13542,18,25,2194.33,5,5,5,555,15,Champions,United Kingdom
+13543,213,8,1809.87,2,4,5,245,11,At Risk,United Kingdom
+13544,309,2,270.65,1,2,3,123,6,Hibernating,United Kingdom
+13545,355,1,17.0,1,1,1,111,3,Hibernating,United Kingdom
+13546,10,16,1345.4,5,5,4,554,14,Champions,United Kingdom
+13547,50,11,2541.22,4,4,5,445,13,Champions,United Kingdom
+13548,275,3,204.04,1,3,2,132,6,At Risk,France
+13549,168,8,938.75,2,4,4,244,10,At Risk,United Kingdom
+13550,171,16,729.64,2,5,4,254,11,Cannot Lose Them,United Kingdom
+13551,307,3,172.55,1,3,2,132,6,At Risk,United Kingdom
+13552,10,14,3926.01,5,5,5,555,15,Champions,United Kingdom
+13553,69,8,496.65,3,4,3,343,10,Loyal Customers,United Kingdom
+13554,23,1,530.05,5,1,3,513,9,New Customers,United Kingdom
+13555,16,14,2516.24,5,5,5,555,15,Champions,Netherlands
+13556,185,8,2563.34,2,4,5,245,11,At Risk,United Kingdom
+13557,49,1,51.7,4,1,1,411,6,New Customers,United Kingdom
+13558,201,15,1174.55,2,5,4,254,11,Cannot Lose Them,United Kingdom
+13559,20,4,1532.83,5,3,5,535,13,Loyal Customers,Australia
+13560,138,9,281.2,3,4,3,343,10,Loyal Customers,United Kingdom
+13561,88,1,280.0,3,1,3,313,7,Need Attention,Germany
+13562,312,1,70.32,1,1,1,111,3,Hibernating,United Kingdom
+13563,205,12,925.67,2,4,4,244,10,At Risk,United Kingdom
+13564,30,14,1880.29,4,5,5,455,14,Champions,United Kingdom
+13565,89,4,102.77,3,3,2,332,8,Need Attention,United Kingdom
+13566,165,1,287.35,2,1,3,213,6,Hibernating,United Kingdom
+13567,35,17,1296.56,4,5,4,454,13,Champions,United Kingdom
+13568,37,2,53.6,4,2,1,421,7,Potential Loyalists,United Kingdom
+13569,58,11,1988.85,3,4,5,345,12,Loyal Customers,United Kingdom
+13570,40,29,4129.91,4,5,5,455,14,Champions,United Kingdom
+13571,253,2,528.47,1,2,3,123,6,Hibernating,United Kingdom
+13572,23,28,1365.8,5,5,5,555,15,Champions,United Kingdom
+13573,74,12,1492.68,3,5,5,355,13,Loyal Customers,United Kingdom
+13574,45,12,864.44,4,5,4,454,13,Champions,United Kingdom
+13575,314,1,142.35,1,1,2,112,4,Hibernating,United Kingdom
+13576,43,1,6.85,4,1,1,411,6,New Customers,United Kingdom
+13577,66,2,419.2,3,2,3,323,8,Need Attention,Spain
+13578,103,2,163.01,3,2,2,322,7,Need Attention,Spain
+13579,283,1,98.01,1,1,1,111,3,Hibernating,United Kingdom
+13580,196,2,251.58,2,2,2,222,6,Hibernating,United Kingdom
+13581,188,1,277.25,2,1,3,213,6,Hibernating,Germany
+13582,202,12,645.43,2,5,4,254,11,Cannot Lose Them,United Kingdom
+13583,27,13,1798.41,5,5,5,555,15,Champions,United Kingdom
+13584,44,1,32.84,4,1,1,411,6,New Customers,United Kingdom
+13585,14,1,43.65,5,1,1,511,7,New Customers,United Kingdom
+13586,36,13,1461.93,4,5,5,455,14,Champions,United Kingdom
+13587,28,11,1393.39,4,4,5,445,13,Champions,United Kingdom
+13588,87,13,2666.88,3,5,5,355,13,Loyal Customers,United Kingdom
+13589,291,3,432.45,1,3,3,133,7,At Risk,United Kingdom
+13590,280,1,36.5,1,1,1,111,3,Hibernating,United Kingdom
+13591,218,12,1302.42,2,5,4,254,11,Cannot Lose Them,United Kingdom
+13592,183,18,3735.67,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13593,309,1,296.15,1,1,3,113,5,Hibernating,EIRE
+13594,173,1,101.65,2,1,1,211,4,Hibernating,France
+13595,76,3,73.15,3,3,1,331,7,Need Attention,Portugal
+13596,116,2,265.42,3,2,3,323,8,Need Attention,United Kingdom
+13597,221,1,254.98,2,1,3,213,6,Hibernating,Germany
+13598,101,7,1172.32,3,4,4,344,11,Loyal Customers,United Kingdom
+13599,234,1,37.85,1,1,1,111,3,Hibernating,United Kingdom
+13600,176,9,1381.26,2,4,5,245,11,At Risk,United Kingdom
+13601,158,18,1572.09,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13602,66,9,1523.91,3,4,5,345,12,Loyal Customers,EIRE
+13603,60,1,145.94,3,1,2,312,6,Need Attention,EIRE
+13604,329,2,305.4,1,2,3,123,6,Hibernating,United Kingdom
+13605,209,2,273.5,2,2,3,223,7,Hibernating,United Kingdom
+13606,184,27,2475.87,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13607,51,4,394.25,4,3,3,433,10,Loyal Customers,United Kingdom
+13608,339,2,126.34,1,2,2,122,5,Hibernating,United Kingdom
+13609,256,1,198.2,1,1,2,112,4,Hibernating,United Kingdom
+13610,199,2,174.69,2,2,2,222,6,Hibernating,United Kingdom
+13611,14,1,21.96,5,1,1,511,7,New Customers,United Kingdom
+13612,45,2,39.51,4,2,1,421,7,Potential Loyalists,United Kingdom
+13613,187,12,1917.9,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13614,20,2,185.66,5,2,2,522,9,Potential Loyalists,United Kingdom
+13615,250,2,196.81,1,2,2,122,5,Hibernating,United Kingdom
+13616,46,13,539.01,4,5,3,453,12,Champions,United Kingdom
+13617,219,1,160.8,2,1,2,212,5,Hibernating,United Kingdom
+13618,206,7,625.14,2,4,4,244,10,At Risk,United Kingdom
+13619,26,2,311.24,5,2,3,523,10,Potential Loyalists,United Kingdom
+13620,68,3,317.45,3,3,3,333,9,Need Attention,United Kingdom
+13621,178,1,25.85,2,1,1,211,4,Hibernating,United Kingdom
+13622,95,9,2048.85,3,4,5,345,12,Loyal Customers,United Kingdom
+13623,70,3,197.3,3,3,2,332,8,Need Attention,Spain
+13624,52,2,246.89,4,2,2,422,8,Potential Loyalists,United Kingdom
+13625,233,2,290.28,1,2,3,123,6,Hibernating,United Kingdom
+13626,198,16,1235.73,2,5,4,254,11,Cannot Lose Them,United Kingdom
+13627,25,2,252.67,5,2,2,522,9,Potential Loyalists,United Kingdom
+13628,44,14,1709.82,4,5,5,455,14,Champions,United Kingdom
+13629,17,2,150.85,5,2,2,522,9,Potential Loyalists,United Kingdom
+13630,325,1,77.09,1,1,1,111,3,Hibernating,United Kingdom
+13631,30,15,1879.08,4,5,5,455,14,Champions,United Kingdom
+13632,36,6,1052.45,4,4,4,444,12,Champions,United Kingdom
+13633,340,3,102.65,1,3,1,131,5,At Risk,United Kingdom
+13634,191,7,515.32,2,4,3,243,9,At Risk,United Kingdom
+13635,167,4,591.49,2,3,4,234,9,At Risk,United Kingdom
+13636,308,2,165.3,1,2,2,122,5,Hibernating,United Kingdom
+13637,223,2,220.5,2,2,2,222,6,Hibernating,United Kingdom
+13638,182,2,325.8,2,2,3,223,7,Hibernating,United Kingdom
+13639,315,2,235.02,1,2,2,122,5,Hibernating,United Kingdom
+13640,245,3,818.97,1,3,4,134,8,At Risk,United Kingdom
+13641,70,3,495.53,3,3,3,333,9,Need Attention,United Kingdom
+13642,265,2,424.51,1,2,3,123,6,Hibernating,United Kingdom
+13643,56,12,956.54,4,5,4,454,13,Champions,United Kingdom
+13644,21,7,358.87,5,4,3,543,12,Champions,United Kingdom
+13645,56,14,872.31,4,5,4,454,13,Champions,United Kingdom
+13646,266,2,181.4,1,2,2,122,5,Hibernating,United Kingdom
+13647,45,2,207.2,4,2,2,422,8,Potential Loyalists,United Kingdom
+13648,31,2,23.9,4,2,1,421,7,Potential Loyalists,United Kingdom
+13649,107,2,80.8,3,2,1,321,6,Need Attention,United Kingdom
+13650,232,1,148.05,1,1,2,112,4,Hibernating,United Kingdom
+13651,18,14,1043.9,5,5,4,554,14,Champions,United Kingdom
+13652,19,17,1319.24,5,5,4,554,14,Champions,United Kingdom
+13653,62,4,504.66,3,3,3,333,9,Need Attention,Germany
+13654,285,1,102.3,1,1,1,111,3,Hibernating,United Kingdom
+13655,47,8,487.82,4,4,3,443,11,Champions,Belgium
+13656,15,14,1187.79,5,5,4,554,14,Champions,United Kingdom
+13657,143,11,563.24,3,4,4,344,11,Loyal Customers,United Kingdom
+13658,38,2,779.13,4,2,4,424,10,Potential Loyalists,Belgium
+13659,273,3,667.66,1,3,4,134,8,At Risk,United Kingdom
+13660,15,27,1576.39,5,5,5,555,15,Champions,Germany
+13661,32,18,2338.15,4,5,5,455,14,Champions,United Kingdom
+13662,206,12,1332.1,2,5,4,254,11,Cannot Lose Them,Germany
+13663,149,10,512.21,3,4,3,343,10,Loyal Customers,United Kingdom
+13664,62,3,72.13,3,3,1,331,7,Need Attention,United Kingdom
+13665,153,5,135.55,3,3,2,332,8,Need Attention,United Kingdom
+13666,117,2,80.9,3,2,1,321,6,Need Attention,Belgium
+13667,7,2,130.8,5,2,2,522,9,Potential Loyalists,United Kingdom
+13668,146,12,896.57,3,5,4,354,12,Loyal Customers,United Kingdom
+13669,102,7,1481.09,3,4,5,345,12,Loyal Customers,United Kingdom
+13670,216,1,94.25,2,1,1,211,4,Hibernating,United Kingdom
+13671,373,1,142.7,1,1,2,112,4,Hibernating,United Kingdom
+13672,36,1,98.72,4,1,1,411,6,New Customers,United Kingdom
+13673,132,1,42.45,3,1,1,311,5,Need Attention,United Kingdom
+13674,12,2,175.0,5,2,2,522,9,Potential Loyalists,United Kingdom
+13675,11,1,64.3,5,1,1,511,7,New Customers,United Kingdom
+13676,18,13,286.96,5,5,3,553,13,Champions,United Kingdom
+13677,277,2,161.35,1,2,2,122,5,Hibernating,Germany
+13678,111,2,261.95,3,2,3,323,8,Need Attention,France
+13679,248,16,4417.35,1,5,5,155,11,Cannot Lose Them,United Kingdom
+13680,56,6,270.17,4,4,3,443,11,Champions,United Kingdom
+13681,182,5,792.43,2,3,4,234,9,At Risk,United Kingdom
+13682,60,3,358.1,3,3,3,333,9,Need Attention,United Kingdom
+13683,76,3,171.42,3,3,2,332,8,Need Attention,United Kingdom
+13684,58,2,120.25,3,2,2,322,7,Need Attention,United Kingdom
+13685,53,15,779.93,4,5,4,454,13,Champions,United Kingdom
+13686,46,1,100.95,4,1,1,411,6,New Customers,Germany
+13687,350,1,143.75,1,1,2,112,4,Hibernating,United Kingdom
+13688,3,2,24.15,5,2,1,521,8,Potential Loyalists,United Kingdom
+13689,184,1,29.4,2,1,1,211,4,Hibernating,Netherlands
+13690,162,1,9.9,2,1,1,211,4,Hibernating,United Kingdom
+13691,195,8,1506.81,2,4,5,245,11,At Risk,United Kingdom
+13692,74,4,319.26,3,3,3,333,9,Need Attention,Spain
+13693,19,1,262.5,5,1,3,513,9,New Customers,United Kingdom
+13694,28,1,64.95,4,1,1,411,6,New Customers,United Kingdom
+13695,26,1,131.45,5,1,2,512,8,New Customers,United Kingdom
+13696,71,4,361.15,3,3,3,333,9,Need Attention,United Kingdom
+13697,212,10,1099.86,2,4,4,244,10,At Risk,United Kingdom
+13698,268,3,193.6,1,3,2,132,6,At Risk,United Kingdom
+13699,57,4,192.31,3,3,2,332,8,Need Attention,United Kingdom
+13700,16,1,189.51,5,1,2,512,8,New Customers,United Kingdom
+13701,78,3,166.0,3,3,2,332,8,Need Attention,United Kingdom
+13702,55,3,219.37,4,3,2,432,9,Loyal Customers,Germany
+13703,227,1,74.52,2,1,1,211,4,Hibernating,United Kingdom
+13704,145,9,411.84,3,4,3,343,10,Loyal Customers,United Kingdom
+13705,162,11,1425.45,2,4,5,245,11,At Risk,United Kingdom
+13706,58,2,172.75,3,2,2,322,7,Need Attention,United Kingdom
+13707,266,1,382.65,1,1,3,113,5,Hibernating,Germany
+13708,50,16,2014.0,4,5,5,455,14,Champions,United Kingdom
+13709,14,1,20.22,5,1,1,511,7,New Customers,United Kingdom
+13710,205,1,113.62,2,1,2,212,5,Hibernating,United Kingdom
+13711,54,6,190.84,4,4,2,442,10,Champions,United Kingdom
+13712,302,1,52.22,1,1,1,111,3,Hibernating,United Kingdom
+13713,235,2,413.84,1,2,3,123,6,Hibernating,United Kingdom
+13714,228,3,360.3,1,3,3,133,7,At Risk,United Kingdom
+13715,7,20,2529.86,5,5,5,555,15,Champions,EIRE
+13716,32,16,1484.97,4,5,5,455,14,Champions,United Kingdom
+13717,19,2,296.8,5,2,3,523,10,Potential Loyalists,United Kingdom
+13718,53,3,162.3,4,3,2,432,9,Loyal Customers,United Kingdom
+13719,285,3,48.17,1,3,1,131,5,At Risk,United Kingdom
+13720,272,1,99.75,1,1,1,111,3,Hibernating,United Kingdom
+13721,21,12,818.67,5,5,4,554,14,Champions,United Kingdom
+13722,48,2,176.25,4,2,2,422,8,Potential Loyalists,United Kingdom
+13723,44,9,406.56,4,4,3,443,11,Champions,United Kingdom
+13724,19,1,33.6,5,1,1,511,7,New Customers,United Kingdom
+13725,65,2,297.04,3,2,3,323,8,Need Attention,United Kingdom
+13726,39,2,601.8,4,2,4,424,10,Potential Loyalists,United Kingdom
+13727,91,6,1030.68,3,4,4,344,11,Loyal Customers,United Kingdom
+13728,21,1,62.95,5,1,1,511,7,New Customers,United Kingdom
+13729,54,11,640.46,4,4,4,444,12,Champions,United Kingdom
+13730,181,30,4210.85,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13731,39,1,195.06,4,1,2,412,7,New Customers,United Kingdom
+13732,177,7,426.22,2,4,3,243,9,At Risk,United Kingdom
+13733,32,12,2328.72,4,5,5,455,14,Champions,United Kingdom
+13734,55,7,656.12,4,4,4,444,12,Champions,Germany
+13735,46,15,1648.86,4,5,5,455,14,Champions,United Kingdom
+13736,224,21,3060.61,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13737,31,3,106.07,4,3,2,432,9,Loyal Customers,United Kingdom
+13738,77,8,576.71,3,4,4,344,11,Loyal Customers,United Kingdom
+13739,27,1,54.2,5,1,1,511,7,New Customers,United Kingdom
+13740,6,15,4105.84,5,5,5,555,15,Champions,United Kingdom
+13741,16,2,72.28,5,2,1,521,8,Potential Loyalists,United Kingdom
+13742,23,2,160.63,5,2,2,522,9,Potential Loyalists,United Kingdom
+13743,52,3,262.9,4,3,3,433,10,Loyal Customers,United Kingdom
+13744,17,28,3008.41,5,5,5,555,15,Champions,United Kingdom
+13745,29,13,2088.84,4,5,5,455,14,Champions,United Kingdom
+13746,41,18,2264.73,4,5,5,455,14,Champions,United Kingdom
+13747,188,7,961.62,2,4,4,244,10,At Risk,United Kingdom
+13748,35,13,687.45,4,5,4,454,13,Champions,United Kingdom
+13749,19,1,124.4,5,1,2,512,8,New Customers,United Kingdom
+13750,126,1,53.82,3,1,1,311,5,Need Attention,United Kingdom
+13751,68,14,2036.66,3,5,5,355,13,Loyal Customers,United Kingdom
+13752,306,1,10.5,1,1,1,111,3,Hibernating,United Kingdom
+13753,29,2,238.4,4,2,2,422,8,Potential Loyalists,United Kingdom
+13754,22,30,8463.14,5,5,5,555,15,Champions,United Kingdom
+13755,44,12,1918.83,4,5,5,455,14,Champions,United Kingdom
+13756,198,29,2751.31,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13757,17,2,274.78,5,2,3,523,10,Potential Loyalists,United Kingdom
+13758,287,3,353.26,1,3,3,133,7,At Risk,United Kingdom
+13759,355,1,86.35,1,1,1,111,3,Hibernating,United Kingdom
+13760,299,1,137.58,1,1,2,112,4,Hibernating,United Kingdom
+13761,305,1,207.9,1,1,2,112,4,Hibernating,United Kingdom
+13762,146,1,10.08,3,1,1,311,5,Need Attention,United Kingdom
+13763,57,1,46.05,3,1,1,311,5,Need Attention,United Kingdom
+13764,18,2,492.97,5,2,3,523,10,Potential Loyalists,Spain
+13765,307,1,218.7,1,1,2,112,4,Hibernating,United Kingdom
+13766,27,12,1403.61,5,5,5,555,15,Champions,United Kingdom
+13767,45,3,175.89,4,3,2,432,9,Loyal Customers,United Kingdom
+13768,81,3,514.44,3,3,3,333,9,Need Attention,United Kingdom
+13769,58,2,261.33,3,2,3,323,8,Need Attention,United Kingdom
+13770,65,4,572.85,3,3,4,334,10,Need Attention,United Kingdom
+13771,169,11,1092.62,2,4,4,244,10,At Risk,United Kingdom
+13772,233,6,504.31,1,4,3,143,8,At Risk,Spain
+13773,28,15,1738.57,4,5,5,455,14,Champions,United Kingdom
+13774,42,8,2108.71,4,4,5,445,13,Champions,United Kingdom
+13775,228,23,3266.56,1,5,5,155,11,Cannot Lose Them,United Kingdom
+13776,174,2,184.05,2,2,2,222,6,Hibernating,United Kingdom
+13777,287,3,227.26,1,3,2,132,6,At Risk,United Kingdom
+13778,76,2,141.95,3,2,2,322,7,Need Attention,United Kingdom
+13779,250,1,49.55,1,1,1,111,3,Hibernating,United Kingdom
+13780,178,1,53.8,2,1,1,211,4,Hibernating,Spain
+13781,53,1,208.0,4,1,2,412,7,New Customers,United Kingdom
+13782,58,3,220.32,3,3,2,332,8,Need Attention,United Kingdom
+13783,293,1,145.9,1,1,2,112,4,Hibernating,United Kingdom
+13784,65,4,204.37,3,3,2,332,8,Need Attention,United Kingdom
+13785,346,1,31.05,1,1,1,111,3,Hibernating,France
+13786,16,1,141.74,5,1,2,512,8,New Customers,United Kingdom
+13787,52,4,369.93,4,3,3,433,10,Loyal Customers,EIRE
+13788,189,10,1100.26,2,4,4,244,10,At Risk,United Kingdom
+13789,187,1,14.5,2,1,1,211,4,Hibernating,United Kingdom
+13790,152,10,695.74,3,4,4,344,11,Loyal Customers,United Kingdom
+13791,57,3,47.92,3,3,1,331,7,Need Attention,United Kingdom
+13792,214,1,12.75,2,1,1,211,4,Hibernating,United Kingdom
+13793,269,2,75.76,1,2,1,121,4,Hibernating,EIRE
+13794,183,2,156.42,2,2,2,222,6,Hibernating,United Kingdom
+13795,304,1,115.55,1,1,2,112,4,Hibernating,United Kingdom
+13796,9,2,519.3,5,2,3,523,10,Potential Loyalists,United Kingdom
+13797,32,14,1133.48,4,5,4,454,13,Champions,United Kingdom
+13798,20,12,1143.91,5,5,4,554,14,Champions,United Kingdom
+13799,196,26,2692.45,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13800,268,3,41.56,1,3,1,131,5,At Risk,United Kingdom
+13801,49,6,164.97,4,4,2,442,10,Champions,United Kingdom
+13802,105,6,309.6,3,4,3,343,10,Loyal Customers,United Kingdom
+13803,200,10,1546.02,2,4,5,245,11,At Risk,United Kingdom
+13804,219,6,404.87,2,4,3,243,9,At Risk,United Kingdom
+13805,255,1,101.5,1,1,1,111,3,Hibernating,Spain
+13806,32,2,25.27,4,2,1,421,7,Potential Loyalists,Germany
+13807,53,8,282.18,4,4,3,443,11,Champions,United Kingdom
+13808,184,12,1131.12,2,5,4,254,11,Cannot Lose Them,United Kingdom
+13809,29,13,1821.23,4,5,5,455,14,Champions,United Kingdom
+13810,43,20,2434.72,4,5,5,455,14,Champions,France
+13811,37,3,265.19,4,3,3,433,10,Loyal Customers,United Kingdom
+13812,16,2,375.35,5,2,3,523,10,Potential Loyalists,United Kingdom
+13813,121,3,468.85,3,3,3,333,9,Need Attention,United Kingdom
+13814,185,2,151.07,2,2,2,222,6,Hibernating,United Kingdom
+13815,213,20,960.88,2,5,4,254,11,Cannot Lose Them,United Kingdom
+13816,209,6,834.11,2,4,4,244,10,At Risk,United Kingdom
+13817,24,1,28.3,5,1,1,511,7,New Customers,United Kingdom
+13818,9,15,966.66,5,5,4,554,14,Champions,United Kingdom
+13819,35,1,139.85,4,1,2,412,7,New Customers,United Kingdom
+13820,35,2,83.14,4,2,1,421,7,Potential Loyalists,Spain
+13821,20,2,682.74,5,2,4,524,11,Potential Loyalists,United Kingdom
+13822,37,7,437.34,4,4,3,443,11,Champions,United Kingdom
+13823,173,6,689.37,2,4,4,244,10,At Risk,United Kingdom
+13824,42,1,264.9,4,1,3,413,8,New Customers,United Kingdom
+13825,42,13,1796.19,4,5,5,455,14,Champions,Germany
+13826,162,1,14.85,2,1,1,211,4,Hibernating,United Kingdom
+13827,215,28,3733.97,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13828,7,17,1020.46,5,5,4,554,14,Champions,United Kingdom
+13829,139,9,1826.34,3,4,5,345,12,Loyal Customers,United Kingdom
+13830,36,1,177.85,4,1,2,412,7,New Customers,United Kingdom
+13831,129,1,154.45,3,1,2,312,6,Need Attention,United Kingdom
+13832,198,1,94.0,2,1,1,211,4,Hibernating,France
+13833,342,1,115.4,1,1,2,112,4,Hibernating,Belgium
+13834,42,1,188.35,4,1,2,412,7,New Customers,Germany
+13835,12,2,332.13,5,2,3,523,10,Potential Loyalists,United Kingdom
+13836,66,6,472.41,3,4,3,343,10,Loyal Customers,United Kingdom
+13837,43,1,24.86,4,1,1,411,6,New Customers,United Kingdom
+13838,15,2,215.8,5,2,2,522,9,Potential Loyalists,United Kingdom
+13839,202,10,1503.25,2,4,5,245,11,At Risk,United Kingdom
+13840,78,13,1465.82,3,5,5,355,13,Loyal Customers,United Kingdom
+13841,43,14,1743.38,4,5,5,455,14,Champions,United Kingdom
+13842,20,1,127.12,5,1,2,512,8,New Customers,France
+13843,43,9,2597.34,4,4,5,445,13,Champions,United Kingdom
+13844,74,2,109.6,3,2,2,322,7,Need Attention,United Kingdom
+13845,9,13,682.9,5,5,4,554,14,Champions,United Kingdom
+13846,7,15,1079.66,5,5,4,554,14,Champions,United Kingdom
+13847,27,2,395.84,5,2,3,523,10,Potential Loyalists,United Kingdom
+13848,245,2,225.31,1,2,2,122,5,Hibernating,United Kingdom
+13849,194,7,297.34,2,4,3,243,9,At Risk,United Kingdom
+13850,57,4,232.15,3,3,2,332,8,Need Attention,United Kingdom
+13851,99,2,454.95,3,2,3,323,8,Need Attention,United Kingdom
+13852,250,1,225.7,1,1,2,112,4,Hibernating,United Kingdom
+13853,58,4,381.79,3,3,3,333,9,Need Attention,United Kingdom
+13854,20,2,167.39,5,2,2,522,9,Potential Loyalists,EIRE
+13855,78,7,1671.3,3,4,5,345,12,Loyal Customers,United Kingdom
+13856,203,10,4338.62,2,4,5,245,11,At Risk,United Kingdom
+13857,353,3,140.95,1,3,2,132,6,At Risk,United Kingdom
+13858,14,1,74.4,5,1,1,511,7,New Customers,United Kingdom
+13859,32,14,2543.42,4,5,5,455,14,Champions,United Kingdom
+13860,34,1,179.05,4,1,2,412,7,New Customers,United Kingdom
+13861,4,27,4286.26,5,5,5,555,15,Champions,United Kingdom
+13862,247,8,668.83,1,4,4,144,9,At Risk,Belgium
+13863,158,6,401.24,2,4,3,243,9,At Risk,United Kingdom
+13864,192,10,1160.36,2,4,4,244,10,At Risk,United Kingdom
+13865,15,29,5525.39,5,5,5,555,15,Champions,United Kingdom
+13866,93,10,705.12,3,4,4,344,11,Loyal Customers,United Kingdom
+13867,67,4,957.88,3,3,4,334,10,Need Attention,United Kingdom
+13868,25,2,169.95,5,2,2,522,9,Potential Loyalists,United Kingdom
+13869,134,6,502.85,3,4,3,343,10,Loyal Customers,France
+13870,37,13,862.59,4,5,4,454,13,Champions,United Kingdom
+13871,130,1,179.43,3,1,2,312,6,Need Attention,United Kingdom
+13872,225,10,1655.08,2,4,5,245,11,At Risk,United Kingdom
+13873,300,1,170.72,1,1,2,112,4,Hibernating,United Kingdom
+13874,193,10,638.13,2,4,4,244,10,At Risk,United Kingdom
+13875,49,3,423.24,4,3,3,433,10,Loyal Customers,United Kingdom
+13876,226,1,5.0,2,1,1,211,4,Hibernating,United Kingdom
+13877,271,3,283.43,1,3,3,133,7,At Risk,United Kingdom
+13878,101,3,309.45,3,3,3,333,9,Need Attention,United Kingdom
+13879,7,2,676.26,5,2,4,524,11,Potential Loyalists,United Kingdom
+13880,16,2,102.65,5,2,1,521,8,Potential Loyalists,United Kingdom
+13881,57,3,544.55,3,3,3,333,9,Need Attention,United Kingdom
+13882,90,4,437.4,3,3,3,333,9,Need Attention,United Kingdom
+13883,179,7,769.29,2,4,4,244,10,At Risk,United Kingdom
+13884,192,6,353.53,2,4,3,243,9,At Risk,United Kingdom
+13885,60,2,92.67,3,2,1,321,6,Need Attention,United Kingdom
+13886,22,2,50.86,5,2,1,521,8,Potential Loyalists,United Kingdom
+13887,189,6,310.95,2,4,3,243,9,At Risk,United Kingdom
+13888,70,10,1086.11,3,4,4,344,11,Loyal Customers,United Kingdom
+13889,60,1,516.8,3,1,3,313,7,Need Attention,United Kingdom
+13890,9,2,158.09,5,2,2,522,9,Potential Loyalists,United Kingdom
+13891,240,2,359.61,1,2,3,123,6,Hibernating,United Kingdom
+13892,33,2,8.26,4,2,1,421,7,Potential Loyalists,United Kingdom
+13893,191,19,2147.5,2,5,5,255,12,Cannot Lose Them,Spain
+13894,45,2,470.72,4,2,3,423,9,Potential Loyalists,United Kingdom
+13895,69,3,472.66,3,3,3,333,9,Need Attention,United Kingdom
+13896,252,3,138.97,1,3,2,132,6,At Risk,United Kingdom
+13897,55,3,243.25,4,3,2,432,9,Loyal Customers,United Kingdom
+13898,11,2,132.34,5,2,2,522,9,Potential Loyalists,United Kingdom
+13899,75,1,30.45,3,1,1,311,5,Need Attention,United Kingdom
+13900,244,1,281.99,1,1,3,113,5,Hibernating,United Kingdom
+13901,231,22,2595.37,1,5,5,155,11,Cannot Lose Them,United Kingdom
+13902,55,3,479.75,4,3,3,433,10,Loyal Customers,United Kingdom
+13903,273,3,180.15,1,3,2,132,6,At Risk,United Kingdom
+13904,89,1,436.75,3,1,3,313,7,Need Attention,United Kingdom
+13905,173,10,856.46,2,4,4,244,10,At Risk,United Kingdom
+13906,198,1,205.25,2,1,2,212,5,Hibernating,Germany
+13907,80,13,1639.11,3,5,5,355,13,Loyal Customers,United Kingdom
+13908,162,5,1215.59,2,3,4,234,9,At Risk,United Kingdom
+13909,231,3,550.68,1,3,3,133,7,At Risk,France
+13910,24,22,4704.37,5,5,5,555,15,Champions,Germany
+13911,273,2,37.92,1,2,1,121,4,Hibernating,United Kingdom
+13912,69,10,1398.35,3,4,5,345,12,Loyal Customers,United Kingdom
+13913,286,2,280.05,1,2,3,123,6,Hibernating,Germany
+13914,3,1,205.9,5,1,2,512,8,New Customers,United Kingdom
+13915,266,3,240.15,1,3,2,132,6,At Risk,United Kingdom
+13916,174,28,3931.11,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13917,130,11,2311.18,3,4,5,345,12,Loyal Customers,United Kingdom
+13918,111,6,399.15,3,4,3,343,10,Loyal Customers,United Kingdom
+13919,180,6,500.19,2,4,3,243,9,At Risk,United Kingdom
+13920,25,7,819.41,5,4,4,544,13,Champions,United Kingdom
+13921,22,4,613.56,5,3,4,534,12,Loyal Customers,United Kingdom
+13922,180,5,1921.86,2,3,5,235,10,At Risk,United Kingdom
+13923,223,25,1272.29,2,5,4,254,11,Cannot Lose Them,United Kingdom
+13924,31,2,460.39,4,2,3,423,9,Potential Loyalists,United Kingdom
+13925,54,14,2172.97,4,5,5,455,14,Champions,United Kingdom
+13926,186,10,2621.97,2,4,5,245,11,At Risk,Germany
+13927,282,3,154.28,1,3,2,132,6,At Risk,United Kingdom
+13928,299,3,362.23,1,3,3,133,7,At Risk,United Kingdom
+13929,243,1,93.4,1,1,1,111,3,Hibernating,United Kingdom
+13930,329,1,64.47,1,1,1,111,3,Hibernating,United Kingdom
+13931,16,2,574.81,5,2,4,524,11,Potential Loyalists,United Kingdom
+13932,57,3,1154.81,3,3,4,334,10,Need Attention,Spain
+13933,151,1,314.17,3,1,3,313,7,Need Attention,United Kingdom
+13934,87,6,817.48,3,4,4,344,11,Loyal Customers,United Kingdom
+13935,222,3,84.2,2,3,1,231,6,At Risk,United Kingdom
+13936,216,2,149.95,2,2,2,222,6,Hibernating,France
+13937,67,2,166.35,3,2,2,322,7,Need Attention,United Kingdom
+13938,26,7,1078.68,5,4,4,544,13,Champions,United Kingdom
+13939,16,20,4524.22,5,5,5,555,15,Champions,France
+13940,95,1,127.35,3,1,2,312,6,Need Attention,United Kingdom
+13941,159,12,1716.06,2,5,5,255,12,Cannot Lose Them,United Kingdom
+13942,262,2,181.65,1,2,2,122,5,Hibernating,Spain
+13943,237,28,2821.55,1,5,5,155,11,Cannot Lose Them,United Kingdom
+13944,44,22,3436.58,4,5,5,455,14,Champions,United Kingdom
+13945,43,1,63.95,4,1,1,411,6,New Customers,United Kingdom
+13946,61,12,3871.85,3,5,5,355,13,Loyal Customers,United Kingdom
+13947,211,6,363.36,2,4,3,243,9,At Risk,United Kingdom
+13948,18,4,429.56,5,3,3,533,11,Loyal Customers,United Kingdom
+13949,213,1,698.2,2,1,4,214,7,Hibernating,United Kingdom
+13950,236,3,228.09,1,3,2,132,6,At Risk,United Kingdom
+13951,282,2,455.92,1,2,3,123,6,Hibernating,United Kingdom
+13952,23,1,57.82,5,1,1,511,7,New Customers,United Kingdom
+13953,181,1,31.75,2,1,1,211,4,Hibernating,United Kingdom
+13954,14,24,4428.98,5,5,5,555,15,Champions,United Kingdom
+13955,56,1,75.9,4,1,1,411,6,New Customers,United Kingdom
+13956,24,1,234.68,5,1,2,512,8,New Customers,United Kingdom
+13957,360,1,69.4,1,1,1,111,3,Hibernating,United Kingdom
+13958,51,11,3253.49,4,4,5,445,13,Champions,United Kingdom
+13959,230,2,264.45,1,2,3,123,6,Hibernating,France
+13960,147,7,736.4,3,4,4,344,11,Loyal Customers,Spain
+13961,58,6,397.34,3,4,3,343,10,Loyal Customers,United Kingdom
+13962,59,1,33.6,3,1,1,311,5,Need Attention,United Kingdom
+13963,168,1,15.69,2,1,1,211,4,Hibernating,United Kingdom
+13964,14,29,4794.46,5,5,5,555,15,Champions,United Kingdom
+13965,33,2,621.57,4,2,4,424,10,Potential Loyalists,Germany
+13966,27,1,1.68,5,1,1,511,7,New Customers,United Kingdom
+13967,31,1,41.55,4,1,1,411,6,New Customers,United Kingdom
+13968,182,9,1644.21,2,4,5,245,11,At Risk,United Kingdom
+13969,14,2,193.21,5,2,2,522,9,Potential Loyalists,United Kingdom
+13970,270,3,68.8,1,3,1,131,5,At Risk,United Kingdom
+13971,7,17,1502.98,5,5,5,555,15,Champions,United Kingdom
+13972,11,2,146.05,5,2,2,522,9,Potential Loyalists,United Kingdom
+13973,41,1,252.35,4,1,2,412,7,New Customers,United Kingdom
+13974,18,25,3812.43,5,5,5,555,15,Champions,United Kingdom
+13975,38,9,785.67,4,4,4,444,12,Champions,United Kingdom
+13976,48,3,453.62,4,3,3,433,10,Loyal Customers,United Kingdom
+13977,20,1,210.9,5,1,2,512,8,New Customers,Germany
+13978,10,2,61.98,5,2,1,521,8,Potential Loyalists,Netherlands
+13979,37,1,328.95,4,1,3,413,8,New Customers,United Kingdom
+13980,20,12,1533.72,5,5,5,555,15,Champions,United Kingdom
+13981,102,1,64.8,3,1,1,311,5,Need Attention,United Kingdom
+13982,24,1,54.8,5,1,1,511,7,New Customers,United Kingdom
+13983,65,7,649.62,3,4,4,344,11,Loyal Customers,United Kingdom
+13984,3,16,1674.06,5,5,5,555,15,Champions,United Kingdom
+13985,11,2,384.65,5,2,3,523,10,Potential Loyalists,United Kingdom
+13986,234,3,444.73,1,3,3,133,7,At Risk,United Kingdom
+13987,123,1,96.0,3,1,1,311,5,Need Attention,United Kingdom
+13988,8,1,79.35,5,1,1,511,7,New Customers,United Kingdom
+13989,31,4,340.15,4,3,3,433,10,Loyal Customers,United Kingdom
+13990,254,2,65.0,1,2,1,121,4,Hibernating,United Kingdom
+13991,11,2,273.19,5,2,3,523,10,Potential Loyalists,United Kingdom
+13992,44,3,498.57,4,3,3,433,10,Loyal Customers,United Kingdom
+13993,22,2,207.75,5,2,2,522,9,Potential Loyalists,United Kingdom
+13994,19,12,3751.69,5,5,5,555,15,Champions,United Kingdom
+13995,10,2,992.61,5,2,4,524,11,Potential Loyalists,United Kingdom
+13996,9,1,51.3,5,1,1,511,7,New Customers,United Kingdom
+13997,27,1,146.4,5,1,2,512,8,New Customers,United Kingdom
+13998,303,1,136.14,1,1,2,112,4,Hibernating,United Kingdom
+13999,68,1,39.8,3,1,1,311,5,Need Attention,United Kingdom
+14000,279,1,71.72,1,1,1,111,3,Hibernating,United Kingdom
+14001,66,4,651.15,3,3,4,334,10,Need Attention,United Kingdom
+14002,66,2,125.4,3,2,2,322,7,Need Attention,Netherlands
+14003,248,19,3727.59,1,5,5,155,11,Cannot Lose Them,United Kingdom
+14004,32,10,640.78,4,4,4,444,12,Champions,United Kingdom
+14005,270,2,602.25,1,2,4,124,7,Hibernating,United Kingdom
+14006,55,6,1232.17,4,4,4,444,12,Champions,United Kingdom
+14007,191,12,1521.51,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14008,53,14,1560.75,4,5,5,455,14,Champions,United Kingdom
+14009,85,13,2313.34,3,5,5,355,13,Loyal Customers,United Kingdom
+14010,236,3,209.19,1,3,2,132,6,At Risk,United Kingdom
+14011,44,12,988.51,4,5,4,454,13,Champions,United Kingdom
+14012,13,2,91.75,5,2,1,521,8,Potential Loyalists,United Kingdom
+14013,214,11,681.73,2,4,4,244,10,At Risk,United Kingdom
+14014,109,1,139.3,3,1,2,312,6,Need Attention,United Kingdom
+14015,342,2,89.09,1,2,1,121,4,Hibernating,EIRE
+14016,29,22,1103.6,4,5,4,454,13,Champions,United Kingdom
+14017,236,22,2558.18,1,5,5,155,11,Cannot Lose Them,United Kingdom
+14018,18,2,179.73,5,2,2,522,9,Potential Loyalists,Germany
+14019,187,5,1016.96,2,3,4,234,9,At Risk,United Kingdom
+14020,218,3,211.15,2,3,2,232,7,At Risk,Switzerland
+14021,74,4,370.46,3,3,3,333,9,Need Attention,United Kingdom
+14022,220,3,63.65,2,3,1,231,6,At Risk,United Kingdom
+14023,63,4,736.28,3,3,4,334,10,Need Attention,United Kingdom
+14024,239,1,53.66,1,1,1,111,3,Hibernating,United Kingdom
+14025,235,3,313.99,1,3,3,133,7,At Risk,United Kingdom
+14026,322,1,30.51,1,1,1,111,3,Hibernating,United Kingdom
+14027,34,20,1461.29,4,5,5,455,14,Champions,United Kingdom
+14028,60,14,1960.62,3,5,5,355,13,Loyal Customers,United Kingdom
+14029,49,1,177.9,4,1,2,412,7,New Customers,United Kingdom
+14030,94,12,455.5,3,5,3,353,11,Loyal Customers,United Kingdom
+14031,14,2,685.6,5,2,4,524,11,Potential Loyalists,United Kingdom
+14032,35,2,211.55,4,2,2,422,8,Potential Loyalists,United Kingdom
+14033,35,27,4176.38,4,5,5,455,14,Champions,United Kingdom
+14034,15,4,644.69,5,3,4,534,12,Loyal Customers,United Kingdom
+14035,43,30,11082.52,4,5,5,455,14,Champions,United Kingdom
+14036,312,1,286.05,1,1,3,113,5,Hibernating,Germany
+14037,20,15,1153.27,5,5,4,554,14,Champions,United Kingdom
+14038,25,1,12.8,5,1,1,511,7,New Customers,Spain
+14039,13,1,181.25,5,1,2,512,8,New Customers,United Kingdom
+14040,369,1,80.76,1,1,1,111,3,Hibernating,United Kingdom
+14041,278,1,83.07,1,1,1,111,3,Hibernating,United Kingdom
+14042,48,2,583.05,4,2,4,424,10,Potential Loyalists,United Kingdom
+14043,76,3,113.13,3,3,2,332,8,Need Attention,United Kingdom
+14044,51,10,908.83,4,4,4,444,12,Champions,United Kingdom
+14045,65,2,116.25,3,2,2,322,7,Need Attention,United Kingdom
+14046,175,2,69.08,2,2,1,221,5,Hibernating,United Kingdom
+14047,126,3,250.45,3,3,2,332,8,Need Attention,United Kingdom
+14048,36,2,89.02,4,2,1,421,7,Potential Loyalists,United Kingdom
+14049,31,16,2015.59,4,5,5,455,14,Champions,United Kingdom
+14050,149,11,2236.95,3,4,5,345,12,Loyal Customers,United Kingdom
+14051,361,1,374.12,1,1,3,113,5,Hibernating,France
+14052,9,13,2243.24,5,5,5,555,15,Champions,United Kingdom
+14053,178,12,1573.44,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14054,201,11,1403.27,2,4,5,245,11,At Risk,United Kingdom
+14055,157,10,1234.42,2,4,4,244,10,At Risk,United Kingdom
+14056,40,24,4714.83,4,5,5,455,14,Champions,United Kingdom
+14057,82,1,103.65,3,1,2,312,6,Need Attention,United Kingdom
+14058,214,21,1927.99,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14059,252,2,159.92,1,2,2,122,5,Hibernating,United Kingdom
+14060,233,1,119.1,1,1,2,112,4,Hibernating,Spain
+14061,69,10,1447.74,3,4,5,345,12,Loyal Customers,United Kingdom
+14062,41,11,815.36,4,4,4,444,12,Champions,United Kingdom
+14063,46,13,1373.64,4,5,5,455,14,Champions,United Kingdom
+14064,180,21,2041.16,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14065,296,3,808.74,1,3,4,134,8,At Risk,United Kingdom
+14066,56,4,892.67,4,3,4,434,11,Loyal Customers,United Kingdom
+14067,11,1,170.22,5,1,2,512,8,New Customers,United Kingdom
+14068,190,1,93.5,2,1,1,211,4,Hibernating,Portugal
+14069,188,3,173.32,2,3,2,232,7,At Risk,United Kingdom
+14070,17,2,222.85,5,2,2,522,9,Potential Loyalists,United Kingdom
+14071,24,1,217.4,5,1,2,512,8,New Customers,United Kingdom
+14072,94,3,85.91,3,3,1,331,7,Need Attention,United Kingdom
+14073,32,4,459.05,4,3,3,433,10,Loyal Customers,United Kingdom
+14074,179,2,84.45,2,2,1,221,5,Hibernating,United Kingdom
+14075,45,2,181.25,4,2,2,422,8,Potential Loyalists,United Kingdom
+14076,36,14,1255.71,4,5,4,454,13,Champions,United Kingdom
+14077,7,16,1829.58,5,5,5,555,15,Champions,United Kingdom
+14078,174,1,118.4,2,1,2,212,5,Hibernating,France
+14079,167,7,1264.19,2,4,4,244,10,At Risk,United Kingdom
+14080,213,3,594.37,2,3,4,234,9,At Risk,United Kingdom
+14081,176,9,659.85,2,4,4,244,10,At Risk,United Kingdom
+14082,313,1,121.5,1,1,2,112,4,Hibernating,United Kingdom
+14083,64,6,657.2,3,4,4,344,11,Loyal Customers,United Kingdom
+14084,221,2,279.12,2,2,3,223,7,Hibernating,United Kingdom
+14085,208,9,744.99,2,4,4,244,10,At Risk,United Kingdom
+14086,209,1,68.41,2,1,1,211,4,Hibernating,United Kingdom
+14087,59,6,573.33,3,4,4,344,11,Loyal Customers,United Kingdom
+14088,28,1,246.6,4,1,2,412,7,New Customers,United Kingdom
+14089,247,18,4049.84,1,5,5,155,11,Cannot Lose Them,EIRE
+14090,24,1,149.25,5,1,2,512,8,New Customers,France
+14091,279,3,205.15,1,3,2,132,6,At Risk,United Kingdom
+14092,69,1,27.77,3,1,1,311,5,Need Attention,United Kingdom
+14093,267,1,42.0,1,1,1,111,3,Hibernating,Switzerland
+14094,46,4,590.04,4,3,4,434,11,Loyal Customers,United Kingdom
+14095,18,1,62.92,5,1,1,511,7,New Customers,United Kingdom
+14096,193,9,976.29,2,4,4,244,10,At Risk,United Kingdom
+14097,216,1,56.9,2,1,1,211,4,Hibernating,United Kingdom
+14098,32,25,1352.82,4,5,5,455,14,Champions,United Kingdom
+14099,13,24,2209.54,5,5,5,555,15,Champions,United Kingdom
+14100,271,5,254.59,1,3,3,133,7,At Risk,United Kingdom
+14101,229,3,512.63,1,3,3,133,7,At Risk,United Kingdom
+14102,61,12,1345.78,3,5,4,354,12,Loyal Customers,United Kingdom
+14103,260,1,62.9,1,1,1,111,3,Hibernating,United Kingdom
+14104,41,1,18.21,4,1,1,411,6,New Customers,United Kingdom
+14105,79,2,36.56,3,2,1,321,6,Need Attention,United Kingdom
+14106,22,11,2655.22,5,4,5,545,14,Champions,United Kingdom
+14107,101,7,672.14,3,4,4,344,11,Loyal Customers,United Kingdom
+14108,220,24,1111.58,2,5,4,254,11,Cannot Lose Them,United Kingdom
+14109,79,3,259.51,3,3,3,333,9,Need Attention,United Kingdom
+14110,210,9,957.6,2,4,4,244,10,At Risk,United Kingdom
+14111,99,1,45.95,3,1,1,311,5,Need Attention,United Kingdom
+14112,28,15,1120.3,4,5,4,454,13,Champions,United Kingdom
+14113,96,1,46.65,3,1,1,311,5,Need Attention,United Kingdom
+14114,19,2,96.35,5,2,1,521,8,Potential Loyalists,United Kingdom
+14115,33,9,752.5,4,4,4,444,12,Champions,United Kingdom
+14116,296,1,68.94,1,1,1,111,3,Hibernating,United Kingdom
+14117,209,3,225.94,2,3,2,232,7,At Risk,United Kingdom
+14118,7,2,574.36,5,2,4,524,11,Potential Loyalists,United Kingdom
+14119,11,30,10193.9,5,5,5,555,15,Champions,United Kingdom
+14120,15,1,57.8,5,1,1,511,7,New Customers,United Kingdom
+14121,237,1,246.4,1,1,2,112,4,Hibernating,United Kingdom
+14122,39,14,1153.74,4,5,4,454,13,Champions,United Kingdom
+14123,46,1,123.8,4,1,2,412,7,New Customers,United Kingdom
+14124,243,3,1267.28,1,3,4,134,8,At Risk,United Kingdom
+14125,273,1,56.4,1,1,1,111,3,Hibernating,United Kingdom
+14126,171,25,1234.79,2,5,4,254,11,Cannot Lose Them,United Kingdom
+14127,224,21,1673.79,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14128,40,9,1153.16,4,4,4,444,12,Champions,Spain
+14129,204,8,719.95,2,4,4,244,10,At Risk,United Kingdom
+14130,38,2,142.15,4,2,2,422,8,Potential Loyalists,United Kingdom
+14131,238,3,159.64,1,3,2,132,6,At Risk,United Kingdom
+14132,232,20,1621.65,1,5,5,155,11,Cannot Lose Them,Belgium
+14133,12,14,1208.13,5,5,4,554,14,Champions,France
+14134,45,8,1282.1,4,4,4,444,12,Champions,United Kingdom
+14135,340,1,45.9,1,1,1,111,3,Hibernating,United Kingdom
+14136,26,4,435.38,5,3,3,533,11,Loyal Customers,United Kingdom
+14137,159,1,350.76,2,1,3,213,6,Hibernating,United Kingdom
+14138,101,11,1281.8,3,4,4,344,11,Loyal Customers,United Kingdom
+14139,194,1,15.42,2,1,1,211,4,Hibernating,United Kingdom
+14140,39,1,2.5,4,1,1,411,6,New Customers,United Kingdom
+14141,110,1,85.98,3,1,1,311,5,Need Attention,United Kingdom
+14142,255,30,4613.22,1,5,5,155,11,Cannot Lose Them,United Kingdom
+14143,19,18,1525.62,5,5,5,555,15,Champions,United Kingdom
+14144,41,14,2774.39,4,5,5,455,14,Champions,United Kingdom
+14145,303,1,177.05,1,1,2,112,4,Hibernating,United Kingdom
+14146,26,2,271.31,5,2,3,523,10,Potential Loyalists,United Kingdom
+14147,30,26,2284.1,4,5,5,455,14,Champions,United Kingdom
+14148,3,2,126.25,5,2,2,522,9,Potential Loyalists,United Kingdom
+14149,345,1,27.8,1,1,1,111,3,Hibernating,United Kingdom
+14150,26,1,338.4,5,1,3,513,9,New Customers,United Kingdom
+14151,269,1,343.55,1,1,3,113,5,Hibernating,United Kingdom
+14152,30,6,357.17,4,4,3,443,11,Champions,Germany
+14153,95,4,240.62,3,3,2,332,8,Need Attention,United Kingdom
+14154,191,1,32.25,2,1,1,211,4,Hibernating,United Kingdom
+14155,17,2,190.97,5,2,2,522,9,Potential Loyalists,EIRE
+14156,64,14,3230.51,3,5,5,355,13,Loyal Customers,Belgium
+14157,32,14,2347.29,4,5,5,455,14,Champions,United Kingdom
+14158,221,18,3520.14,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14159,55,13,1137.25,4,5,4,454,13,Champions,United Kingdom
+14160,331,2,208.26,1,2,2,122,5,Hibernating,United Kingdom
+14161,164,1,219.45,2,1,2,212,5,Hibernating,United Kingdom
+14162,36,11,1678.62,4,4,5,445,13,Champions,United Kingdom
+14163,184,8,1171.6,2,4,4,244,10,At Risk,Netherlands
+14164,209,26,6665.01,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14165,166,1,4.2,2,1,1,211,4,Hibernating,EIRE
+14166,175,5,197.48,2,3,2,232,7,At Risk,United Kingdom
+14167,24,29,3062.76,5,5,5,555,15,Champions,United Kingdom
+14168,217,11,726.83,2,4,4,244,10,At Risk,United Kingdom
+14169,24,2,379.63,5,2,3,523,10,Potential Loyalists,United Kingdom
+14170,13,12,520.06,5,5,3,553,13,Champions,United Kingdom
+14171,45,7,1120.25,4,4,4,444,12,Champions,United Kingdom
+14172,182,8,665.8,2,4,4,244,10,At Risk,United Kingdom
+14173,49,2,287.6,4,2,3,423,9,Potential Loyalists,Germany
+14174,284,1,124.83,1,1,2,112,4,Hibernating,United Kingdom
+14175,24,2,178.2,5,2,2,522,9,Potential Loyalists,United Kingdom
+14176,11,1,16.05,5,1,1,511,7,New Customers,United Kingdom
+14177,161,9,3265.59,2,4,5,245,11,At Risk,United Kingdom
+14178,206,1,20.85,2,1,1,211,4,Hibernating,United Kingdom
+14179,206,2,190.47,2,2,2,222,6,Hibernating,United Kingdom
+14180,328,3,184.35,1,3,2,132,6,At Risk,Germany
+14181,104,4,432.63,3,3,3,333,9,Need Attention,United Kingdom
+14182,6,12,662.69,5,5,4,554,14,Champions,United Kingdom
+14183,85,7,636.79,3,4,4,344,11,Loyal Customers,United Kingdom
+14184,88,8,2336.44,3,4,5,345,12,Loyal Customers,United Kingdom
+14185,302,2,42.25,1,2,1,121,4,Hibernating,United Kingdom
+14186,197,3,121.07,2,3,2,232,7,At Risk,United Kingdom
+14187,33,1,90.95,4,1,1,411,6,New Customers,United Kingdom
+14188,16,21,2995.35,5,5,5,555,15,Champions,United Kingdom
+14189,252,2,285.15,1,2,3,123,6,Hibernating,United Kingdom
+14190,21,1,1.3,5,1,1,511,7,New Customers,United Kingdom
+14191,217,22,2734.72,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14192,64,4,203.36,3,3,2,332,8,Need Attention,France
+14193,94,2,280.04,3,2,3,323,8,Need Attention,Netherlands
+14194,152,1,194.84,3,1,2,312,6,Need Attention,United Kingdom
+14195,255,1,219.7,1,1,2,112,4,Hibernating,Netherlands
+14196,122,2,198.25,3,2,2,322,7,Need Attention,United Kingdom
+14197,28,2,104.72,4,2,2,422,8,Potential Loyalists,Belgium
+14198,331,1,88.55,1,1,1,111,3,Hibernating,United Kingdom
+14199,43,14,3745.97,4,5,5,455,14,Champions,United Kingdom
+14200,4,2,29.4,5,2,1,521,8,Potential Loyalists,United Kingdom
+14201,7,17,2681.82,5,5,5,555,15,Champions,Switzerland
+14202,263,1,24.65,1,1,1,111,3,Hibernating,Switzerland
+14203,26,4,211.85,5,3,2,532,10,Loyal Customers,United Kingdom
+14204,19,6,322.92,5,4,3,543,12,Champions,Germany
+14205,71,1,277.05,3,1,3,313,7,Need Attention,United Kingdom
+14206,312,2,85.1,1,2,1,121,4,Hibernating,United Kingdom
+14207,26,8,936.58,5,4,4,544,13,Champions,United Kingdom
+14208,189,29,3546.5,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14209,42,21,3122.32,4,5,5,455,14,Champions,United Kingdom
+14210,191,19,2249.65,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14211,305,2,253.56,1,2,3,123,6,Hibernating,United Kingdom
+14212,337,2,417.2,1,2,3,123,6,Hibernating,United Kingdom
+14213,210,2,280.95,2,2,3,223,7,Hibernating,United Kingdom
+14214,70,14,1158.61,3,5,4,354,12,Loyal Customers,United Kingdom
+14215,39,18,3484.02,4,5,5,455,14,Champions,United Kingdom
+14216,193,9,1333.45,2,4,4,244,10,At Risk,United Kingdom
+14217,46,1,203.95,4,1,2,412,7,New Customers,United Kingdom
+14218,113,9,535.68,3,4,3,343,10,Loyal Customers,United Kingdom
+14219,32,11,1426.6,4,4,5,445,13,Champions,Belgium
+14220,297,1,202.5,1,1,2,112,4,Hibernating,United Kingdom
+14221,39,2,479.06,4,2,3,423,9,Potential Loyalists,United Kingdom
+14222,15,2,140.18,5,2,2,522,9,Potential Loyalists,United Kingdom
+14223,90,12,884.05,3,5,4,354,12,Loyal Customers,United Kingdom
+14224,98,1,9.5,3,1,1,311,5,Need Attention,United Kingdom
+14225,222,10,239.2,2,4,2,242,8,At Risk,United Kingdom
+14226,10,2,86.87,5,2,1,521,8,Potential Loyalists,United Kingdom
+14227,67,9,1240.79,3,4,4,344,11,Loyal Customers,United Kingdom
+14228,252,1,342.67,1,1,3,113,5,Hibernating,United Kingdom
+14229,32,11,1010.24,4,4,4,444,12,Champions,United Kingdom
+14230,21,1,72.8,5,1,1,511,7,New Customers,United Kingdom
+14231,18,2,590.78,5,2,4,524,11,Potential Loyalists,United Kingdom
+14232,298,2,109.38,1,2,2,122,5,Hibernating,United Kingdom
+14233,37,7,1193.25,4,4,4,444,12,Champions,United Kingdom
+14234,76,3,194.62,3,3,2,332,8,Need Attention,United Kingdom
+14235,177,28,3548.7,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14236,84,10,1001.87,3,4,4,344,11,Loyal Customers,United Kingdom
+14237,8,2,168.83,5,2,2,522,9,Potential Loyalists,Spain
+14238,329,3,636.85,1,3,4,134,8,At Risk,United Kingdom
+14239,51,3,99.84,4,3,1,431,8,Loyal Customers,United Kingdom
+14240,11,2,92.8,5,2,1,521,8,Potential Loyalists,United Kingdom
+14241,11,2,424.51,5,2,3,523,10,Potential Loyalists,United Kingdom
+14242,32,2,260.95,4,2,3,423,9,Potential Loyalists,United Kingdom
+14243,42,2,458.86,4,2,3,423,9,Potential Loyalists,United Kingdom
+14244,199,6,1001.95,2,4,4,244,10,At Risk,United Kingdom
+14245,60,13,1100.24,3,5,4,354,12,Loyal Customers,United Kingdom
+14246,38,1,28.54,4,1,1,411,6,New Customers,EIRE
+14247,260,3,541.46,1,3,3,133,7,At Risk,United Kingdom
+14248,17,1,10.42,5,1,1,511,7,New Customers,United Kingdom
+14249,23,23,2152.84,5,5,5,555,15,Champions,United Kingdom
+14250,34,3,129.55,4,3,2,432,9,Loyal Customers,United Kingdom
+14251,27,24,1805.7,5,5,5,555,15,Champions,United Kingdom
+14252,215,7,299.52,2,4,3,243,9,At Risk,United Kingdom
+14253,312,3,251.35,1,3,2,132,6,At Risk,United Kingdom
+14254,102,11,2163.28,3,4,5,345,12,Loyal Customers,United Kingdom
+14255,260,1,289.2,1,1,3,113,5,Hibernating,United Kingdom
+14256,111,4,487.3,3,3,3,333,9,Need Attention,Germany
+14257,11,22,2827.43,5,5,5,555,15,Champions,United Kingdom
+14258,163,9,890.06,2,4,4,244,10,At Risk,United Kingdom
+14259,305,2,294.95,1,2,3,123,6,Hibernating,United Kingdom
+14260,122,3,251.04,3,3,2,332,8,Need Attention,United Kingdom
+14261,232,2,195.16,1,2,2,122,5,Hibernating,United Kingdom
+14262,110,2,189.75,3,2,2,322,7,Need Attention,United Kingdom
+14263,231,8,946.38,1,4,4,144,9,At Risk,United Kingdom
+14264,209,12,796.85,2,5,4,254,11,Cannot Lose Them,United Kingdom
+14265,34,3,116.61,4,3,2,432,9,Loyal Customers,United Kingdom
+14266,29,7,879.79,4,4,4,444,12,Champions,United Kingdom
+14267,252,15,3397.77,1,5,5,155,11,Cannot Lose Them,United Kingdom
+14268,203,27,2930.48,2,5,5,255,12,Cannot Lose Them,Switzerland
+14269,250,3,177.65,1,3,2,132,6,At Risk,United Kingdom
+14270,223,9,1507.46,2,4,5,245,11,At Risk,Netherlands
+14271,90,6,1571.33,3,4,5,345,12,Loyal Customers,France
+14272,11,15,1488.65,5,5,5,555,15,Champions,United Kingdom
+14273,333,2,30.41,1,2,1,121,4,Hibernating,United Kingdom
+14274,45,14,1465.39,4,5,5,455,14,Champions,United Kingdom
+14275,43,1,39.62,4,1,1,411,6,New Customers,United Kingdom
+14276,204,5,656.01,2,3,4,234,9,At Risk,United Kingdom
+14277,247,16,3102.42,1,5,5,155,11,Cannot Lose Them,United Kingdom
+14278,22,1,45.0,5,1,1,511,7,New Customers,United Kingdom
+14279,206,1,270.75,2,1,3,213,6,Hibernating,Germany
+14280,145,5,767.34,3,3,4,334,10,Need Attention,United Kingdom
+14281,235,1,91.2,1,1,1,111,3,Hibernating,United Kingdom
+14282,19,1,5.2,5,1,1,511,7,New Customers,United Kingdom
+14283,29,3,211.45,4,3,2,432,9,Loyal Customers,United Kingdom
+14284,102,1,177.05,3,1,2,312,6,Need Attention,United Kingdom
+14285,133,8,1528.06,3,4,5,345,12,Loyal Customers,United Kingdom
+14286,11,28,1458.22,5,5,5,555,15,Champions,United Kingdom
+14287,254,1,158.3,1,1,2,112,4,Hibernating,United Kingdom
+14288,11,2,63.05,5,2,1,521,8,Potential Loyalists,United Kingdom
+14289,22,1,59.0,5,1,1,511,7,New Customers,United Kingdom
+14290,13,24,2542.53,5,5,5,555,15,Champions,United Kingdom
+14291,75,2,207.7,3,2,2,322,7,Need Attention,EIRE
+14292,64,4,212.25,3,3,2,332,8,Need Attention,United Kingdom
+14293,152,1,93.28,3,1,1,311,5,Need Attention,United Kingdom
+14294,213,8,845.72,2,4,4,244,10,At Risk,United Kingdom
+14295,218,2,314.85,2,2,3,223,7,Hibernating,United Kingdom
+14296,15,25,3244.34,5,5,5,555,15,Champions,United Kingdom
+14297,22,7,277.66,5,4,3,543,12,Champions,United Kingdom
+14298,222,24,7514.95,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14299,71,4,199.45,3,3,2,332,8,Need Attention,United Kingdom
+14300,271,1,125.7,1,1,2,112,4,Hibernating,United Kingdom
+14301,348,1,98.05,1,1,1,111,3,Hibernating,Belgium
+14302,141,8,596.64,3,4,4,344,11,Loyal Customers,United Kingdom
+14303,31,17,3130.39,4,5,5,455,14,Champions,United Kingdom
+14304,15,2,250.8,5,2,2,522,9,Potential Loyalists,United Kingdom
+14305,70,6,712.16,3,4,4,344,11,Loyal Customers,United Kingdom
+14306,81,6,658.42,3,4,4,344,11,Loyal Customers,United Kingdom
+14307,9,1,175.29,5,1,2,512,8,New Customers,United Kingdom
+14308,16,3,145.05,5,3,2,532,10,Loyal Customers,United Kingdom
+14309,17,1,91.4,5,1,1,511,7,New Customers,United Kingdom
+14310,62,7,862.74,3,4,4,344,11,Loyal Customers,United Kingdom
+14311,156,11,2345.66,2,4,5,245,11,At Risk,United Kingdom
+14312,75,12,1246.3,3,5,4,354,12,Loyal Customers,United Kingdom
+14313,22,28,3177.06,5,5,5,555,15,Champions,United Kingdom
+14314,183,1,211.02,2,1,2,212,5,Hibernating,United Kingdom
+14315,143,1,80.13,3,1,1,311,5,Need Attention,France
+14316,195,3,329.96,2,3,3,233,8,At Risk,United Kingdom
+14317,206,11,1686.07,2,4,5,245,11,At Risk,France
+14318,16,19,1220.24,5,5,4,554,14,Champions,United Kingdom
+14319,199,3,310.92,2,3,3,233,8,At Risk,United Kingdom
+14320,37,23,4205.04,4,5,5,455,14,Champions,United Kingdom
+14321,224,10,1402.27,2,4,5,245,11,At Risk,United Kingdom
+14322,57,14,1652.57,3,5,5,355,13,Loyal Customers,United Kingdom
+14323,153,1,16.2,3,1,1,311,5,Need Attention,United Kingdom
+14324,26,19,2158.71,5,5,5,555,15,Champions,United Kingdom
+14325,174,8,1154.42,2,4,4,244,10,At Risk,United Kingdom
+14326,55,7,605.19,4,4,4,444,12,Champions,United Kingdom
+14327,25,2,89.1,5,2,1,521,8,Potential Loyalists,United Kingdom
+14328,152,5,776.04,3,3,4,334,10,Need Attention,United Kingdom
+14329,206,6,580.14,2,4,4,244,10,At Risk,United Kingdom
+14330,15,20,2523.26,5,5,5,555,15,Champions,United Kingdom
+14331,24,11,963.64,5,4,4,544,13,Champions,United Kingdom
+14332,42,3,1005.25,4,3,4,434,11,Loyal Customers,United Kingdom
+14333,216,12,874.1,2,5,4,254,11,Cannot Lose Them,United Kingdom
+14334,181,10,1310.27,2,4,4,244,10,At Risk,United Kingdom
+14335,73,2,137.31,3,2,2,322,7,Need Attention,United Kingdom
+14336,66,10,905.75,3,4,4,344,11,Loyal Customers,United Kingdom
+14337,45,4,189.05,4,3,2,432,9,Loyal Customers,United Kingdom
+14338,66,11,1083.97,3,4,4,344,11,Loyal Customers,United Kingdom
+14339,42,19,1298.08,4,5,4,454,13,Champions,United Kingdom
+14340,11,1,32.05,5,1,1,511,7,New Customers,Spain
+14341,189,1,38.55,2,1,1,211,4,Hibernating,United Kingdom
+14342,342,3,369.45,1,3,3,133,7,At Risk,United Kingdom
+14343,161,12,1425.26,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14344,42,2,894.39,4,2,4,424,10,Potential Loyalists,United Kingdom
+14345,53,16,1808.94,4,5,5,455,14,Champions,United Kingdom
+14346,350,1,171.32,1,1,2,112,4,Hibernating,United Kingdom
+14347,19,1,158.75,5,1,2,512,8,New Customers,United Kingdom
+14348,20,1,262.35,5,1,3,513,9,New Customers,United Kingdom
+14349,123,3,947.15,3,3,4,334,10,Need Attention,United Kingdom
+14350,58,13,2802.62,3,5,5,355,13,Loyal Customers,United Kingdom
+14351,15,3,462.79,5,3,3,533,11,Loyal Customers,United Kingdom
+14352,197,8,522.28,2,4,3,243,9,At Risk,United Kingdom
+14353,245,2,90.6,1,2,1,121,4,Hibernating,Belgium
+14354,302,1,115.71,1,1,2,112,4,Hibernating,Germany
+14355,123,9,960.12,3,4,4,344,11,Loyal Customers,United Kingdom
+14356,261,7,1001.99,1,4,4,144,9,At Risk,United Kingdom
+14357,212,1,23.3,2,1,1,211,4,Hibernating,France
+14358,209,8,1594.92,2,4,5,245,11,At Risk,Spain
+14359,87,2,98.8,3,2,1,321,6,Need Attention,United Kingdom
+14360,13,1,64.5,5,1,1,511,7,New Customers,United Kingdom
+14361,51,6,950.58,4,4,4,444,12,Champions,Portugal
+14362,24,1,65.4,5,1,1,511,7,New Customers,United Kingdom
+14363,210,19,1868.81,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14364,23,14,600.12,5,5,4,554,14,Champions,United Kingdom
+14365,330,3,436.7,1,3,3,133,7,At Risk,EIRE
+14366,56,2,280.15,4,2,3,423,9,Potential Loyalists,Belgium
+14367,15,2,112.22,5,2,2,522,9,Potential Loyalists,United Kingdom
+14368,188,3,438.85,2,3,3,233,8,At Risk,United Kingdom
+14369,37,12,1232.29,4,5,4,454,13,Champions,United Kingdom
+14370,43,1,142.6,4,1,2,412,7,New Customers,United Kingdom
+14371,281,1,27.12,1,1,1,111,3,Hibernating,Netherlands
+14372,222,1,38.3,2,1,1,211,4,Hibernating,United Kingdom
+14373,36,3,487.71,4,3,3,433,10,Loyal Customers,United Kingdom
+14374,243,1,190.35,1,1,2,112,4,Hibernating,United Kingdom
+14375,30,29,3505.54,4,5,5,455,14,Champions,United Kingdom
+14376,225,2,144.9,2,2,2,222,6,Hibernating,United Kingdom
+14377,201,3,126.72,2,3,2,232,7,At Risk,Netherlands
+14378,46,6,565.51,4,4,4,444,12,Champions,United Kingdom
+14379,174,1,155.5,2,1,2,212,5,Hibernating,United Kingdom
+14380,107,1,54.2,3,1,1,311,5,Need Attention,United Kingdom
+14381,231,1,294.21,1,1,3,113,5,Hibernating,Switzerland
+14382,22,2,71.69,5,2,1,521,8,Potential Loyalists,United Kingdom
+14383,304,1,38.75,1,1,1,111,3,Hibernating,United Kingdom
+14384,20,23,3382.51,5,5,5,555,15,Champions,United Kingdom
+14385,7,2,17.2,5,2,1,521,8,Potential Loyalists,United Kingdom
+14386,52,9,813.07,4,4,4,444,12,Champions,United Kingdom
+14387,97,9,1362.17,3,4,5,345,12,Loyal Customers,United Kingdom
+14388,17,1,44.55,5,1,1,511,7,New Customers,United Kingdom
+14389,39,4,416.93,4,3,3,433,10,Loyal Customers,United Kingdom
+14390,5,21,3900.01,5,5,5,555,15,Champions,United Kingdom
+14391,43,8,1556.77,4,4,5,445,13,Champions,United Kingdom
+14392,299,2,105.24,1,2,2,122,5,Hibernating,United Kingdom
+14393,53,7,1246.14,4,4,4,444,12,Champions,United Kingdom
+14394,29,1,59.1,4,1,1,411,6,New Customers,United Kingdom
+14395,30,14,2604.14,4,5,5,455,14,Champions,United Kingdom
+14396,21,16,2056.34,5,5,5,555,15,Champions,United Kingdom
+14397,58,11,1433.59,3,4,5,345,12,Loyal Customers,United Kingdom
+14398,14,14,1446.13,5,5,5,555,15,Champions,United Kingdom
+14399,230,11,2308.26,1,4,5,145,10,At Risk,United Kingdom
+14400,255,6,599.92,1,4,4,144,9,At Risk,United Kingdom
+14401,169,2,252.9,2,2,3,223,7,Hibernating,United Kingdom
+14402,191,3,99.5,2,3,1,231,6,At Risk,United Kingdom
+14403,157,8,1948.19,2,4,5,245,11,At Risk,United Kingdom
+14404,28,2,221.85,4,2,2,422,8,Potential Loyalists,United Kingdom
+14405,50,1,50.35,4,1,1,411,6,New Customers,United Kingdom
+14406,11,4,997.99,5,3,4,534,12,Loyal Customers,France
+14407,225,22,3404.87,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14408,19,2,266.14,5,2,3,523,10,Potential Loyalists,United Kingdom
+14409,12,14,1683.91,5,5,5,555,15,Champions,United Kingdom
+14410,44,3,323.3,4,3,3,433,10,Loyal Customers,United Kingdom
+14411,20,14,1555.76,5,5,5,555,15,Champions,France
+14412,302,1,75.45,1,1,1,111,3,Hibernating,France
+14413,39,7,1202.6,4,4,4,444,12,Champions,United Kingdom
+14414,38,1,92.44,4,1,1,411,6,New Customers,United Kingdom
+14415,29,1,64.25,4,1,1,411,6,New Customers,United Kingdom
+14416,23,9,649.57,5,4,4,544,13,Champions,United Kingdom
+14417,65,11,731.23,3,4,4,344,11,Loyal Customers,United Kingdom
+14418,168,6,431.14,2,4,3,243,9,At Risk,United Kingdom
+14419,53,4,1247.13,4,3,4,434,11,Loyal Customers,United Kingdom
+14420,27,1,166.65,5,1,2,512,8,New Customers,United Kingdom
+14421,20,2,26.4,5,2,1,521,8,Potential Loyalists,United Kingdom
+14422,205,1,197.92,2,1,2,212,5,Hibernating,United Kingdom
+14423,65,7,978.15,3,4,4,344,11,Loyal Customers,United Kingdom
+14424,34,12,1986.57,4,5,5,455,14,Champions,United Kingdom
+14425,212,21,2423.34,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14426,259,3,208.31,1,3,2,132,6,At Risk,United Kingdom
+14427,206,21,2257.74,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14428,22,1,172.1,5,1,2,512,8,New Customers,United Kingdom
+14429,93,10,584.11,3,4,4,344,11,Loyal Customers,United Kingdom
+14430,93,4,1158.56,3,3,4,334,10,Need Attention,United Kingdom
+14431,46,3,284.02,4,3,3,433,10,Loyal Customers,United Kingdom
+14432,31,12,1280.41,4,5,4,454,13,Champions,United Kingdom
+14433,221,2,313.11,2,2,3,223,7,Hibernating,United Kingdom
+14434,201,12,1559.69,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14435,175,1,13.44,2,1,1,211,4,Hibernating,United Kingdom
+14436,19,1,243.2,5,1,2,512,8,New Customers,United Kingdom
+14437,60,16,4192.08,3,5,5,355,13,Loyal Customers,Belgium
+14438,19,3,130.85,5,3,2,532,10,Loyal Customers,United Kingdom
+14439,254,3,246.24,1,3,2,132,6,At Risk,United Kingdom
+14440,21,15,3785.6,5,5,5,555,15,Champions,United Kingdom
+14441,373,1,71.95,1,1,1,111,3,Hibernating,United Kingdom
+14442,85,2,77.05,3,2,1,321,6,Need Attention,United Kingdom
+14443,86,13,1434.01,3,5,5,355,13,Loyal Customers,United Kingdom
+14444,10,2,189.11,5,2,2,522,9,Potential Loyalists,France
+14445,37,2,261.77,4,2,3,423,9,Potential Loyalists,United Kingdom
+14446,60,14,2288.48,3,5,5,355,13,Loyal Customers,United Kingdom
+14447,43,3,200.45,4,3,2,432,9,Loyal Customers,United Kingdom
+14448,56,9,1434.54,4,4,5,445,13,Champions,United Kingdom
+14449,18,4,359.65,5,3,3,533,11,Loyal Customers,United Kingdom
+14450,52,13,1818.65,4,5,5,455,14,Champions,United Kingdom
+14451,186,2,166.15,2,2,2,222,6,Hibernating,United Kingdom
+14452,22,4,206.99,5,3,2,532,10,Loyal Customers,United Kingdom
+14453,31,16,894.08,4,5,4,454,13,Champions,United Kingdom
+14454,326,3,201.81,1,3,2,132,6,At Risk,United Kingdom
+14455,269,2,309.6,1,2,3,123,6,Hibernating,United Kingdom
+14456,188,11,2239.95,2,4,5,245,11,At Risk,United Kingdom
+14457,204,3,1109.73,2,3,4,234,9,At Risk,United Kingdom
+14458,172,7,2125.95,2,4,5,245,11,At Risk,United Kingdom
+14459,30,2,499.62,4,2,3,423,9,Potential Loyalists,United Kingdom
+14460,216,11,738.48,2,4,4,244,10,At Risk,United Kingdom
+14461,219,23,2782.21,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14462,54,6,715.39,4,4,4,444,12,Champions,Germany
+14463,52,9,1070.04,4,4,4,444,12,Champions,France
+14464,199,2,22.15,2,2,1,221,5,Hibernating,Germany
+14465,315,1,169.76,1,1,2,112,4,Hibernating,United Kingdom
+14466,130,5,1343.85,3,3,4,334,10,Need Attention,United Kingdom
+14467,322,2,462.66,1,2,3,123,6,Hibernating,United Kingdom
+14468,17,20,1656.79,5,5,5,555,15,Champions,United Kingdom
+14469,55,1,41.7,4,1,1,411,6,New Customers,United Kingdom
+14470,66,13,2051.61,3,5,5,355,13,Loyal Customers,Germany
+14471,163,15,795.73,2,5,4,254,11,Cannot Lose Them,United Kingdom
+14472,82,1,72.15,3,1,1,311,5,Need Attention,United Kingdom
+14473,31,1,101.65,4,1,1,411,6,New Customers,France
+14474,217,1,212.85,2,1,2,212,5,Hibernating,United Kingdom
+14475,70,7,795.34,3,4,4,344,11,Loyal Customers,United Kingdom
+14476,235,7,720.27,1,4,4,144,9,At Risk,United Kingdom
+14477,29,18,2194.34,4,5,5,455,14,Champions,United Kingdom
+14478,149,7,471.62,3,4,3,343,10,Loyal Customers,United Kingdom
+14479,39,3,160.6,4,3,2,432,9,Loyal Customers,United Kingdom
+14480,55,9,467.92,4,4,3,443,11,Champions,United Kingdom
+14481,56,2,128.65,4,2,2,422,8,Potential Loyalists,United Kingdom
+14482,32,1,132.7,4,1,2,412,7,New Customers,United Kingdom
+14483,215,16,3174.62,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14484,58,6,717.48,3,4,4,344,11,Loyal Customers,United Kingdom
+14485,67,3,451.6,3,3,3,333,9,Need Attention,Germany
+14486,59,10,563.56,3,4,4,344,11,Loyal Customers,United Kingdom
+14487,45,2,414.24,4,2,3,423,9,Potential Loyalists,United Kingdom
+14488,152,7,453.57,3,4,3,343,10,Loyal Customers,United Kingdom
+14489,267,2,391.25,1,2,3,123,6,Hibernating,United Kingdom
+14490,232,2,302.85,1,2,3,123,6,Hibernating,United Kingdom
+14491,19,19,2167.96,5,5,5,555,15,Champions,United Kingdom
+14492,76,3,232.65,3,3,2,332,8,Need Attention,United Kingdom
+14493,19,18,1734.55,5,5,5,555,15,Champions,Switzerland
+14494,53,12,1544.57,4,5,5,455,14,Champions,United Kingdom
+14495,75,6,1032.84,3,4,4,344,11,Loyal Customers,United Kingdom
+14496,19,28,3728.93,5,5,5,555,15,Champions,United Kingdom
+14497,64,1,88.65,3,1,1,311,5,Need Attention,Germany
+14498,75,14,1019.09,3,5,4,354,12,Loyal Customers,United Kingdom
+14499,38,1,69.9,4,1,1,411,6,New Customers,United Kingdom
+14500,24,17,753.26,5,5,4,554,14,Champions,United Kingdom
+14501,100,3,501.39,3,3,3,333,9,Need Attention,United Kingdom
+14502,236,26,8046.11,1,5,5,155,11,Cannot Lose Them,United Kingdom
+14503,35,3,254.79,4,3,3,433,10,Loyal Customers,United Kingdom
+14504,38,10,856.63,4,4,4,444,12,Champions,United Kingdom
+14505,26,11,764.41,5,4,4,544,13,Champions,United Kingdom
+14506,200,23,6339.31,2,5,5,255,12,Cannot Lose Them,Australia
+14507,196,1,34.75,2,1,1,211,4,Hibernating,United Kingdom
+14508,210,2,560.63,2,2,3,223,7,Hibernating,United Kingdom
+14509,287,6,208.47,1,4,2,142,7,At Risk,Belgium
+14510,44,13,817.8,4,5,4,454,13,Champions,United Kingdom
+14511,31,2,231.37,4,2,2,422,8,Potential Loyalists,Germany
+14512,368,1,76.25,1,1,1,111,3,Hibernating,United Kingdom
+14513,268,2,550.27,1,2,3,123,6,Hibernating,United Kingdom
+14514,29,1,15.55,4,1,1,411,6,New Customers,United Kingdom
+14515,32,13,1480.11,4,5,5,455,14,Champions,United Kingdom
+14516,61,8,399.02,3,4,3,343,10,Loyal Customers,United Kingdom
+14517,20,9,1605.47,5,4,5,545,14,Champions,United Kingdom
+14518,159,9,994.56,2,4,4,244,10,At Risk,United Kingdom
+14519,28,2,202.1,4,2,2,422,8,Potential Loyalists,United Kingdom
+14520,188,1,70.9,2,1,1,211,4,Hibernating,United Kingdom
+14521,20,16,1696.04,5,5,5,555,15,Champions,United Kingdom
+14522,9,16,2534.44,5,5,5,555,15,Champions,France
+14523,9,25,1224.56,5,5,4,554,14,Champions,United Kingdom
+14524,275,1,105.0,1,1,2,112,4,Hibernating,United Kingdom
+14525,243,15,3482.87,1,5,5,155,11,Cannot Lose Them,United Kingdom
+14526,168,5,338.23,2,3,3,233,8,At Risk,Germany
+14527,179,2,230.65,2,2,2,222,6,Hibernating,United Kingdom
+14528,287,3,177.9,1,3,2,132,6,At Risk,United Kingdom
+14529,78,1,170.94,3,1,2,312,6,Need Attention,United Kingdom
+14530,16,2,449.74,5,2,3,523,10,Potential Loyalists,United Kingdom
+14531,55,1,235.6,4,1,2,412,7,New Customers,United Kingdom
+14532,33,8,586.99,4,4,4,444,12,Champions,United Kingdom
+14533,229,27,2274.79,1,5,5,155,11,Cannot Lose Them,United Kingdom
+14534,285,1,48.35,1,1,1,111,3,Hibernating,United Kingdom
+14535,244,2,50.64,1,2,1,121,4,Hibernating,Germany
+14536,31,1,152.55,4,1,2,412,7,New Customers,United Kingdom
+14537,198,5,1008.55,2,3,4,234,9,At Risk,United Kingdom
+14538,96,3,357.82,3,3,3,333,9,Need Attention,United Kingdom
+14539,32,1,185.6,4,1,2,412,7,New Customers,United Kingdom
+14540,276,2,435.69,1,2,3,123,6,Hibernating,United Kingdom
+14541,11,2,163.94,5,2,2,522,9,Potential Loyalists,United Kingdom
+14542,145,10,1285.16,3,4,4,344,11,Loyal Customers,United Kingdom
+14543,6,2,248.45,5,2,2,522,9,Potential Loyalists,United Kingdom
+14544,15,1,102.13,5,1,1,511,7,New Customers,United Kingdom
+14545,329,1,75.59,1,1,1,111,3,Hibernating,United Kingdom
+14546,30,1,223.25,4,1,2,412,7,New Customers,United Kingdom
+14547,54,1,209.76,4,1,2,412,7,New Customers,United Kingdom
+14548,80,12,948.09,3,5,4,354,12,Loyal Customers,United Kingdom
+14549,163,10,1392.19,2,4,5,245,11,At Risk,United Kingdom
+14550,163,10,1476.89,2,4,5,245,11,At Risk,United Kingdom
+14551,14,21,2990.65,5,5,5,555,15,Champions,United Kingdom
+14552,145,1,74.39,3,1,1,311,5,Need Attention,France
+14553,153,8,419.75,3,4,3,343,10,Loyal Customers,United Kingdom
+14554,207,2,201.72,2,2,2,222,6,Hibernating,United Kingdom
+14555,138,6,887.09,3,4,4,344,11,Loyal Customers,United Kingdom
+14556,221,8,1510.07,2,4,5,245,11,At Risk,United Kingdom
+14557,19,12,1698.39,5,5,5,555,15,Champions,United Kingdom
+14558,194,1,32.2,2,1,1,211,4,Hibernating,United Kingdom
+14559,84,7,1166.13,3,4,4,344,11,Loyal Customers,France
+14560,239,21,2984.16,1,5,5,155,11,Cannot Lose Them,United Kingdom
+14561,228,6,277.65,1,4,3,143,8,At Risk,Germany
+14562,310,1,95.25,1,1,1,111,3,Hibernating,France
+14563,271,3,439.51,1,3,3,133,7,At Risk,United Kingdom
+14564,46,2,435.0,4,2,3,423,9,Potential Loyalists,United Kingdom
+14565,45,23,1603.65,4,5,5,455,14,Champions,United Kingdom
+14566,48,9,1880.17,4,4,5,445,13,Champions,United Kingdom
+14567,73,3,383.05,3,3,3,333,9,Need Attention,United Kingdom
+14568,12,19,1095.02,5,5,4,554,14,Champions,Germany
+14569,36,3,118.29,4,3,2,432,9,Loyal Customers,Belgium
+14570,237,14,799.34,1,5,4,154,10,Cannot Lose Them,United Kingdom
+14571,55,1,77.45,4,1,1,411,6,New Customers,United Kingdom
+14572,244,6,1518.69,1,4,5,145,10,At Risk,United Kingdom
+14573,220,21,1141.1,2,5,4,254,11,Cannot Lose Them,United Kingdom
+14574,208,1,242.2,2,1,2,212,5,Hibernating,United Kingdom
+14575,188,20,2375.16,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14576,240,6,1101.6,1,4,4,144,9,At Risk,Germany
+14577,24,1,46.38,5,1,1,511,7,New Customers,United Kingdom
+14578,13,2,456.38,5,2,3,523,10,Potential Loyalists,United Kingdom
+14579,10,26,3592.89,5,5,5,555,15,Champions,United Kingdom
+14580,147,1,13.3,3,1,1,311,5,Need Attention,United Kingdom
+14581,44,1,34.0,4,1,1,411,6,New Customers,Spain
+14582,23,19,1692.81,5,5,5,555,15,Champions,United Kingdom
+14583,92,3,780.1,3,3,4,334,10,Need Attention,United Kingdom
+14584,230,2,94.85,1,2,1,121,4,Hibernating,United Kingdom
+14585,31,11,1293.73,4,4,4,444,12,Champions,United Kingdom
+14586,88,2,197.26,3,2,2,322,7,Need Attention,United Kingdom
+14587,33,2,99.7,4,2,1,421,7,Potential Loyalists,United Kingdom
+14588,325,3,422.82,1,3,3,133,7,At Risk,United Kingdom
+14589,167,8,591.3,2,4,4,244,10,At Risk,United Kingdom
+14590,72,2,177.89,3,2,2,322,7,Need Attention,United Kingdom
+14591,63,4,510.99,3,3,3,333,9,Need Attention,United Kingdom
+14592,44,2,308.56,4,2,3,423,9,Potential Loyalists,United Kingdom
+14593,44,10,1090.79,4,4,4,444,12,Champions,United Kingdom
+14594,136,1,9.27,3,1,1,311,5,Need Attention,France
+14595,38,2,973.18,4,2,4,424,10,Potential Loyalists,United Kingdom
+14596,50,11,419.41,4,4,3,443,11,Champions,United Kingdom
+14597,248,6,440.75,1,4,3,143,8,At Risk,United Kingdom
+14598,250,1,70.85,1,1,1,111,3,Hibernating,United Kingdom
+14599,215,12,1712.25,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14600,255,2,800.04,1,2,4,124,7,Hibernating,United Kingdom
+14601,250,5,233.16,1,3,2,132,6,At Risk,United Kingdom
+14602,24,1,128.68,5,1,2,512,8,New Customers,United Kingdom
+14603,19,17,1094.2,5,5,4,554,14,Champions,United Kingdom
+14604,48,1,55.2,4,1,1,411,6,New Customers,United Kingdom
+14605,91,4,492.95,3,3,3,333,9,Need Attention,United Kingdom
+14606,167,8,1089.75,2,4,4,244,10,At Risk,United Kingdom
+14607,170,7,739.8,2,4,4,244,10,At Risk,United Kingdom
+14608,248,1,37.9,1,1,1,111,3,Hibernating,EIRE
+14609,53,3,88.0,4,3,1,431,8,Loyal Customers,United Kingdom
+14610,214,12,1641.45,2,5,5,255,12,Cannot Lose Them,Spain
+14611,328,1,245.31,1,1,2,112,4,Hibernating,United Kingdom
+14612,272,1,47.47,1,1,1,111,3,Hibernating,United Kingdom
+14613,17,2,269.0,5,2,3,523,10,Potential Loyalists,United Kingdom
+14614,63,9,1210.4,3,4,4,344,11,Loyal Customers,United Kingdom
+14615,251,1,47.8,1,1,1,111,3,Hibernating,Belgium
+14616,126,12,516.43,3,5,3,353,11,Loyal Customers,United Kingdom
+14617,43,2,45.06,4,2,1,421,7,Potential Loyalists,United Kingdom
+14618,31,10,993.74,4,4,4,444,12,Champions,United Kingdom
+14619,1,20,5670.22,5,5,5,555,15,Champions,United Kingdom
+14620,85,7,952.16,3,4,4,344,11,Loyal Customers,United Kingdom
+14621,223,3,744.64,2,3,4,234,9,At Risk,United Kingdom
+14622,203,24,2962.35,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14623,100,4,143.2,3,3,2,332,8,Need Attention,United Kingdom
+14624,63,13,680.92,3,5,4,354,12,Loyal Customers,United Kingdom
+14625,86,8,914.72,3,4,4,344,11,Loyal Customers,United Kingdom
+14626,34,11,674.69,4,4,4,444,12,Champions,United Kingdom
+14627,16,18,1751.68,5,5,5,555,15,Champions,Germany
+14628,212,2,131.2,2,2,2,222,6,Hibernating,Germany
+14629,158,1,49.6,2,1,1,211,4,Hibernating,United Kingdom
+14630,74,4,230.4,3,3,2,332,8,Need Attention,United Kingdom
+14631,193,1,17.37,2,1,1,211,4,Hibernating,United Kingdom
+14632,73,9,803.97,3,4,4,344,11,Loyal Customers,Germany
+14633,5,20,2120.08,5,5,5,555,15,Champions,United Kingdom
+14634,53,8,391.79,4,4,3,443,11,Champions,United Kingdom
+14635,246,27,2907.7,1,5,5,155,11,Cannot Lose Them,United Kingdom
+14636,225,20,3509.83,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14637,31,2,74.87,4,2,1,421,7,Potential Loyalists,United Kingdom
+14638,308,3,475.2,1,3,3,133,7,At Risk,United Kingdom
+14639,31,2,273.73,4,2,3,423,9,Potential Loyalists,United Kingdom
+14640,28,10,4527.01,4,4,5,445,13,Champions,Germany
+14641,72,3,861.23,3,3,4,334,10,Need Attention,United Kingdom
+14642,21,11,1328.39,5,4,4,544,13,Champions,United Kingdom
+14643,58,1,41.2,3,1,1,311,5,Need Attention,United Kingdom
+14644,36,4,578.46,4,3,4,434,11,Loyal Customers,United Kingdom
+14645,169,6,509.89,2,4,3,243,9,At Risk,United Kingdom
+14646,167,1,113.1,2,1,2,212,5,Hibernating,United Kingdom
+14647,86,2,448.4,3,2,3,323,8,Need Attention,United Kingdom
+14648,68,1,103.65,3,2,2,322,7,Need Attention,United Kingdom
+14649,214,10,2767.7,2,4,5,245,11,At Risk,Portugal
+14650,283,1,44.0,1,2,1,121,4,Hibernating,United Kingdom
+14651,44,1,48.5,4,2,1,421,7,Potential Loyalists,Spain
+14652,208,5,360.41,2,3,3,233,8,At Risk,United Kingdom
+14653,10,1,270.89,5,2,3,523,10,Potential Loyalists,United Kingdom
+14654,287,3,429.62,1,3,3,133,7,At Risk,United Kingdom
+14655,68,7,1069.08,3,4,4,344,11,Loyal Customers,United Kingdom
+14656,253,3,577.2,1,3,4,134,8,At Risk,France
+14657,21,3,255.63,5,3,3,533,11,Loyal Customers,United Kingdom
+14658,207,28,5113.01,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14659,35,9,1189.68,4,4,4,444,12,Champions,United Kingdom
+14660,256,16,1665.79,1,5,5,155,11,Cannot Lose Them,United Kingdom
+14661,122,3,366.1,3,3,3,333,9,Need Attention,Germany
+14662,62,3,533.42,3,3,3,333,9,Need Attention,Spain
+14663,322,2,298.93,1,2,3,123,6,Hibernating,United Kingdom
+14664,225,3,299.91,2,3,3,233,8,At Risk,Spain
+14665,168,16,1176.45,2,5,4,254,11,Cannot Lose Them,Germany
+14666,34,2,238.98,4,2,2,422,8,Potential Loyalists,United Kingdom
+14667,32,2,112.75,4,3,2,432,9,Loyal Customers,United Kingdom
+14668,16,2,608.38,5,3,4,534,12,Loyal Customers,United Kingdom
+14669,202,20,2394.37,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14670,21,17,1950.59,5,5,5,555,15,Champions,United Kingdom
+14671,93,11,1801.66,3,4,5,345,12,Loyal Customers,United Kingdom
+14672,14,12,1995.17,5,5,5,555,15,Champions,Germany
+14673,25,2,224.09,5,3,2,532,10,Loyal Customers,United Kingdom
+14674,45,3,106.25,4,3,2,432,9,Loyal Customers,United Kingdom
+14675,30,4,1378.72,4,3,5,435,12,Loyal Customers,United Kingdom
+14676,40,24,2590.97,4,5,5,455,14,Champions,United Kingdom
+14677,95,6,220.7,3,4,2,342,9,Loyal Customers,United Kingdom
+14678,245,1,276.35,1,2,3,123,6,Hibernating,United Kingdom
+14679,212,23,1174.37,2,5,4,254,11,Cannot Lose Them,Germany
+14680,28,1,22.65,4,2,1,421,7,Potential Loyalists,United Kingdom
+14681,106,4,581.39,3,3,4,334,10,Need Attention,United Kingdom
+14682,93,2,615.92,3,3,4,334,10,Need Attention,EIRE
+14683,231,6,364.49,1,4,3,143,8,At Risk,United Kingdom
+14684,40,7,634.63,4,4,4,444,12,Champions,United Kingdom
+14685,281,1,273.43,1,2,3,123,6,Hibernating,United Kingdom
+14686,103,2,51.32,3,3,1,331,7,Need Attention,United Kingdom
+14687,20,2,100.15,5,3,1,531,9,Loyal Customers,United Kingdom
+14688,54,14,4945.86,4,5,5,455,14,Champions,United Kingdom
+14689,42,4,1194.04,4,3,4,434,11,Loyal Customers,Germany
+14690,277,3,190.55,1,3,2,132,6,At Risk,United Kingdom
+14691,38,14,593.38,4,5,4,454,13,Champions,United Kingdom
+14692,43,7,631.65,4,4,4,444,12,Champions,United Kingdom
+14693,214,1,22.15,2,2,1,221,5,Hibernating,United Kingdom
+14694,256,28,2627.69,1,5,5,155,11,Cannot Lose Them,United Kingdom
+14695,41,12,1499.2,4,5,5,455,14,Champions,United Kingdom
+14696,242,17,1463.47,1,5,5,155,11,Cannot Lose Them,United Kingdom
+14697,71,3,381.21,3,3,3,333,9,Need Attention,United Kingdom
+14698,73,4,257.3,3,3,3,333,9,Need Attention,United Kingdom
+14699,29,2,272.67,4,3,3,433,10,Loyal Customers,United Kingdom
+14700,216,12,2022.04,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14701,160,5,338.24,2,4,3,243,9,At Risk,United Kingdom
+14702,19,4,822.28,5,3,4,534,12,Loyal Customers,United Kingdom
+14703,167,2,99.52,2,3,1,231,6,At Risk,United Kingdom
+14704,20,12,1656.83,5,5,5,555,15,Champions,United Kingdom
+14705,192,17,2132.38,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14706,212,3,356.85,2,3,3,233,8,At Risk,United Kingdom
+14707,253,24,5022.0,1,5,5,155,11,Cannot Lose Them,Spain
+14708,58,13,2235.09,3,5,5,355,13,Loyal Customers,United Kingdom
+14709,27,14,1514.64,5,5,5,555,15,Champions,United Kingdom
+14710,131,1,16.34,3,2,1,321,6,Need Attention,United Kingdom
+14711,20,1,267.1,5,2,3,523,10,Potential Loyalists,United Kingdom
+14712,95,4,714.39,3,3,4,334,10,Need Attention,France
+14713,260,1,60.2,1,2,1,121,4,Hibernating,United Kingdom
+14714,5,17,1486.61,5,5,5,555,15,Champions,Belgium
+14715,253,1,33.9,1,2,1,121,4,Hibernating,Netherlands
+14716,48,1,259.57,4,2,3,423,9,Potential Loyalists,United Kingdom
+14717,82,1,9.2,3,2,1,321,6,Need Attention,United Kingdom
+14718,50,2,202.17,4,3,2,432,9,Loyal Customers,Germany
+14719,137,1,32.35,3,2,1,321,6,Need Attention,United Kingdom
+14720,193,1,338.65,2,2,3,223,7,Hibernating,United Kingdom
+14721,76,4,890.41,3,3,4,334,10,Need Attention,United Kingdom
+14722,73,7,971.51,3,4,4,344,11,Loyal Customers,United Kingdom
+14723,13,2,111.39,5,3,2,532,10,Loyal Customers,United Kingdom
+14724,300,2,352.82,1,3,3,133,7,At Risk,Spain
+14725,131,1,10.8,3,2,1,321,6,Need Attention,Belgium
+14726,203,1,128.05,2,2,2,222,6,Hibernating,United Kingdom
+14727,31,1,728.82,4,2,4,424,10,Potential Loyalists,Netherlands
+14728,155,10,1114.11,2,4,4,244,10,At Risk,United Kingdom
+14729,304,1,57.21,1,2,1,121,4,Hibernating,United Kingdom
+14730,23,2,147.81,5,3,2,532,10,Loyal Customers,United Kingdom
+14731,236,1,55.7,1,2,1,121,4,Hibernating,United Kingdom
+14732,184,1,83.7,2,2,1,221,5,Hibernating,United Kingdom
+14733,17,1,34.65,5,2,1,521,8,Potential Loyalists,United Kingdom
+14734,13,1,135.95,5,2,2,522,9,Potential Loyalists,United Kingdom
+14735,85,6,435.5,3,4,3,343,10,Loyal Customers,United Kingdom
+14736,15,1,67.35,5,2,1,521,8,Potential Loyalists,Netherlands
+14737,48,2,264.96,4,3,3,433,10,Loyal Customers,United Kingdom
+14738,192,1,207.75,2,2,2,222,6,Hibernating,United Kingdom
+14739,64,10,525.13,3,4,3,343,10,Loyal Customers,United Kingdom
+14740,63,6,966.8,3,4,4,344,11,Loyal Customers,EIRE
+14741,31,1,187.09,4,2,2,422,8,Potential Loyalists,United Kingdom
+14742,41,13,1467.41,4,5,5,455,14,Champions,Germany
+14743,64,11,1924.15,3,4,5,345,12,Loyal Customers,United Kingdom
+14744,266,2,160.9,1,3,2,132,6,At Risk,Netherlands
+14745,114,2,59.7,3,3,1,331,7,Need Attention,United Kingdom
+14746,26,1,62.63,5,2,1,521,8,Potential Loyalists,United Kingdom
+14747,141,8,1409.03,3,4,5,345,12,Loyal Customers,United Kingdom
+14748,336,1,78.4,1,2,1,121,4,Hibernating,United Kingdom
+14749,233,3,177.88,1,3,2,132,6,At Risk,EIRE
+14750,58,12,469.43,3,5,3,353,11,Loyal Customers,United Kingdom
+14751,283,2,386.66,1,3,3,133,7,At Risk,United Kingdom
+14752,69,10,1507.05,3,4,5,345,12,Loyal Customers,United Kingdom
+14753,238,2,190.21,1,3,2,132,6,At Risk,EIRE
+14754,348,1,66.4,1,2,1,121,4,Hibernating,United Kingdom
+14755,236,2,199.52,1,3,2,132,6,At Risk,United Kingdom
+14756,66,3,121.15,3,3,2,332,8,Need Attention,United Kingdom
+14757,202,9,340.77,2,4,3,243,9,At Risk,United Kingdom
+14758,84,9,237.95,3,4,2,342,9,Loyal Customers,United Kingdom
+14759,97,1,76.14,3,2,1,321,6,Need Attention,United Kingdom
+14760,224,2,327.0,2,3,3,233,8,At Risk,United Kingdom
+14761,16,1,103.65,5,2,2,522,9,Potential Loyalists,United Kingdom
+14762,63,1,38.55,3,2,1,321,6,Need Attention,United Kingdom
+14763,160,1,36.3,2,2,1,221,5,Hibernating,United Kingdom
+14764,11,1,58.95,5,2,1,521,8,Potential Loyalists,United Kingdom
+14765,91,3,266.89,3,3,3,333,9,Need Attention,United Kingdom
+14766,135,8,683.34,3,4,4,344,11,Loyal Customers,United Kingdom
+14767,60,2,148.36,3,3,2,332,8,Need Attention,United Kingdom
+14768,9,22,4366.57,5,5,5,555,15,Champions,United Kingdom
+14769,32,1,75.55,4,2,1,421,7,Potential Loyalists,United Kingdom
+14770,39,28,3173.84,4,5,5,455,14,Champions,United Kingdom
+14771,306,3,169.85,1,3,2,132,6,At Risk,United Kingdom
+14772,68,4,646.19,3,3,4,334,10,Need Attention,United Kingdom
+14773,32,4,330.36,4,3,3,433,10,Loyal Customers,United Kingdom
+14774,6,27,1481.76,5,5,5,555,15,Champions,United Kingdom
+14775,177,12,1068.61,2,5,4,254,11,Cannot Lose Them,United Kingdom
+14776,64,14,1577.48,3,5,5,355,13,Loyal Customers,United Kingdom
+14777,344,1,29.3,1,2,1,121,4,Hibernating,United Kingdom
+14778,88,2,197.72,3,3,2,332,8,Need Attention,United Kingdom
+14779,50,4,720.73,4,3,4,434,11,Loyal Customers,United Kingdom
+14780,48,13,1597.69,4,5,5,455,14,Champions,United Kingdom
+14781,270,3,321.4,1,3,3,133,7,At Risk,United Kingdom
+14782,33,23,1762.68,4,5,5,455,14,Champions,United Kingdom
+14783,164,10,1277.89,2,4,4,244,10,At Risk,United Kingdom
+14784,229,17,807.23,1,5,4,154,10,Cannot Lose Them,United Kingdom
+14785,24,14,427.89,5,5,3,553,13,Champions,United Kingdom
+14786,202,9,1053.34,2,4,4,244,10,At Risk,United Kingdom
+14787,81,4,174.94,3,3,2,332,8,Need Attention,United Kingdom
+14788,246,3,487.46,1,3,3,133,7,At Risk,United Kingdom
+14789,54,1,149.8,4,2,2,422,8,Potential Loyalists,United Kingdom
+14790,27,2,219.79,5,3,2,532,10,Loyal Customers,United Kingdom
+14791,25,6,2450.38,5,4,5,545,14,Champions,Portugal
+14792,50,23,2343.94,4,5,5,455,14,Champions,United Kingdom
+14793,1,21,2677.61,5,5,5,555,15,Champions,United Kingdom
+14794,284,3,454.75,1,3,3,133,7,At Risk,United Kingdom
+14795,190,27,2203.0,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14796,100,3,596.8,3,3,4,334,10,Need Attention,United Kingdom
+14797,46,3,369.04,4,3,3,433,10,Loyal Customers,United Kingdom
+14798,74,13,1264.18,3,5,4,354,12,Loyal Customers,United Kingdom
+14799,145,1,253.8,3,2,3,323,8,Need Attention,United Kingdom
+14800,158,6,564.13,2,4,4,244,10,At Risk,United Kingdom
+14801,210,3,165.91,2,3,2,232,7,At Risk,United Kingdom
+14802,14,1,129.3,5,2,2,522,9,Potential Loyalists,United Kingdom
+14803,255,20,1313.22,1,5,4,154,10,Cannot Lose Them,United Kingdom
+14804,25,2,65.48,5,3,1,531,9,Loyal Customers,United Kingdom
+14805,37,28,3222.5,4,5,5,455,14,Champions,United Kingdom
+14806,60,1,46.0,3,2,1,321,6,Need Attention,United Kingdom
+14807,161,9,871.17,2,4,4,244,10,At Risk,United Kingdom
+14808,252,3,765.78,1,3,4,134,8,At Risk,United Kingdom
+14809,8,24,3287.64,5,5,5,555,15,Champions,United Kingdom
+14810,285,2,58.45,1,3,1,131,5,At Risk,United Kingdom
+14811,208,11,898.44,2,4,4,244,10,At Risk,United Kingdom
+14812,31,2,214.38,4,3,2,432,9,Loyal Customers,United Kingdom
+14813,16,19,2123.49,5,5,5,555,15,Champions,United Kingdom
+14814,93,10,1806.45,3,4,5,345,12,Loyal Customers,United Kingdom
+14815,5,11,1492.16,5,4,5,545,14,Champions,Switzerland
+14816,68,12,2556.96,3,5,5,355,13,Loyal Customers,United Kingdom
+14817,212,2,58.28,2,3,1,231,6,At Risk,United Kingdom
+14818,39,10,466.86,4,4,3,443,11,Champions,United Kingdom
+14819,292,2,57.3,1,3,1,131,5,At Risk,United Kingdom
+14820,80,2,350.29,3,3,3,333,9,Need Attention,United Kingdom
+14821,196,9,1435.42,2,4,5,245,11,At Risk,Spain
+14822,289,2,112.4,1,3,2,132,6,At Risk,France
+14823,16,1,75.9,5,2,1,521,8,Potential Loyalists,United Kingdom
+14824,219,17,1095.77,2,5,4,254,11,Cannot Lose Them,United Kingdom
+14825,191,1,253.07,2,2,3,223,7,Hibernating,United Kingdom
+14826,175,1,83.97,2,2,1,221,5,Hibernating,Germany
+14827,18,2,24.2,5,3,1,531,9,Loyal Customers,United Kingdom
+14828,34,1,154.41,4,2,2,422,8,Potential Loyalists,United Kingdom
+14829,237,1,123.6,1,2,2,122,5,Hibernating,United Kingdom
+14830,99,4,326.94,3,3,3,333,9,Need Attention,United Kingdom
+14831,216,2,174.1,2,3,2,232,7,At Risk,United Kingdom
+14832,66,10,1141.27,3,4,4,344,11,Loyal Customers,United Kingdom
+14833,183,10,1002.77,2,4,4,244,10,At Risk,Netherlands
+14834,34,2,129.6,4,3,2,432,9,Loyal Customers,United Kingdom
+14835,348,1,76.87,1,2,1,121,4,Hibernating,Australia
+14836,55,1,82.9,4,2,1,421,7,Potential Loyalists,United Kingdom
+14837,243,5,950.94,1,4,4,144,9,At Risk,Spain
+14838,28,2,104.65,4,3,2,432,9,Loyal Customers,United Kingdom
+14839,22,29,4815.67,5,5,5,555,15,Champions,Germany
+14840,177,2,392.0,2,3,3,233,8,At Risk,United Kingdom
+14841,28,14,2911.36,4,5,5,455,14,Champions,United Kingdom
+14842,360,1,69.95,1,2,1,121,4,Hibernating,United Kingdom
+14843,202,19,3212.66,2,5,5,255,12,Cannot Lose Them,Germany
+14844,126,6,485.45,3,4,3,343,10,Loyal Customers,United Kingdom
+14845,56,2,278.5,4,3,3,433,10,Loyal Customers,United Kingdom
+14846,82,10,1828.35,3,4,5,345,12,Loyal Customers,Germany
+14847,215,3,112.95,2,3,2,232,7,At Risk,United Kingdom
+14848,217,11,783.25,2,4,4,244,10,At Risk,United Kingdom
+14849,31,28,4098.33,4,5,5,455,14,Champions,United Kingdom
+14850,27,3,284.82,5,3,3,533,11,Loyal Customers,United Kingdom
+14851,174,11,447.12,2,4,3,243,9,At Risk,United Kingdom
+14852,16,25,2391.6,5,5,5,555,15,Champions,United Kingdom
+14853,19,1,160.46,5,2,2,522,9,Potential Loyalists,United Kingdom
+14854,53,8,1593.07,4,4,5,445,13,Champions,United Kingdom
+14855,72,3,529.46,3,3,3,333,9,Need Attention,United Kingdom
+14856,291,3,324.92,1,3,3,133,7,At Risk,United Kingdom
+14857,53,4,297.75,4,3,3,433,10,Loyal Customers,United Kingdom
+14858,102,1,20.75,3,2,1,321,6,Need Attention,United Kingdom
+14859,177,10,1381.9,2,4,5,245,11,At Risk,United Kingdom
+14860,34,1,76.35,4,2,1,421,7,Potential Loyalists,United Kingdom
+14861,84,2,418.81,3,3,3,333,9,Need Attention,United Kingdom
+14862,246,2,286.41,1,3,3,133,7,At Risk,United Kingdom
+14863,49,3,169.05,4,3,2,432,9,Loyal Customers,United Kingdom
+14864,112,2,273.85,3,3,3,333,9,Need Attention,United Kingdom
+14865,355,1,5.85,1,2,1,121,4,Hibernating,United Kingdom
+14866,327,1,32.77,1,2,1,121,4,Hibernating,Belgium
+14867,324,3,323.15,1,3,3,133,7,At Risk,Netherlands
+14868,22,1,53.6,5,2,1,521,8,Potential Loyalists,United Kingdom
+14869,53,1,31.8,4,2,1,421,7,Potential Loyalists,United Kingdom
+14870,21,23,1616.82,5,5,5,555,15,Champions,United Kingdom
+14871,256,3,249.39,1,3,2,132,6,At Risk,United Kingdom
+14872,9,13,1469.5,5,5,5,555,15,Champions,United Kingdom
+14873,78,2,47.85,3,3,1,331,7,Need Attention,United Kingdom
+14874,143,8,1043.53,3,4,4,344,11,Loyal Customers,United Kingdom
+14875,23,2,5.5,5,3,1,531,9,Loyal Customers,United Kingdom
+14876,35,2,616.51,4,3,4,434,11,Loyal Customers,United Kingdom
+14877,234,8,1210.45,1,4,4,144,9,At Risk,United Kingdom
+14878,22,25,4912.48,5,5,5,555,15,Champions,United Kingdom
+14879,228,2,52.8,1,3,1,131,5,At Risk,United Kingdom
+14880,25,18,1673.78,5,5,5,555,15,Champions,United Kingdom
+14881,350,1,98.3,1,2,1,121,4,Hibernating,United Kingdom
+14882,10,3,283.11,5,3,3,533,11,Loyal Customers,United Kingdom
+14883,249,21,3538.81,1,5,5,155,11,Cannot Lose Them,United Kingdom
+14884,151,14,784.71,3,5,4,354,12,Loyal Customers,Spain
+14885,56,1,54.8,4,2,1,421,7,Potential Loyalists,United Kingdom
+14886,100,1,73.1,3,2,1,321,6,Need Attention,United Kingdom
+14887,203,1,51.98,2,2,1,221,5,Hibernating,United Kingdom
+14888,222,7,1436.02,2,4,5,245,11,At Risk,United Kingdom
+14889,20,3,324.8,5,3,3,533,11,Loyal Customers,United Kingdom
+14890,315,1,101.85,1,2,1,121,4,Hibernating,United Kingdom
+14891,234,3,474.22,1,3,3,133,7,At Risk,United Kingdom
+14892,23,1,202.28,5,2,2,522,9,Potential Loyalists,United Kingdom
+14893,11,2,366.27,5,3,3,533,11,Loyal Customers,United Kingdom
+14894,8,2,310.68,5,3,3,533,11,Loyal Customers,United Kingdom
+14895,19,18,1085.6,5,5,4,554,14,Champions,United Kingdom
+14896,22,2,365.5,5,3,3,533,11,Loyal Customers,United Kingdom
+14897,13,30,2672.27,5,5,5,555,15,Champions,United Kingdom
+14898,216,2,278.7,2,3,3,233,8,At Risk,United Kingdom
+14899,52,4,261.51,4,3,3,433,10,Loyal Customers,Belgium
+14900,293,3,236.99,1,3,2,132,6,At Risk,United Kingdom
+14901,12,26,3990.57,5,5,5,555,15,Champions,United Kingdom
+14902,28,23,3850.75,4,5,5,455,14,Champions,United Kingdom
+14903,341,1,186.3,1,2,2,122,5,Hibernating,Germany
+14904,34,1,141.45,4,2,2,422,8,Potential Loyalists,United Kingdom
+14905,25,2,47.05,5,3,1,531,9,Loyal Customers,United Kingdom
+14906,23,1,127.23,5,2,2,522,9,Potential Loyalists,United Kingdom
+14907,45,3,112.3,4,3,2,432,9,Loyal Customers,United Kingdom
+14908,242,1,19.05,1,2,1,121,4,Hibernating,United Kingdom
+14909,196,1,54.45,2,2,1,221,5,Hibernating,United Kingdom
+14910,199,1,7.55,2,2,1,221,5,Hibernating,United Kingdom
+14911,151,6,672.5,3,4,4,344,11,Loyal Customers,Germany
+14912,18,2,365.04,5,3,3,533,11,Loyal Customers,Germany
+14913,185,19,1159.09,2,5,4,254,11,Cannot Lose Them,United Kingdom
+14914,144,5,142.53,3,4,2,342,9,Loyal Customers,United Kingdom
+14915,45,2,168.4,4,3,2,432,9,Loyal Customers,United Kingdom
+14916,250,1,456.68,1,2,3,123,6,Hibernating,United Kingdom
+14917,86,4,524.64,3,3,3,333,9,Need Attention,United Kingdom
+14918,52,19,4100.71,4,5,5,455,14,Champions,United Kingdom
+14919,20,12,2024.55,5,5,5,555,15,Champions,United Kingdom
+14920,301,1,115.19,1,2,2,122,5,Hibernating,United Kingdom
+14921,197,6,648.08,2,4,4,244,10,At Risk,United Kingdom
+14922,49,2,241.95,4,3,2,432,9,Loyal Customers,United Kingdom
+14923,315,2,55.4,1,3,1,131,5,At Risk,United Kingdom
+14924,13,25,2647.61,5,5,5,555,15,Champions,Spain
+14925,7,2,498.37,5,3,3,533,11,Loyal Customers,United Kingdom
+14926,42,1,60.77,4,2,1,421,7,Potential Loyalists,United Kingdom
+14927,216,5,489.42,2,4,3,243,9,At Risk,United Kingdom
+14928,60,4,252.33,3,3,2,332,8,Need Attention,United Kingdom
+14929,50,1,53.5,4,2,1,421,7,Potential Loyalists,United Kingdom
+14930,84,1,406.6,3,2,3,323,8,Need Attention,United Kingdom
+14931,208,2,122.75,2,3,2,232,7,At Risk,United Kingdom
+14932,207,7,1312.66,2,4,4,244,10,At Risk,United Kingdom
+14933,64,1,86.5,3,2,1,321,6,Need Attention,United Kingdom
+14934,76,3,190.68,3,3,2,332,8,Need Attention,United Kingdom
+14935,30,7,932.78,4,4,4,444,12,Champions,United Kingdom
+14936,214,1,38.65,2,2,1,221,5,Hibernating,United Kingdom
+14937,57,7,1283.82,3,4,4,344,11,Loyal Customers,United Kingdom
+14938,22,26,3090.54,5,5,5,555,15,Champions,United Kingdom
+14939,20,1,88.65,5,2,1,521,8,Potential Loyalists,Germany
+14940,4,1,16.57,5,2,1,521,8,Potential Loyalists,United Kingdom
+14941,82,3,73.12,3,3,1,331,7,Need Attention,United Kingdom
+14942,9,1,17.6,5,2,1,521,8,Potential Loyalists,United Kingdom
+14943,13,1,140.71,5,2,2,522,9,Potential Loyalists,EIRE
+14944,160,25,1375.76,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14945,85,2,190.16,3,3,2,332,8,Need Attention,United Kingdom
+14946,108,9,1087.59,3,4,4,344,11,Loyal Customers,United Kingdom
+14947,36,26,1138.97,4,5,4,454,13,Champions,Switzerland
+14948,42,1,96.55,4,2,1,421,7,Potential Loyalists,Belgium
+14949,62,27,2404.06,3,5,5,355,13,Loyal Customers,United Kingdom
+14950,77,2,477.18,3,3,3,333,9,Need Attention,United Kingdom
+14951,60,19,1108.71,3,5,4,354,12,Loyal Customers,United Kingdom
+14952,27,2,348.93,5,3,3,533,11,Loyal Customers,United Kingdom
+14953,62,2,474.03,3,3,3,333,9,Need Attention,United Kingdom
+14954,72,10,592.7,3,4,4,344,11,Loyal Customers,United Kingdom
+14955,186,8,1195.42,2,4,4,244,10,At Risk,Germany
+14956,19,22,4482.21,5,5,5,555,15,Champions,United Kingdom
+14957,184,1,10.86,2,2,1,221,5,Hibernating,United Kingdom
+14958,79,10,479.52,3,4,3,343,10,Loyal Customers,United Kingdom
+14959,212,20,1925.22,2,5,5,255,12,Cannot Lose Them,United Kingdom
+14960,17,8,1729.3,5,4,5,545,14,Champions,United Kingdom
+14961,265,2,203.4,1,3,2,132,6,At Risk,United Kingdom
+14962,47,8,587.37,4,4,4,444,12,Champions,Germany
+14963,178,1,88.05,2,2,1,221,5,Hibernating,United Kingdom
+14964,62,1,256.25,3,2,3,323,8,Need Attention,United Kingdom
+14965,236,3,127.1,1,3,2,132,6,At Risk,Belgium
+14966,371,1,215.35,1,2,2,122,5,Hibernating,United Kingdom
+14967,310,3,158.95,1,3,2,132,6,At Risk,EIRE
+14968,33,7,407.12,4,4,3,443,11,Champions,United Kingdom
+14969,181,3,369.15,2,3,3,233,8,At Risk,United Kingdom
+14970,71,24,3173.51,3,5,5,355,13,Loyal Customers,United Kingdom
+14971,42,13,2884.69,4,5,5,455,14,Champions,United Kingdom
+14972,53,1,100.37,4,2,1,421,7,Potential Loyalists,Spain
+14973,80,2,74.95,3,3,1,331,7,Need Attention,United Kingdom
+14974,182,8,476.28,2,4,3,243,9,At Risk,United Kingdom
+14975,27,17,2223.0,5,5,5,555,15,Champions,Belgium
+14976,55,23,3096.28,4,5,5,455,14,Champions,United Kingdom
+14977,257,2,158.3,1,3,2,132,6,At Risk,United Kingdom
+14978,122,7,988.63,3,4,4,344,11,Loyal Customers,United Kingdom
+14979,238,1,82.29,1,2,1,121,4,Hibernating,France
+14980,218,2,97.35,2,3,1,231,6,At Risk,United Kingdom
+14981,9,1,16.8,5,2,1,521,8,Potential Loyalists,United Kingdom
+14982,91,4,483.9,3,3,3,333,9,Need Attention,United Kingdom
+14983,21,2,641.3,5,3,4,534,12,Loyal Customers,Germany
+14984,187,2,219.63,2,3,2,232,7,At Risk,United Kingdom
+14985,47,1,235.77,4,2,2,422,8,Potential Loyalists,United Kingdom
+14986,48,2,504.85,4,3,3,433,10,Loyal Customers,United Kingdom
+14987,14,1,222.2,5,2,2,522,9,Potential Loyalists,United Kingdom
+14988,82,1,372.52,3,2,3,323,8,Need Attention,United Kingdom
+14989,310,1,84.45,1,2,1,121,4,Hibernating,United Kingdom
+14990,9,26,3222.86,5,5,5,555,15,Champions,United Kingdom
+14991,35,1,115.65,4,2,2,422,8,Potential Loyalists,United Kingdom
+14992,173,7,1629.72,2,4,5,245,11,At Risk,Netherlands
+14993,15,1,178.9,5,2,2,522,9,Potential Loyalists,United Kingdom
+14994,288,2,404.1,1,3,3,133,7,At Risk,United Kingdom
+14995,77,4,474.65,3,3,3,333,9,Need Attention,Germany
+14996,36,3,390.27,4,3,3,433,10,Loyal Customers,United Kingdom
+14997,291,1,21.32,1,2,1,121,4,Hibernating,Germany
+14998,64,13,1284.78,3,5,4,354,12,Loyal Customers,United Kingdom
+14999,325,2,72.02,1,3,1,131,5,At Risk,United Kingdom
+15000,9,14,1814.18,5,5,5,555,15,Champions,United Kingdom
+15001,314,1,42.36,1,2,1,121,4,Hibernating,France
+15002,158,11,520.57,2,4,3,243,9,At Risk,United Kingdom
+15003,62,9,1511.58,3,4,5,345,12,Loyal Customers,United Kingdom
+15004,237,1,145.35,1,2,2,122,5,Hibernating,United Kingdom
+15005,24,2,224.1,5,3,2,532,10,Loyal Customers,United Kingdom
+15006,241,24,1485.19,1,5,5,155,11,Cannot Lose Them,France
+15007,32,23,5813.47,4,5,5,455,14,Champions,United Kingdom
+15008,184,9,944.64,2,4,4,244,10,At Risk,United Kingdom
+15009,195,2,384.22,2,3,3,233,8,At Risk,Germany
+15010,258,1,30.4,1,2,1,121,4,Hibernating,United Kingdom
+15011,15,22,3245.04,5,5,5,555,15,Champions,United Kingdom
+15012,162,10,1274.81,2,4,4,244,10,At Risk,United Kingdom
+15013,261,1,197.86,1,2,2,122,5,Hibernating,United Kingdom
+15014,2,1,154.05,5,2,2,522,9,Potential Loyalists,United Kingdom
+15015,268,2,351.5,1,3,3,133,7,At Risk,United Kingdom
+15016,26,2,267.75,5,3,3,533,11,Loyal Customers,United Kingdom
+15017,174,1,262.1,2,2,3,223,7,Hibernating,United Kingdom
+15018,78,12,2279.22,3,5,5,355,13,Loyal Customers,United Kingdom
+15019,264,2,463.32,1,3,3,133,7,At Risk,United Kingdom
+15020,185,1,73.72,2,2,1,221,5,Hibernating,United Kingdom
+15021,16,1,144.6,5,2,2,522,9,Potential Loyalists,United Kingdom
+15022,281,6,261.3,1,4,3,143,8,At Risk,United Kingdom
+15023,171,16,1423.78,2,5,5,255,12,Cannot Lose Them,France
+15024,194,11,458.61,2,4,3,243,9,At Risk,United Kingdom
+15025,188,11,555.47,2,4,3,243,9,At Risk,United Kingdom
+15026,54,4,122.61,4,3,2,432,9,Loyal Customers,United Kingdom
+15027,53,4,450.74,4,3,3,433,10,Loyal Customers,United Kingdom
+15028,183,2,62.95,2,3,1,231,6,At Risk,United Kingdom
+15029,87,3,172.82,3,3,2,332,8,Need Attention,United Kingdom
+15030,217,2,37.75,2,3,1,231,6,At Risk,United Kingdom
+15031,40,2,248.69,4,3,2,432,9,Loyal Customers,United Kingdom
+15032,15,16,907.81,5,5,4,554,14,Champions,United Kingdom
+15033,61,14,1391.05,3,5,5,355,13,Loyal Customers,United Kingdom
+15034,7,10,898.08,5,4,4,544,13,Champions,United Kingdom
+15035,65,4,352.2,3,3,3,333,9,Need Attention,United Kingdom
+15036,189,2,383.48,2,3,3,233,8,At Risk,United Kingdom
+15037,221,1,442.01,2,2,3,223,7,Hibernating,United Kingdom
+15038,13,20,3208.42,5,5,5,555,15,Champions,Belgium
+15039,119,1,79.95,3,2,1,321,6,Need Attention,United Kingdom
+15040,14,22,2731.14,5,5,5,555,15,Champions,United Kingdom
+15041,129,11,1939.19,3,4,5,345,12,Loyal Customers,United Kingdom
+15042,10,2,185.55,5,3,2,532,10,Loyal Customers,United Kingdom
+15043,57,3,608.52,3,3,4,334,10,Need Attention,United Kingdom
+15044,177,4,1632.53,2,3,5,235,10,At Risk,United Kingdom
+15045,56,2,83.9,4,3,1,431,8,Loyal Customers,Switzerland
+15046,236,19,1752.97,1,5,5,155,11,Cannot Lose Them,United Kingdom
+15047,259,21,2807.53,1,5,5,155,11,Cannot Lose Them,Germany
+15048,247,3,328.37,1,3,3,133,7,At Risk,United Kingdom
+15049,200,12,1691.71,2,5,5,255,12,Cannot Lose Them,Germany
+15050,158,22,2984.04,2,5,5,255,12,Cannot Lose Them,United Kingdom
+15051,57,4,145.28,3,3,2,332,8,Need Attention,United Kingdom
+15052,82,2,141.85,3,3,2,332,8,Need Attention,United Kingdom
+15053,24,20,3823.01,5,5,5,555,15,Champions,United Kingdom
+15054,75,4,352.17,3,3,3,333,9,Need Attention,United Kingdom
+15055,259,1,67.04,1,2,1,121,4,Hibernating,United Kingdom
+15056,23,1,43.38,5,2,1,521,8,Potential Loyalists,United Kingdom
+15057,210,11,1332.07,2,4,4,244,10,At Risk,United Kingdom
+15058,228,1,35.55,1,2,1,121,4,Hibernating,United Kingdom
+15059,31,3,1034.0,4,3,4,434,11,Loyal Customers,France
+15060,157,6,472.26,2,4,3,243,9,At Risk,United Kingdom
+15061,22,2,280.81,5,3,3,533,11,Loyal Customers,United Kingdom
+15062,205,10,694.52,2,4,4,244,10,At Risk,Germany
+15063,331,1,57.35,1,2,1,121,4,Hibernating,Australia
+15064,12,2,198.27,5,3,2,532,10,Loyal Customers,United Kingdom
+15065,73,1,39.75,3,2,1,321,6,Need Attention,United Kingdom
+15066,83,6,461.44,3,4,3,343,10,Loyal Customers,United Kingdom
+15067,31,6,384.0,4,4,3,443,11,Champions,United Kingdom
+15068,16,2,401.49,5,3,3,533,11,Loyal Customers,United Kingdom
+15069,227,3,423.9,2,3,3,233,8,At Risk,United Kingdom
+15070,59,2,256.61,3,3,3,333,9,Need Attention,France
+15071,167,10,782.74,2,4,4,244,10,At Risk,United Kingdom
+15072,213,2,233.22,2,3,2,232,7,At Risk,United Kingdom
+15073,53,13,2207.32,4,5,5,455,14,Champions,United Kingdom
+15074,282,2,309.81,1,3,3,133,7,At Risk,EIRE
+15075,20,2,453.88,5,3,3,533,11,Loyal Customers,United Kingdom
+15076,176,2,176.4,2,3,2,232,7,At Risk,United Kingdom
+15077,237,2,162.58,1,3,2,132,6,At Risk,United Kingdom
+15078,58,1,114.48,3,2,2,322,7,Need Attention,United Kingdom
+15079,22,24,3449.25,5,5,5,555,15,Champions,United Kingdom
+15080,33,1,41.9,4,2,1,421,7,Potential Loyalists,United Kingdom
+15081,7,2,407.26,5,3,3,533,11,Loyal Customers,Switzerland
+15082,88,4,642.06,3,3,4,334,10,Need Attention,United Kingdom
+15083,270,3,565.15,1,3,4,134,8,At Risk,United Kingdom
+15084,195,1,160.75,2,2,2,222,6,Hibernating,United Kingdom
+15085,72,4,190.42,3,3,2,332,8,Need Attention,United Kingdom
+15086,167,1,23.75,2,2,1,221,5,Hibernating,United Kingdom
+15087,157,1,4.74,2,2,1,221,5,Hibernating,United Kingdom
+15088,183,1,39.35,2,2,1,221,5,Hibernating,United Kingdom
+15089,209,1,50.2,2,2,1,221,5,Hibernating,France
+15090,49,6,428.94,4,4,3,443,11,Champions,United Kingdom
+15091,202,3,104.15,2,3,2,232,7,At Risk,France
+15092,184,5,214.27,2,4,2,242,8,At Risk,United Kingdom
+15093,11,9,696.21,5,4,4,544,13,Champions,Netherlands
+15094,271,2,605.05,1,3,4,134,8,At Risk,United Kingdom
+15095,17,11,831.04,5,4,4,544,13,Champions,United Kingdom
+15096,59,14,1793.16,3,5,5,355,13,Loyal Customers,Spain
+15097,18,12,1054.26,5,5,4,554,14,Champions,United Kingdom
+15098,62,3,184.9,3,3,2,332,8,Need Attention,United Kingdom
+15099,207,9,918.97,2,4,4,244,10,At Risk,United Kingdom
+15100,251,1,20.94,1,2,1,121,4,Hibernating,United Kingdom
+15101,314,2,534.45,1,3,3,133,7,At Risk,United Kingdom
+15102,255,1,226.44,1,2,2,122,5,Hibernating,United Kingdom
+15103,191,5,543.93,2,4,3,243,9,At Risk,United Kingdom
+15104,86,6,1046.82,3,4,4,344,11,Loyal Customers,United Kingdom
+15105,247,1,48.75,1,2,1,121,4,Hibernating,United Kingdom
+15106,59,12,632.18,3,5,4,354,12,Loyal Customers,United Kingdom
+15107,227,20,2450.58,2,5,5,255,12,Cannot Lose Them,Germany
+15108,209,1,101.6,2,2,1,221,5,Hibernating,United Kingdom
+15109,21,2,292.05,5,3,3,533,11,Loyal Customers,United Kingdom
+15110,61,6,1073.83,3,4,4,344,11,Loyal Customers,France
+15111,70,4,891.96,3,3,4,334,10,Need Attention,United Kingdom
+15112,42,2,315.65,4,3,3,433,10,Loyal Customers,United Kingdom
+15113,236,3,224.34,1,3,2,132,6,At Risk,United Kingdom
+15114,228,27,3342.26,1,5,5,155,11,Cannot Lose Them,United Kingdom
+15115,31,2,230.4,4,3,2,432,9,Loyal Customers,United Kingdom
+15116,236,29,3844.69,1,5,5,155,11,Cannot Lose Them,United Kingdom
+15117,52,14,1178.2,4,5,4,454,13,Champions,United Kingdom
+15118,224,2,217.42,2,3,2,232,7,At Risk,United Kingdom
+15119,59,1,331.81,3,2,3,323,8,Need Attention,United Kingdom
+15120,143,7,1792.13,3,4,5,345,12,Loyal Customers,United Kingdom
+15121,56,12,1177.65,4,5,4,454,13,Champions,United Kingdom
+15122,35,28,1014.48,4,5,4,454,13,Champions,EIRE
+15123,6,12,361.94,5,5,3,553,13,Champions,Netherlands
+15124,285,1,79.8,1,2,1,121,4,Hibernating,United Kingdom
+15125,28,16,1688.39,4,5,5,455,14,Champions,United Kingdom
+15126,125,1,25.35,3,2,1,321,6,Need Attention,United Kingdom
+15127,353,1,150.5,1,2,2,122,5,Hibernating,United Kingdom
+15128,171,9,996.09,2,4,4,244,10,At Risk,United Kingdom
+15129,149,10,1715.54,3,4,5,345,12,Loyal Customers,United Kingdom
+15130,19,1,23.86,5,2,1,521,8,Potential Loyalists,United Kingdom
+15131,42,2,445.86,4,3,3,433,10,Loyal Customers,United Kingdom
+15132,280,1,145.92,1,2,2,122,5,Hibernating,United Kingdom
+15133,215,1,19.34,2,2,1,221,5,Hibernating,United Kingdom
+15134,170,8,659.57,2,4,4,244,10,At Risk,EIRE
+15135,102,4,867.14,3,3,4,334,10,Need Attention,Netherlands
+15136,234,1,357.0,1,2,3,123,6,Hibernating,United Kingdom
+15137,247,2,289.3,1,3,3,133,7,At Risk,United Kingdom
+15138,34,1,136.11,4,2,2,422,8,Potential Loyalists,Germany
+15139,28,1,15.9,4,2,1,421,7,Potential Loyalists,United Kingdom
+15140,258,1,157.25,1,2,2,122,5,Hibernating,United Kingdom
+15141,39,14,1528.2,4,5,5,455,14,Champions,United Kingdom
+15142,36,23,1372.85,4,5,5,455,14,Champions,United Kingdom
+15143,252,1,21.99,1,2,1,121,4,Hibernating,Spain
+15144,23,23,3122.01,5,5,5,555,15,Champions,United Kingdom
+15145,38,2,397.8,4,3,3,433,10,Loyal Customers,France
+15146,17,23,3302.73,5,5,5,555,15,Champions,United Kingdom
+15147,156,1,109.9,2,2,2,222,6,Hibernating,United Kingdom
+15148,360,1,574.19,1,2,4,124,7,Hibernating,United Kingdom
+15149,24,25,3482.73,5,5,5,555,15,Champions,United Kingdom
+15150,47,12,1937.26,4,5,5,455,14,Champions,United Kingdom
+15151,42,1,59.7,4,2,1,421,7,Potential Loyalists,United Kingdom
+15152,320,1,75.46,1,2,1,121,4,Hibernating,United Kingdom
+15153,10,15,1056.69,5,5,4,554,14,Champions,United Kingdom
+15154,294,1,94.3,1,2,1,121,4,Hibernating,United Kingdom
+15155,36,2,33.34,4,3,1,431,8,Loyal Customers,United Kingdom
+15156,16,19,2233.93,5,5,5,555,15,Champions,United Kingdom
+15157,307,1,91.64,1,2,1,121,4,Hibernating,United Kingdom
+15158,138,10,2323.68,3,4,5,345,12,Loyal Customers,United Kingdom
+15159,234,15,1114.72,1,5,4,154,10,Cannot Lose Them,United Kingdom
+15160,13,28,3385.5,5,5,5,555,15,Champions,United Kingdom
+15161,15,1,35.17,5,2,1,521,8,Potential Loyalists,United Kingdom
+15162,138,10,1104.39,3,4,4,344,11,Loyal Customers,United Kingdom
+15163,208,3,473.7,2,3,3,233,8,At Risk,United Kingdom
+15164,17,30,1679.79,5,5,5,555,15,Champions,United Kingdom
+15165,243,1,171.76,1,2,2,122,5,Hibernating,United Kingdom
+15166,179,2,131.04,2,3,2,232,7,At Risk,Germany
+15167,163,26,1402.91,2,5,5,255,12,Cannot Lose Them,Switzerland
+15168,77,4,248.45,3,3,2,332,8,Need Attention,United Kingdom
+15169,106,13,191.1,3,5,2,352,10,Loyal Customers,Germany
+15170,208,5,298.78,2,4,3,243,9,At Risk,United Kingdom
+15171,21,26,2842.35,5,5,5,555,15,Champions,United Kingdom
+15172,15,2,235.7,5,3,2,532,10,Loyal Customers,United Kingdom
+15173,66,2,120.69,3,3,2,332,8,Need Attention,United Kingdom
+15174,201,12,1441.36,2,5,5,255,12,Cannot Lose Them,Spain
+15175,101,1,130.15,3,2,2,322,7,Need Attention,United Kingdom
+15176,8,1,62.86,5,2,1,521,8,Potential Loyalists,United Kingdom
+15177,165,27,3334.05,2,5,5,255,12,Cannot Lose Them,United Kingdom
+15178,142,11,1139.89,3,4,4,344,11,Loyal Customers,Australia
+15179,48,2,279.3,4,3,3,433,10,Loyal Customers,United Kingdom
+15180,297,1,47.53,1,2,1,121,4,Hibernating,United Kingdom
+15181,12,23,1964.9,5,5,5,555,15,Champions,United Kingdom
+15182,27,1,72.73,5,2,1,521,8,Potential Loyalists,Spain
+15183,91,9,1145.86,3,4,4,344,11,Loyal Customers,United Kingdom
+15184,63,11,1881.09,3,4,5,345,12,Loyal Customers,United Kingdom
+15185,88,2,283.56,3,3,3,333,9,Need Attention,United Kingdom
+15186,69,2,57.25,3,3,1,331,7,Need Attention,United Kingdom
+15187,278,3,297.54,1,3,3,133,7,At Risk,United Kingdom
+15188,15,14,1117.71,5,5,4,554,14,Champions,United Kingdom
+15189,214,22,2090.17,2,5,5,255,12,Cannot Lose Them,Germany
+15190,80,3,197.4,3,3,2,332,8,Need Attention,United Kingdom
+15191,301,3,248.65,1,3,2,132,6,At Risk,United Kingdom
+15192,186,8,573.31,2,4,4,244,10,At Risk,United Kingdom
+15193,45,11,1046.05,4,4,4,444,12,Champions,United Kingdom
+15194,253,2,260.1,1,3,3,133,7,At Risk,United Kingdom
+15195,21,24,6385.98,5,5,5,555,15,Champions,United Kingdom
+15196,249,1,21.42,1,2,1,121,4,Hibernating,United Kingdom
+15197,31,2,581.96,4,3,4,434,11,Loyal Customers,Spain
+15198,25,29,4375.75,5,5,5,555,15,Champions,United Kingdom
+15199,255,2,48.23,1,3,1,131,5,At Risk,United Kingdom
+15200,42,1,71.3,4,2,1,421,7,Potential Loyalists,United Kingdom
+15201,330,1,286.2,1,2,3,123,6,Hibernating,United Kingdom
+15202,46,13,610.47,4,5,4,454,13,Champions,EIRE
+15203,39,9,881.8,4,4,4,444,12,Champions,United Kingdom
+15204,114,2,96.05,3,3,1,331,7,Need Attention,United Kingdom
+15205,33,2,196.35,4,3,2,432,9,Loyal Customers,United Kingdom
+15206,19,1,20.85,5,2,1,521,8,Potential Loyalists,United Kingdom
+15207,208,3,187.55,2,3,2,232,7,At Risk,United Kingdom
+15208,229,3,162.8,1,3,2,132,6,At Risk,United Kingdom
+15209,12,1,27.07,5,2,1,521,8,Potential Loyalists,France
+15210,38,2,324.99,4,3,3,433,10,Loyal Customers,France
+15211,341,2,433.73,1,3,3,133,7,At Risk,United Kingdom
+15212,164,7,364.11,2,4,3,243,9,At Risk,United Kingdom
+15213,24,7,1234.34,5,4,4,544,13,Champions,United Kingdom
+15214,15,2,126.0,5,3,2,532,10,Loyal Customers,United Kingdom
+15215,18,1,224.4,5,2,2,522,9,Potential Loyalists,United Kingdom
+15216,157,7,949.41,2,4,4,244,10,At Risk,United Kingdom
+15217,66,4,248.1,3,3,2,332,8,Need Attention,United Kingdom
+15218,47,11,933.42,4,4,4,444,12,Champions,United Kingdom
+15219,164,8,1440.79,2,4,5,245,11,At Risk,United Kingdom
+15220,33,1,175.5,4,2,2,422,8,Potential Loyalists,United Kingdom
+15221,55,4,490.26,4,3,3,433,10,Loyal Customers,United Kingdom
+15222,16,1,91.8,5,2,1,521,8,Potential Loyalists,United Kingdom
+15223,327,3,196.0,1,3,2,132,6,At Risk,United Kingdom
+15224,36,4,565.87,4,3,4,434,11,Loyal Customers,Germany
+15225,33,11,842.3,4,4,4,444,12,Champions,United Kingdom
+15226,276,1,177.95,1,2,2,122,5,Hibernating,United Kingdom
+15227,57,13,2594.05,3,5,5,355,13,Loyal Customers,United Kingdom
+15228,33,13,1656.87,4,5,5,455,14,Champions,United Kingdom
+15229,24,2,85.44,5,3,1,531,9,Loyal Customers,United Kingdom
+15230,182,5,746.13,2,4,4,244,10,At Risk,United Kingdom
+15231,29,26,6022.01,4,5,5,455,14,Champions,United Kingdom
+15232,37,1,350.08,4,2,3,423,9,Potential Loyalists,United Kingdom
+15233,26,7,442.12,5,4,3,543,12,Champions,United Kingdom
+15234,175,3,244.85,2,3,2,232,7,At Risk,United Kingdom
+15235,50,7,656.35,4,4,4,444,12,Champions,United Kingdom
+15236,196,1,44.65,2,2,1,221,5,Hibernating,United Kingdom
+15237,152,8,776.81,3,4,4,344,11,Loyal Customers,United Kingdom
+15238,185,11,1295.42,2,4,4,244,10,At Risk,United Kingdom
+15239,13,24,1966.39,5,5,5,555,15,Champions,United Kingdom
+15240,71,7,589.05,3,4,4,344,11,Loyal Customers,United Kingdom
+15241,179,2,165.37,2,3,2,232,7,At Risk,United Kingdom
+15242,292,1,101.15,1,2,1,121,4,Hibernating,United Kingdom
+15243,230,1,2.1,1,2,1,121,4,Hibernating,United Kingdom
+15244,55,19,2974.75,4,5,5,455,14,Champions,United Kingdom
+15245,50,13,904.17,4,5,4,454,13,Champions,United Kingdom
+15246,259,1,233.45,1,2,2,122,5,Hibernating,United Kingdom
+15247,55,3,311.57,4,3,3,433,10,Loyal Customers,Netherlands
+15248,257,1,36.77,1,2,1,121,4,Hibernating,United Kingdom
+15249,31,4,252.05,4,3,2,432,9,Loyal Customers,United Kingdom
+15250,30,3,276.72,4,3,3,433,10,Loyal Customers,United Kingdom
+15251,189,1,102.1,2,2,1,221,5,Hibernating,United Kingdom
+15252,101,9,1511.31,3,4,5,345,12,Loyal Customers,United Kingdom
+15253,31,1,119.78,4,2,2,422,8,Potential Loyalists,United Kingdom
+15254,203,7,842.01,2,4,4,244,10,At Risk,United Kingdom
+15255,309,1,7.5,1,2,1,121,4,Hibernating,United Kingdom
+15256,154,8,900.26,3,4,4,344,11,Loyal Customers,United Kingdom
+15257,9,15,3117.98,5,5,5,555,15,Champions,United Kingdom
+15258,61,8,514.11,3,4,3,343,10,Loyal Customers,United Kingdom
+15259,54,4,360.47,4,3,3,433,10,Loyal Customers,United Kingdom
+15260,240,1,20.26,1,2,1,121,4,Hibernating,United Kingdom
+15261,28,1,46.8,4,2,1,421,7,Potential Loyalists,United Kingdom
+15262,41,2,92.24,4,3,1,431,8,Loyal Customers,Germany
+15263,186,8,685.62,2,4,4,244,10,At Risk,United Kingdom
+15264,11,3,345.31,5,3,3,533,11,Loyal Customers,United Kingdom
+15265,164,6,526.66,2,4,3,243,9,At Risk,United Kingdom
+15266,232,1,18.12,1,2,1,121,4,Hibernating,United Kingdom
+15267,31,2,126.1,4,3,2,432,9,Loyal Customers,United Kingdom
+15268,42,13,873.0,4,5,4,454,13,Champions,United Kingdom
+15269,6,27,3424.29,5,5,5,555,15,Champions,United Kingdom
+15270,15,28,2256.58,5,5,5,555,15,Champions,United Kingdom
+15271,183,6,435.11,2,4,3,243,9,At Risk,United Kingdom
+15272,183,1,186.87,2,2,2,222,6,Hibernating,EIRE
+15273,37,4,1355.33,4,3,5,435,12,Loyal Customers,United Kingdom
+15274,39,1,55.15,4,2,1,421,7,Potential Loyalists,Germany
+15275,152,10,828.89,3,4,4,344,11,Loyal Customers,United Kingdom
+15276,19,17,1170.35,5,5,4,554,14,Champions,United Kingdom
+15277,331,2,228.3,1,3,2,132,6,At Risk,United Kingdom
+15278,40,19,3388.48,4,5,5,455,14,Champions,United Kingdom
+15279,18,1,338.0,5,2,3,523,10,Potential Loyalists,United Kingdom
+15280,242,5,671.28,1,4,4,144,9,At Risk,United Kingdom
+15281,189,10,1232.95,2,4,4,244,10,At Risk,United Kingdom
+15282,206,30,3947.76,2,5,5,255,12,Cannot Lose Them,Netherlands
+15283,32,1,85.25,4,2,1,421,7,Potential Loyalists,Netherlands
+15284,36,4,37.17,4,3,1,431,8,Loyal Customers,United Kingdom
+15285,22,1,76.42,5,2,1,521,8,Potential Loyalists,EIRE
+15286,53,3,745.51,4,3,4,434,11,Loyal Customers,United Kingdom
+15287,57,2,40.34,3,3,1,331,7,Need Attention,United Kingdom
+15288,90,2,231.39,3,3,2,332,8,Need Attention,United Kingdom
+15289,25,25,2079.52,5,5,5,555,15,Champions,United Kingdom
+15290,14,12,772.22,5,5,4,554,14,Champions,United Kingdom
+15291,21,2,54.37,5,3,1,531,9,Loyal Customers,United Kingdom
+15292,252,3,384.79,1,3,3,133,7,At Risk,United Kingdom
+15293,17,1,32.4,5,2,1,521,8,Potential Loyalists,United Kingdom
+15294,13,2,222.21,5,3,2,532,10,Loyal Customers,United Kingdom
+15295,224,10,1353.5,2,4,5,245,11,At Risk,United Kingdom
+15296,302,1,232.25,1,2,2,122,5,Hibernating,United Kingdom
+15297,38,11,1161.73,4,4,4,444,12,Champions,United Kingdom
+15298,16,29,3122.62,5,5,5,555,15,Champions,United Kingdom
+15299,189,5,1118.77,2,4,4,244,10,At Risk,United Kingdom
+15300,74,2,482.45,3,3,3,333,9,Need Attention,United Kingdom
+15301,29,23,790.85,4,5,4,454,13,Champions,United Kingdom
+15302,34,1,69.0,4,2,1,421,7,Potential Loyalists,Spain
+15303,60,2,21.82,3,3,1,331,7,Need Attention,United Kingdom
+15304,73,2,247.9,3,3,2,332,8,Need Attention,United Kingdom
+15305,17,4,356.64,5,3,3,533,11,Loyal Customers,United Kingdom
+15306,30,21,2319.2,4,5,5,455,14,Champions,France
+15307,216,1,22.75,2,2,1,221,5,Hibernating,France
+15308,54,1,181.8,4,2,2,422,8,Potential Loyalists,United Kingdom
+15309,80,6,496.7,3,4,3,343,10,Loyal Customers,United Kingdom
+15310,82,4,412.38,3,3,3,333,9,Need Attention,Spain
+15311,239,2,168.9,1,3,2,132,6,At Risk,United Kingdom
+15312,45,2,146.11,4,3,2,432,9,Loyal Customers,United Kingdom
+15313,33,1,24.85,4,2,1,421,7,Potential Loyalists,EIRE
+15314,20,3,198.09,5,3,2,532,10,Loyal Customers,United Kingdom
+15315,139,9,813.4,3,4,4,344,11,Loyal Customers,United Kingdom
+15316,207,6,1123.34,2,4,4,244,10,At Risk,Switzerland
+15317,32,14,1267.75,4,5,4,454,13,Champions,United Kingdom
+15318,74,2,148.42,3,3,2,332,8,Need Attention,United Kingdom
+15319,261,1,155.31,1,2,2,122,5,Hibernating,United Kingdom
+15320,202,2,63.34,2,3,1,231,6,At Risk,United Kingdom
+15321,22,14,1834.04,5,5,5,555,15,Champions,United Kingdom
+15322,317,3,437.97,1,3,3,133,7,At Risk,United Kingdom
+15323,68,10,583.02,3,4,4,344,11,Loyal Customers,United Kingdom
+15324,23,11,1607.41,5,4,5,545,14,Champions,Belgium
+15325,16,1,5.0,5,2,1,521,8,Potential Loyalists,United Kingdom
+15326,93,3,436.15,3,3,3,333,9,Need Attention,United Kingdom
+15327,60,7,1535.73,3,4,5,345,12,Loyal Customers,France
+15328,11,1,5.9,5,2,1,521,8,Potential Loyalists,United Kingdom
+15329,21,2,171.69,5,3,2,532,10,Loyal Customers,United Kingdom
+15330,224,2,127.73,2,3,2,232,7,At Risk,United Kingdom
+15331,270,2,119.95,1,3,2,132,6,At Risk,United Kingdom
+15332,29,9,1348.1,4,4,4,444,12,Champions,Portugal
+15333,219,3,329.5,2,3,3,233,8,At Risk,United Kingdom
+15334,155,1,234.55,2,2,2,222,6,Hibernating,United Kingdom
+15335,68,10,324.51,3,4,3,343,10,Loyal Customers,United Kingdom
+15336,162,11,1045.93,2,4,4,244,10,At Risk,United Kingdom
+15337,63,10,1752.45,3,4,5,345,12,Loyal Customers,United Kingdom
+15338,135,9,661.17,3,4,4,344,11,Loyal Customers,United Kingdom
+15339,31,1,153.21,4,2,2,422,8,Potential Loyalists,United Kingdom
+15340,185,16,1101.0,2,5,4,254,11,Cannot Lose Them,United Kingdom
+15341,55,3,429.89,4,3,3,433,10,Loyal Customers,United Kingdom
+15342,36,1,21.65,4,2,1,421,7,Potential Loyalists,EIRE
+15343,117,4,547.45,3,3,3,333,9,Need Attention,France
+15344,236,27,2613.7,1,5,5,155,11,Cannot Lose Them,United Kingdom
+15345,102,3,492.63,3,3,3,333,9,Need Attention,United Kingdom
+15346,139,1,203.05,3,2,2,322,7,Need Attention,United Kingdom
